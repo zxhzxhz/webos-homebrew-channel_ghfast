@@ -1,0 +1,36 @@
+name: Sync webOS Homebrew Apps
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch apps.json from source
+        run: curl -fsSL -o apps.json https://repo.webosbrew.org/api/apps.json
+
+      - name: Rewrite GitHub URLs with ghfast.top
+        run: |
+          sed -i 's|https://github\.com/|https://ghfast.top/https://github.com/|g' apps.json
+          sed -i 's|https://raw\.githubusercontent\.com/|https://ghfast.top/https://raw.githubusercontent.com/|g' apps.json
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apps.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync apps.json $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
