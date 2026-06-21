@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 41,
+    "count": 40,
     "maxPage": 1,
-    "itemsTotal": 41
+    "itemsTotal": 40
   },
   "packages": [
     {
@@ -515,37 +515,6 @@
       "pool": "main",
       "shortDescription": "A webOS client to connect to a Jellyfin Server instance and stream media.",
       "fullDescriptionUrl": "apps/org.jellyfin.webos/full_description.html"
-    },
-    {
-      "id": "org.xbmc.kodi",
-      "title": "Kodi",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
-      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.0.0.json",
-      "manifest": {
-        "id": "org.xbmc.kodi",
-        "title": "Kodi",
-        "version": "21.0.0",
-        "type": "native",
-        "appDescription": null,
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/xbmc/xbmc",
-        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_21.0.ipk",
-        "ipkHash": {
-          "sha256": "b8ac326df8ad7cf0b52e4f816ab7c39c95410254b1bc3b9b3d024035ecec58ff"
-        },
-        "ipkSize": 92633392,
-        "installedSize": 233989054
-      },
-      "pool": "main",
-      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/xbmc/xbmc/master/media/icon256x256.png",
-      "requirements": {
-        "webosRelease": ">=4.0",
-        "deviceSoC": [
-          "!k5lp"
-        ]
-      },
-      "shortDescription": null,
-      "fullDescriptionUrl": "apps/org.xbmc.kodi/full_description.html"
     },
     {
       "id": "org.webosbrew.appupdateblocker",
