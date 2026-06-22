@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 40,
+    "count": 41,
     "maxPage": 1,
-    "itemsTotal": 40
+    "itemsTotal": 41
   },
   "packages": [
     {
@@ -106,21 +106,21 @@
       "id": "com.biliwebos.app",
       "title": "BiliTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.7/com.biliwebos.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.8/com.biliwebos.app.manifest.json",
       "manifest": {
         "id": "com.biliwebos.app",
-        "version": "1.1.7",
+        "version": "1.1.8",
         "type": "web",
         "title": "BiliTV",
         "appDescription": "Bilibili client for webOS TV",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.7/com.biliwebos.app_1.1.7_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.8/com.biliwebos.app_1.1.8_all.ipk",
         "ipkHash": {
-          "sha256": "b2e3919576d949e73eb3bb7844b33b208473962598c2d15b3e3c04b8130766de"
+          "sha256": "5a9e002fe550d99d9319512ef96c710d0df17827fa501f35ef17a59dd6f5f1db"
         },
-        "ipkSize": 393166
+        "ipkSize": 393216
       },
       "pool": "main",
       "shortDescription": "Bilibili client for webOS TV",
@@ -515,6 +515,37 @@
       "pool": "main",
       "shortDescription": "A webOS client to connect to a Jellyfin Server instance and stream media.",
       "fullDescriptionUrl": "apps/org.jellyfin.webos/full_description.html"
+    },
+    {
+      "id": "org.xbmc.kodi",
+      "title": "Kodi",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
+      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.0.0.json",
+      "manifest": {
+        "id": "org.xbmc.kodi",
+        "title": "Kodi",
+        "version": "21.0.0",
+        "type": "native",
+        "appDescription": null,
+        "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/xbmc/xbmc",
+        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_21.0.ipk",
+        "ipkHash": {
+          "sha256": "b8ac326df8ad7cf0b52e4f816ab7c39c95410254b1bc3b9b3d024035ecec58ff"
+        },
+        "ipkSize": 92633392,
+        "installedSize": 233989054
+      },
+      "pool": "main",
+      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/xbmc/xbmc/master/media/icon256x256.png",
+      "requirements": {
+        "webosRelease": ">=4.0",
+        "deviceSoC": [
+          "!k5lp"
+        ]
+      },
+      "shortDescription": null,
+      "fullDescriptionUrl": "apps/org.xbmc.kodi/full_description.html"
     },
     {
       "id": "org.webosbrew.appupdateblocker",
