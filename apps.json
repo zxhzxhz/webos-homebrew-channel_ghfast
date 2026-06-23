@@ -106,21 +106,21 @@
       "id": "com.biliwebos.app",
       "title": "BiliTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.8/com.biliwebos.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.9/com.biliwebos.app.manifest.json",
       "manifest": {
         "id": "com.biliwebos.app",
-        "version": "1.1.8",
+        "version": "1.1.9",
         "type": "web",
         "title": "BiliTV",
         "appDescription": "Bilibili client for webOS TV",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.8/com.biliwebos.app_1.1.8_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.9/com.biliwebos.app_1.1.9_all.ipk",
         "ipkHash": {
-          "sha256": "5a9e002fe550d99d9319512ef96c710d0df17827fa501f35ef17a59dd6f5f1db"
+          "sha256": "6399d9a0d7b03307465b3e6a62d14aee582976bea52aa1782f62d02406ee763e"
         },
-        "ipkSize": 393216
+        "ipkSize": 394030
       },
       "pool": "main",
       "shortDescription": "Bilibili client for webOS TV",
@@ -471,21 +471,21 @@
       "id": "com.seeky91.immichtv",
       "title": "Immich TV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.2.3/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.2.4/manifest.json",
       "manifest": {
         "id": "com.seeky91.immichtv",
         "title": "Immich TV",
-        "version": "1.2.3",
+        "version": "1.2.4",
         "type": "web",
         "appDescription": "Read-only Immich photo & video client for LG webOS TVs",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.2.3/com.seeky91.immichtv_1.2.3_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.2.4/com.seeky91.immichtv_1.2.4_all.ipk",
         "ipkHash": {
-          "sha256": "62ce7724c5c3f83ed29fcb05d169d82e09285342c05cf2958a2737d4fc7a97b2"
+          "sha256": "3bab4785376d5a9e270b6ef1da2e628e994d64268990ee5a28691802928a6cee"
         },
-        "ipkSize": 14498246
+        "ipkSize": 2411890
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/Seeky91/immich-tv-webos/main/assets/icon-source.png",
@@ -520,21 +520,21 @@
       "id": "org.xbmc.kodi",
       "title": "Kodi",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
-      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.0.0.json",
+      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.90.801.json",
       "manifest": {
         "id": "org.xbmc.kodi",
         "title": "Kodi",
-        "version": "21.0.0",
+        "version": "21.90.801",
         "type": "native",
         "appDescription": null,
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
         "sourceUrl": "https://ghfast.top/https://github.com/xbmc/xbmc",
-        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_21.0.ipk",
+        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_22.0~b1.ipk",
         "ipkHash": {
-          "sha256": "b8ac326df8ad7cf0b52e4f816ab7c39c95410254b1bc3b9b3d024035ecec58ff"
+          "sha256": "6b9543a70479f964040fe0caa17c656283b6f64908a1684caaffbd0a2a7453b6"
         },
-        "ipkSize": 92633392,
-        "installedSize": 233989054
+        "ipkSize": 95459848,
+        "installedSize": 245086552
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/xbmc/xbmc/master/media/icon256x256.png",
