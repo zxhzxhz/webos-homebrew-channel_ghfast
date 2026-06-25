@@ -106,21 +106,21 @@
       "id": "com.biliwebos.app",
       "title": "BiliTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.10/com.biliwebos.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.11/com.biliwebos.app.manifest.json",
       "manifest": {
         "id": "com.biliwebos.app",
-        "version": "1.1.10",
+        "version": "1.1.11",
         "type": "web",
         "title": "BiliTV",
         "appDescription": "Bilibili client for webOS TV",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.10/com.biliwebos.app_1.1.10_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.11/com.biliwebos.app_1.1.11_all.ipk",
         "ipkHash": {
-          "sha256": "1d513affba2b5395d306c46eec52e1d951a88a9594b23a3b538957a71b9108bd"
+          "sha256": "8ba43b44f40f9c54b8cd4f6b6f1614e961f99bea423483783ce4c39f5eb38f65"
         },
-        "ipkSize": 394078
+        "ipkSize": 417040
       },
       "pool": "main",
       "shortDescription": "Bilibili client for webOS TV",
@@ -399,21 +399,21 @@
       "id": "org.webosbrew.hyperion.ng.loader",
       "title": "Hyperion.NG",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hyperion.ng.loader.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader/releases/download/latest/org.webosbrew.hyperion.ng.loader.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperion.ng.loader.manifest.json",
       "manifest": {
         "id": "org.webosbrew.hyperion.ng.loader",
-        "version": "2.2.1",
+        "version": "0.1.11",
         "type": "web",
         "title": "Hyperion.NG",
         "appDescription": "Hyperion.NG for WebOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hyperion.ng.loader.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader/releases/download/latest/org.webosbrew.hyperion.ng.loader_2.2.1_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperion.ng.loader_0.1.11_all.ipk",
         "ipkHash": {
-          "sha256": "764fae9fc3fe53ca4b295f0a0b9c2cebc7b0d5ab40b061a34e8b293abfaf2f2e"
+          "sha256": "6b1bac6c9a3ea6ce7e362bcef5e54656f0ff54a03eed0b25ba42e5f80c338f42"
         },
-        "ipkSize": 33354960
+        "ipkSize": 27182462
       },
       "pool": "main",
       "shortDescription": "Hyperion.NG for WebOS",
