@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 41,
+    "count": 42,
     "maxPage": 1,
-    "itemsTotal": 41
+    "itemsTotal": 42
   },
   "packages": [
     {
@@ -954,6 +954,33 @@
       "pool": "main",
       "shortDescription": "OpenVPN Client with control UI.",
       "fullDescriptionUrl": "apps/com.sk.app.lgtv-vpn/full_description.html"
+    },
+    {
+      "id": "org.webosbrew.bridge-64to32",
+      "title": "webOS 64-bit bridge",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.2/org.webosbrew.bridge-64to32.manifest.json",
+      "manifest": {
+        "id": "org.webosbrew.bridge-64to32",
+        "version": "0.0.2",
+        "type": "native",
+        "title": "64 to 32-bit Bridge",
+        "appDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.2/org.webosbrew.bridge-64to32_aarch64_v0.0.2.ipk",
+        "ipkHash": {
+          "sha256": "7eefb78680aaa827a86f112374c748779f80bca855be303708e5ec7a424a8334"
+        },
+        "ipkSize": 14751902,
+        "installedSize": 34207726
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.5"
+      },
+      "shortDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
+      "fullDescriptionUrl": "apps/org.webosbrew.bridge-64to32/full_description.html"
     },
     {
       "id": "com.willinux.tvh.app",
