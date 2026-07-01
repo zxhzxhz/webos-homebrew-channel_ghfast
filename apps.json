@@ -154,21 +154,21 @@
       "id": "com.breezyfin.app",
       "title": "Breezyfin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.breezyfin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/botagas/Breezyfin/releases/download/v0.1.8/com.breezyfin.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/botagas/Breezyfin/releases/download/v0.1.9/com.breezyfin.app.manifest.json",
       "manifest": {
         "id": "com.breezyfin.app",
-        "version": "0.1.8",
+        "version": "0.1.9",
         "type": "web",
         "title": "Breezyfin",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.breezyfin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/botagas/Breezyfin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/botagas/Breezyfin/releases/download/v0.1.8/com.breezyfin.app_0.1.8_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/botagas/Breezyfin/releases/download/v0.1.9/com.breezyfin.app_0.1.9_all.ipk",
         "ipkHash": {
-          "sha256": "e6da6786211c84c79965ae467a1b3e001417a519109bad5e128353ec694c06c5"
+          "sha256": "059fbc7ca20c243862c275e9ca0b92fdefaacbfd6249a73b4b2eb2fc5b0ae812"
         },
         "appDescription": "Jellyfin client for LG webOS TVs, built with Enact Sandstone.",
-        "ipkSize": 14636726
+        "ipkSize": 19059278
       },
       "pool": "main",
       "requirements": {
