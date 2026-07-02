@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 41,
+    "count": 42,
     "maxPage": 1,
-    "itemsTotal": 41
+    "itemsTotal": 42
   },
   "packages": [
     {
@@ -981,6 +981,29 @@
       },
       "shortDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
       "fullDescriptionUrl": "apps/org.webosbrew.bridge-64to32/full_description.html"
+    },
+    {
+      "id": "com.willinux.tvh.app",
+      "title": "WebOS TVHeadend Client",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.willinux.tvh.app.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/willinuX-code/webos-tvheadend/releases/download/0.8.4/com.willinux.tvh.app.manifest.json",
+      "manifest": {
+        "id": "com.willinux.tvh.app",
+        "version": "0.8.4",
+        "type": "web",
+        "title": "TVheadend Client",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.willinux.tvh.app.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/willinuX-code/webos-tvheadend",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/willinuX-code/webos-tvheadend/releases/download/0.8.4/com.willinux.tvh.app_0.8.4_all.ipk",
+        "ipkHash": {
+          "sha256": "0f738475df2b78748ea4e7e52c0e046d51e380fba3fe66419346f34d5720f2f0"
+        },
+        "ipkSize": 1715254
+      },
+      "pool": "main",
+      "shortDescription": null,
+      "fullDescriptionUrl": "apps/com.willinux.tvh.app/full_description.html"
     },
     {
       "id": "youtube.leanback.v4",
