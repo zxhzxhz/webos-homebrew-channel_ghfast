@@ -106,21 +106,21 @@
       "id": "com.biliwebos.app",
       "title": "BiliTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.23/com.biliwebos.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.2.0/com.biliwebos.app.manifest.json",
       "manifest": {
         "id": "com.biliwebos.app",
-        "version": "1.1.23",
+        "version": "1.2.0",
         "type": "web",
         "title": "BiliTV",
         "appDescription": "Bilibili client for webOS TV",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.1.23/com.biliwebos.app_1.1.23_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.2.0/com.biliwebos.app_1.2.0_all.ipk",
         "ipkHash": {
-          "sha256": "af8875224b7db3cc18c03d21dcc12611aadb4c6c8a2381be99a3e749bcc4d5e4"
+          "sha256": "15d1acd7b6dba04928468688ded6ef874621750ea0e33e005e8ca7bb79cc3a90"
         },
-        "ipkSize": 414752
+        "ipkSize": 425764
       },
       "pool": "main",
       "shortDescription": "Bilibili client for webOS TV",
@@ -471,21 +471,21 @@
       "id": "com.seeky91.immichtv",
       "title": "Immich TV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.2.4/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.3.0/manifest.json",
       "manifest": {
         "id": "com.seeky91.immichtv",
         "title": "Immich TV",
-        "version": "1.2.4",
+        "version": "1.3.0",
         "type": "web",
         "appDescription": "Read-only Immich photo & video client for LG webOS TVs",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.2.4/com.seeky91.immichtv_1.2.4_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.3.0/com.seeky91.immichtv_1.3.0_all.ipk",
         "ipkHash": {
-          "sha256": "3bab4785376d5a9e270b6ef1da2e628e994d64268990ee5a28691802928a6cee"
+          "sha256": "4a9bd344a8f73582e0962c199436a256c4000ac37614ae243029707b625d0f5b"
         },
-        "ipkSize": 2411890
+        "ipkSize": 2412424
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/Seeky91/immich-tv-webos/main/assets/icon-source.png",
@@ -959,21 +959,21 @@
       "id": "org.webosbrew.bridge-64to32",
       "title": "webOS 64-bit bridge",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.2/org.webosbrew.bridge-64to32.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.3/org.webosbrew.bridge-64to32.manifest.json",
       "manifest": {
         "id": "org.webosbrew.bridge-64to32",
-        "version": "0.0.2",
+        "version": "0.0.3",
         "type": "native",
         "title": "64 to 32-bit Bridge",
         "appDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32",
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.2/org.webosbrew.bridge-64to32_aarch64_v0.0.2.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.3/org.webosbrew.bridge-64to32_aarch64_v0.0.3.ipk",
         "ipkHash": {
-          "sha256": "7eefb78680aaa827a86f112374c748779f80bca855be303708e5ec7a424a8334"
+          "sha256": "c332e27a5ef92747f0388f4f9e604c8463fcb98708233cda09509da46587436a"
         },
-        "ipkSize": 14751902,
-        "installedSize": 34207726
+        "ipkSize": 14836038,
+        "installedSize": 34402337
       },
       "pool": "main",
       "requirements": {
