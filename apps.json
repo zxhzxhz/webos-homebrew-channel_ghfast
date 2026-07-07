@@ -106,21 +106,21 @@
       "id": "com.biliwebos.app",
       "title": "BiliTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.2.5/com.biliwebos.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.2.7/com.biliwebos.app.manifest.json",
       "manifest": {
         "id": "com.biliwebos.app",
-        "version": "1.2.5",
+        "version": "1.2.7",
         "type": "web",
         "title": "BiliTV",
         "appDescription": "Bilibili client for webOS TV",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.2.5/com.biliwebos.app_1.2.5_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.2.7/com.biliwebos.app_1.2.7_all.ipk",
         "ipkHash": {
-          "sha256": "5290e10a1c484a8ac38621a2358d7f5f3e79eaf09f64ca6df1f2e595eb0a84a2"
+          "sha256": "21afd4a30524d1178e5883bf34ddaa30be1be7dda6ef4b0b445dc911896f72a1"
         },
-        "ipkSize": 426864
+        "ipkSize": 427388
       },
       "pool": "main",
       "shortDescription": "Bilibili client for webOS TV",
@@ -723,21 +723,21 @@
       "id": "org.webosbrew.piccap",
       "title": "PicCap - Hyperion Sender App",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.piccap.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/TBSniller/piccap/releases/download/0.5.2/org.webosbrew.piccap.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/TBSniller/piccap/releases/download/0.5.3/org.webosbrew.piccap.manifest.json",
       "manifest": {
         "id": "org.webosbrew.piccap",
-        "version": "0.5.2",
+        "version": "0.5.3",
         "type": "web",
         "title": "PicCap",
         "appDescription": "Hyperion Sender App - Ambilight for WebOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.piccap.png",
         "sourceUrl": "https://ghfast.top/https://github.com/TBSniller/piccap",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/TBSniller/piccap/releases/download/0.5.2/org.webosbrew.piccap_0.5.2_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/TBSniller/piccap/releases/download/0.5.3/org.webosbrew.piccap_0.5.3_all.ipk",
         "ipkHash": {
-          "sha256": "2059b84e714c06afdd6ed40688b337f341a44fc9de6d8bee4562dbdfec381721"
+          "sha256": "sha256:ad6b06766cea01dbe8ea0ac9dbbbd9c1a6c030e72df6cd96214199f50d38e486"
         },
-        "ipkSize": 1014848
+        "ipkSize": 1015078
       },
       "pool": "main",
       "shortDescription": "Hyperion Sender App - Ambilight for WebOS",
