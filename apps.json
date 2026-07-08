@@ -471,21 +471,21 @@
       "id": "com.immich.webos",
       "title": "Immich",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.immich.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.9.6/com.immich.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.9.7/com.immich.webos.manifest.json",
       "manifest": {
         "id": "com.immich.webos",
-        "version": "0.9.6",
+        "version": "0.9.7",
         "type": "web",
         "title": "Immich",
         "appDescription": "Browse your self-hosted Immich photo and video library on webOS TV.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.immich.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.9.6/com.immich.webos.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.9.7/com.immich.webos.ipk",
         "ipkHash": {
-          "sha256": "658ec39e6bedffb1f7b4bc7ddcead9985f256f5340fe5f01044795eb732b812b"
+          "sha256": "c14d73e84050811f9f6529e229f1151b84622af2457f547dd365f7b8904c3282"
         },
-        "ipkSize": 640538
+        "ipkSize": 640796
       },
       "pool": "main",
       "requirements": {
