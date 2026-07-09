@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 43,
+    "count": 44,
     "maxPage": 1,
-    "itemsTotal": 43
+    "itemsTotal": 44
   },
   "packages": [
     {
@@ -1008,6 +1008,33 @@
       },
       "shortDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
       "fullDescriptionUrl": "apps/org.webosbrew.bridge-64to32/full_description.html"
+    },
+    {
+      "id": "com.github.gprot42.webosterminal",
+      "title": "webOS Terminal",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.11/com.github.gprot42.webosterminal.manifest.json",
+      "manifest": {
+        "id": "com.github.gprot42.webosterminal",
+        "version": "0.0.11",
+        "type": "web",
+        "title": "webOS Terminal",
+        "appDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal",
+        "rootRequired": true,
+        "ipkUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.11/com.github.gprot42.webosterminal_0.0.11_all.ipk",
+        "ipkHash": {
+          "sha256": "fb26dca704ee8440e92e8dfe2848bf20d507eaa44ea0ab9f9b5817e2f60ef6fd"
+        },
+        "ipkSize": 9154506
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "shortDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
+      "fullDescriptionUrl": "apps/com.github.gprot42.webosterminal/full_description.html"
     },
     {
       "id": "com.willinux.tvh.app",
