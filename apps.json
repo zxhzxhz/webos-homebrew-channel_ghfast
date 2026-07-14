@@ -498,21 +498,21 @@
       "id": "com.seeky91.immichtv",
       "title": "Immich TV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.4.0/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.0/manifest.json",
       "manifest": {
         "id": "com.seeky91.immichtv",
         "title": "Immich TV",
-        "version": "1.4.0",
+        "version": "1.5.0",
         "type": "web",
         "appDescription": "Read-only Immich photo & video client for LG webOS TVs",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.4.0/com.seeky91.immichtv_1.4.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.0/com.seeky91.immichtv_1.5.0_all.ipk",
         "ipkHash": {
-          "sha256": "03c46a2134a1f502f7f591a32f6b5861ef5c72b1ee13be10a57a355c64ef1606"
+          "sha256": "f83b3533090e8dbcf5d5ed6fac4f8a24eb910c5a3e832c1df67569bde4f65a9e"
         },
-        "ipkSize": 2433686
+        "ipkSize": 2435112
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/Seeky91/immich-tv-webos/main/assets/icon-source.png",
@@ -1013,25 +1013,25 @@
       "id": "com.github.gprot42.webosterminal",
       "title": "webOS Terminal",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.11/com.github.gprot42.webosterminal.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.12/com.github.gprot42.webosterminal.manifest.json",
       "manifest": {
         "id": "com.github.gprot42.webosterminal",
-        "version": "0.0.11",
+        "version": "0.0.12",
         "type": "web",
         "title": "webOS Terminal",
         "appDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
         "sourceUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.11/com.github.gprot42.webosterminal_0.0.11_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.12/com.github.gprot42.webosterminal_0.0.12_all.ipk",
         "ipkHash": {
-          "sha256": "fb26dca704ee8440e92e8dfe2848bf20d507eaa44ea0ab9f9b5817e2f60ef6fd"
+          "sha256": "9467e614c1f506fb5562706d77a65d749a77ce87565922a7883661a9d8e0c4b3"
         },
-        "ipkSize": 9154506
+        "ipkSize": 1739668
       },
       "pool": "main",
       "requirements": {
-        "webosRelease": ">=4.0"
+        "webosRelease": ">=1.0"
       },
       "shortDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
       "fullDescriptionUrl": "apps/com.github.gprot42.webosterminal/full_description.html"
