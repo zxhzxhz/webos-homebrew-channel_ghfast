@@ -498,21 +498,21 @@
       "id": "com.seeky91.immichtv",
       "title": "Immich TV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.2/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.3/manifest.json",
       "manifest": {
         "id": "com.seeky91.immichtv",
         "title": "Immich TV",
-        "version": "1.5.2",
+        "version": "1.5.3",
         "type": "web",
         "appDescription": "Read-only Immich photo & video client for LG webOS TVs",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.2/com.seeky91.immichtv_1.5.2_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.3/com.seeky91.immichtv_1.5.3_all.ipk",
         "ipkHash": {
-          "sha256": "a4f83cabccc017084feaaaaf5c7ce45cd31f3441439f8953c852b4dab0c0f02f"
+          "sha256": "9cb0099f8ac5ca982acecb302321af3a119e5d8e091a28538bd9ab985db314ad"
         },
-        "ipkSize": 2435026
+        "ipkSize": 2435092
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/Seeky91/immich-tv-webos/main/assets/icon-source.png",
