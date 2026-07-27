@@ -253,21 +253,21 @@
       "id": "com.crunchyroll.stream.app",
       "title": "Crunchyroll Stream",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.crunchyroll.stream.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/releases/download/v2.1.4/org.webosbrew.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/releases/download/v2.2.0/org.webosbrew.manifest.json",
       "manifest": {
         "id": "com.crunchyroll.stream.app",
-        "version": "2.1.4",
+        "version": "2.2.0",
         "type": "web",
         "title": "Crunchyroll Stream",
         "appDescription": "Unofficial Crunchyroll app for LG Smart TVs.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.crunchyroll.stream.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/releases/download/v2.1.4/com.crunchyroll.stream.app_2.1.4_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/releases/download/v2.2.0/com.crunchyroll.stream.app_2.2.0_all.ipk",
         "ipkHash": {
-          "sha256": "47a3854bdb4b0fefb539101af36852ab81897431fed3cac669823c86826cb06e"
+          "sha256": "7a135f970814aea26f559b41940c5ed0d419cfbf1b59d0557bffb744f0397dc6"
         },
-        "ipkSize": 3083936
+        "ipkSize": 3028472
       },
       "pool": "main",
       "shortDescription": "Unofficial Crunchyroll app for LG Smart TVs.",
