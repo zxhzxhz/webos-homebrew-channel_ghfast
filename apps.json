@@ -771,21 +771,21 @@
       "id": "io.dyptan.punktfunk.webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.10.1/io.dyptan.punktfunk.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.10.2/io.dyptan.punktfunk.webos.manifest.json",
       "manifest": {
         "id": "io.dyptan.punktfunk.webos",
-        "version": "0.10.1",
+        "version": "0.10.2",
         "type": "native",
         "title": "punktfunk",
         "appDescription": "punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.10.1/io.dyptan.punktfunk.webos_0.10.1_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.10.2/io.dyptan.punktfunk.webos_0.10.2_arm.ipk",
         "ipkHash": {
-          "sha256": "304b879186f7cf5bf7731f23056b6f9d39f46d106368181e654454cc165553a0"
+          "sha256": "23c361f3eae249771f92f063b3baff6c7df2263b8038922629e3aecced1097ec"
         },
-        "ipkSize": 3871690
+        "ipkSize": 3872024
       },
       "pool": "main",
       "requirements": {
