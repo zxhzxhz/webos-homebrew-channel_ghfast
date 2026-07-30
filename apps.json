@@ -99,6 +99,9 @@
         "installedSize": 201013
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/com.pirate.refresh/full_description.html"
     },
@@ -123,6 +126,9 @@
         "ipkSize": 449832
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "Bilibili client for webOS TV",
       "fullDescriptionUrl": "apps/com.biliwebos.app/full_description.html"
     },
@@ -197,6 +203,9 @@
         "ipkSize": 512632
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
       "shortDescription": "media.ccc.de library application (EXPERIMENTAL)",
       "fullDescriptionUrl": "apps/org.webosbrew.cccbib/full_description.html"
     },
@@ -246,6 +255,9 @@
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mateussouzaweb/crunchyroll-webos/v1.8.0/src/images/512px.png",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
       "shortDescription": "Unofficial Crunchyroll app for WebOS TV",
       "fullDescriptionUrl": "apps/com.crunchyroll.webos/full_description.html"
     },
@@ -270,6 +282,9 @@
         "ipkSize": 3028472
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "Unofficial Crunchyroll app for LG Smart TVs.",
       "fullDescriptionUrl": "apps/com.crunchyroll.stream.app/full_description.html"
     },
@@ -392,6 +407,9 @@
         "ipkSize": 39717300
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
       "shortDescription": "HyperHDR for WebOS",
       "fullDescriptionUrl": "apps/org.webosbrew.hyperhdr.loader/full_description.html"
     },
@@ -416,6 +434,9 @@
         "ipkSize": 27182462
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
       "shortDescription": "Hyperion.NG for WebOS",
       "fullDescriptionUrl": "apps/org.webosbrew.hyperion.ng.loader/full_description.html"
     },
@@ -445,7 +466,7 @@
     },
     {
       "id": "org.mariotaku.ihsplay",
-      "title": "IHSplay - App for Steam Link",
+      "title": "IHSplay",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.mariotaku.ihsplay.png",
       "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/ihsplay/releases/download/v0.2.12/org.mariotaku.ihsplay.manifest.json",
       "manifest": {
@@ -464,7 +485,7 @@
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/ihsplay/master/deploy/webos/largeIcon.png",
-      "shortDescription": null,
+      "shortDescription": "SDL2-based Steam Link client for webOS TV",
       "fullDescriptionUrl": "apps/org.mariotaku.ihsplay/full_description.html"
     },
     {
@@ -516,6 +537,9 @@
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/Seeky91/immich-tv-webos/main/assets/icon-source.png",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "Read-only Immich photo & video client for LG webOS TVs",
       "fullDescriptionUrl": "apps/com.seeky91.immichtv/full_description.html"
     },
@@ -540,6 +564,9 @@
         "ipkSize": 161556
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "A webOS client to connect to a Jellyfin Server instance and stream media.",
       "fullDescriptionUrl": "apps/org.jellyfin.webos/full_description.html"
     },
@@ -571,7 +598,7 @@
           "!k5lp"
         ]
       },
-      "shortDescription": null,
+      "shortDescription": "Award-winning free and open source home theater/media center software",
       "fullDescriptionUrl": "apps/org.xbmc.kodi/full_description.html"
     },
     {
@@ -595,6 +622,9 @@
         "ipkSize": 75638
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "LG App Update Blocker - Let you run apps without being forced to update",
       "fullDescriptionUrl": "apps/org.webosbrew.appupdateblocker/full_description.html"
     },
@@ -643,6 +673,9 @@
         "ipkSize": 3300710
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "Native Jellyfin client for WebOS",
       "fullDescriptionUrl": "apps/org.litefin.app/full_description.html"
     },
@@ -667,6 +700,9 @@
         "ipkSize": 4129688
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
       "fullDescriptionUrl": "apps/org.moonfin.webos/full_description.html"
     },
@@ -740,6 +776,9 @@
         "ipkSize": 1015078
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
       "shortDescription": "Hyperion Sender App - Ambilight for WebOS",
       "fullDescriptionUrl": "apps/org.webosbrew.piccap/full_description.html"
     },
@@ -839,6 +878,9 @@
         "ipkSize": 2109888
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=7.0"
+      },
       "shortDescription": "Cinema-inspired Music Assistant player for LG webOS TVs. Features dynamic album art theming, smooth progress tracking, and remote-optimized controls.",
       "fullDescriptionUrl": "apps/com.sendspin.cinema/full_description.html"
     },
@@ -887,6 +929,9 @@
         "ipkSize": 14923906
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "Force the TV sound mode to stay on the one you want",
       "fullDescriptionUrl": "apps/eu.depau.webos.soundmodefix/full_description.html"
     },
@@ -911,6 +956,9 @@
         "ipkSize": 300004
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
       "shortDescription": "Minimal streaming.media.ccc.de player application (EXPERIMENTAL)",
       "fullDescriptionUrl": "apps/org.webosbrew.streamkatze/full_description.html"
     },
@@ -935,6 +983,9 @@
         "ipkSize": 643392
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=7.0"
+      },
       "shortDescription": "A web-based Subsonic music player.",
       "fullDescriptionUrl": "apps/com.subsonic.player/full_description.html"
     },
@@ -958,6 +1009,9 @@
         "ipkSize": 335812
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/twitch.adamffdev.v1/full_description.html"
     },
@@ -982,6 +1036,9 @@
         "ipkSize": 2162768
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
       "shortDescription": "webOS VNC Server",
       "fullDescriptionUrl": "apps/org.webosbrew.vncserver/full_description.html"
     },
@@ -1006,6 +1063,9 @@
         "ipkSize": 1454286
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": "OpenVPN Client with control UI.",
       "fullDescriptionUrl": "apps/com.sk.app.lgtv-vpn/full_description.html"
     },
@@ -1083,6 +1143,9 @@
         "ipkSize": 1715254
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/com.willinux.tvh.app/full_description.html"
     },
