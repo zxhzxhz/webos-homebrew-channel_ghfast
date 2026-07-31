@@ -656,21 +656,21 @@
       "id": "org.litefin.app",
       "title": "Litefin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.litefin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v1.5.0/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v1.5.1/manifest.json",
       "manifest": {
         "id": "org.litefin.app",
-        "version": "1.5.0",
+        "version": "1.5.1",
         "type": "web",
         "title": "Litefin",
         "appDescription": "Native Jellyfin client for WebOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.litefin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v1.5.0/Litefin-1.5.0-webOS-Legacy.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v1.5.1/Litefin-1.5.1-webOS-Legacy.ipk",
         "ipkHash": {
-          "sha256": "dfbaffcdc06327d4b5df5cc7de4180985bde2530507487925e5c7ebbf0b198ba"
+          "sha256": "96f1ab696d020fb1c2f700c4b36083c83865d91d6464b78006ae90aa4c3dedc7"
         },
-        "ipkSize": 3689382
+        "ipkSize": 3738100
       },
       "pool": "main",
       "requirements": {
@@ -683,21 +683,21 @@
       "id": "org.moonfin.webos",
       "title": "Moonfin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.6.0/org.moonfin.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.7.0/org.moonfin.webos.manifest.json",
       "manifest": {
         "id": "org.moonfin.webos",
-        "version": "2.6.0",
+        "version": "2.7.0",
         "type": "web",
         "title": "Moonfin",
         "appDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.6.0/Moonfin_webOS_2.6.0.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.7.0/Moonfin_webOS_2.7.0.ipk",
         "ipkHash": {
-          "sha256": "e9d538e49fec48688e0cf4115f35f77189594a69954963335c7886ca845ca349"
+          "sha256": "1626ee3e995366701c7cc02d09b125fb23b6a063bb3bf4ce7c1a2451cb5422fa"
         },
-        "ipkSize": 4129688
+        "ipkSize": 4251412
       },
       "pool": "main",
       "requirements": {
@@ -810,21 +810,21 @@
       "id": "io.dyptan.punktfunk.webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.10.4/io.dyptan.punktfunk.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.11.0/io.dyptan.punktfunk.webos.manifest.json",
       "manifest": {
         "id": "io.dyptan.punktfunk.webos",
-        "version": "0.10.4",
+        "version": "0.11.0",
         "type": "native",
         "title": "punktfunk",
         "appDescription": "punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.10.4/io.dyptan.punktfunk.webos_0.10.4_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.11.0/io.dyptan.punktfunk.webos_0.11.0_arm.ipk",
         "ipkHash": {
-          "sha256": "0a70c52de906ff4f38c6b8d0e9f473bfb101cbbe3d23c2e1eaff5093e7cffde1"
+          "sha256": "ceea6056b614c5d4a085b961393cd4bd184b293ae5338234a1c583dd25bde2f0"
         },
-        "ipkSize": 3879704
+        "ipkSize": 3930046
       },
       "pool": "main",
       "requirements": {
