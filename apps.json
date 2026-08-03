@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 45,
+    "count": 46,
     "maxPage": 1,
-    "itemsTotal": 45
+    "itemsTotal": 46
   },
   "packages": [
     {
@@ -338,6 +338,33 @@
       },
       "shortDescription": "Native decoder benchmark for rooted LG webOS TVs.",
       "fullDescriptionUrl": "apps/io.github.beatcracker.decoderbench/full_description.html"
+    },
+    {
+      "id": "com.cheerchen.decotv",
+      "title": "DecoTV",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.1/com.cheerchen.decotv.manifest.json",
+      "manifest": {
+        "id": "com.cheerchen.decotv",
+        "version": "0.5.1",
+        "type": "web",
+        "title": "DecoTV",
+        "appDescription": "DecoTV client for webOS \u2014 self-hosted server required",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.1/com.cheerchen.decotv_0.5.1_all.ipk",
+        "ipkHash": {
+          "sha256": "6373b4f8e225979f0ecd11c9d9441608cd9f458ec7c39b6d6f8bc64dafcad20d"
+        },
+        "ipkSize": 226124
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=7.0"
+      },
+      "shortDescription": "DecoTV client for webOS \u2014 self-hosted server required",
+      "fullDescriptionUrl": "apps/com.cheerchen.decotv/full_description.html"
     },
     {
       "id": "org.webosbrew.hbchannel",
