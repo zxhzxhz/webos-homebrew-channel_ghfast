@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 47,
+    "count": 46,
     "maxPage": 1,
-    "itemsTotal": 47
+    "itemsTotal": 46
   },
   "packages": [
     {
@@ -837,27 +837,28 @@
       "id": "io.dyptan.punktfunk.webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.13.0/io.dyptan.punktfunk.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.14.1/io.dyptan.punktfunk.webos.manifest.json",
       "manifest": {
         "id": "io.dyptan.punktfunk.webos",
-        "version": "0.13.0",
+        "version": "0.14.1",
         "type": "native",
-        "title": "punktfunk",
-        "appDescription": "punktfunk \u2014 low-latency desktop/game streaming client",
+        "title": "Punktfunk",
+        "appDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.13.0/io.dyptan.punktfunk.webos_0.13.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.14.1/io.dyptan.punktfunk.webos_0.14.1_arm.ipk",
         "ipkHash": {
-          "sha256": "3b9328b091b1036331e9903c9015b0eb3b8d499898955e0c6d0b4df0a0c53f1e"
+          "sha256": "8f4dafd346e9b73e2a048978e60210bf671ad74c9adf0b11d6df4a1abd021385"
         },
-        "ipkSize": 3925272
+        "ipkSize": 3965014,
+        "installedSize": 8686523
       },
       "pool": "main",
       "requirements": {
         "webosRelease": ">=5"
       },
-      "shortDescription": "punktfunk \u2014 low-latency desktop/game streaming client",
+      "shortDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
       "fullDescriptionUrl": "apps/io.dyptan.punktfunk.webos/full_description.html"
     },
     {
@@ -1175,29 +1176,6 @@
       },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/com.willinux.tvh.app/full_description.html"
-    },
-    {
-      "id": "org.wireguard",
-      "title": "WireGuard VPN",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.wireguard.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard/releases/download/v1.0.0/org.wireguard.manifest.json",
-      "manifest": {
-        "id": "org.wireguard",
-        "version": "1.0.0",
-        "type": "web",
-        "title": "WireGuard VPN",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.wireguard.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard/releases/download/v1.0.0/org.wireguard_1.0.0_all.ipk",
-        "ipkSize": 3756694
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": null,
-      "fullDescriptionUrl": "apps/org.wireguard/full_description.html"
     },
     {
       "id": "youtube.leanback.v4",
