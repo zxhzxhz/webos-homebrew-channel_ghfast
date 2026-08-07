@@ -71,7 +71,7 @@
         "ipkHash": {
           "sha256": "1dab0df6a9d35b44c1753994f9a1e2db8ac76d41b09002ad7d5d06e971ef9735"
         },
-        "ipkSize": 1292354
+        "ipkSize": 0
       },
       "pool": "main",
       "requirements": {
