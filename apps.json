@@ -1,9 +1,11 @@
 {
   "paging": {
     "page": 1,
-    "count": 47,
+    "count": 48,
     "maxPage": 1,
-    "itemsTotal": 47
+    "itemsTotal": 48,
+    "prevUrl": null,
+    "nextUrl": null
   },
   "packages": [
     {
@@ -783,6 +785,32 @@
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/moonlight-tv/main/res/moonlight_320.png",
       "shortDescription": "Open Source NVIDIA GameStream Client",
       "fullDescriptionUrl": "apps/com.limelight.webos/full_description.html"
+    },
+    {
+      "id": "com.open.hidden.menu",
+      "title": "Open Service Menu",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.0.0/com.open.hidden.menu.manifest.json",
+      "manifest": {
+        "id": "com.open.hidden.menu",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Open Service Menu",
+        "appDescription": "An overlay app to quickly open webOS hidden service menus (inStart, ezAdjust, etc.) without interrupting the current app or HDMI input.\n\n//!// Do not change anything in the hidden menu unless you know what you are doing //!//\n\nApp made by Kzu.\nThanks!",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/nguy3nloan1986-dotcom/Open-Service-Menu",
+        "ipkUrl": "https://ghfast.top/https://github.com/nguy3nloan1986-dotcom/Open-Service-Menu/releases/download/1.0.0/com.open.hidden.menu_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "8ce7eb4e96fade498a512913d00d5d1411238be256a7909fa0cf569d3840eb29"
+        },
+        "ipkSize": 55988
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "shortDescription": "An overlay app to quickly open webOS hidden service menus (inStart, ezAdjust, etc.) without interrupting the current app or HDMI input.\n\n//!// Do not change anything in the hidden menu unless you know what you are doing //!//\n\nApp made by Kzu.\nThanks!",
+      "fullDescriptionUrl": "apps/com.open.hidden.menu/full_description.html"
     },
     {
       "id": "com.leondrolio.x.openttd",
