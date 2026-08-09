@@ -1074,14 +1074,14 @@
     {
       "id": "twitch.adamffdev.v1",
       "title": "Twitch AdFree",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.jpg",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.png",
       "manifestUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.4/twitch.adamffdev.v1.manifest.json",
       "manifest": {
         "id": "twitch.adamffdev.v1",
         "version": "1.6.4",
         "type": "web",
         "title": "Twitch AdFree",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.jpg",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.png",
         "sourceUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos",
         "rootRequired": false,
         "ipkUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.4/twitch.adamffdev.v1_1.6.4_all.ipk",
