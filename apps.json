@@ -416,6 +416,7 @@
       },
       "pool": "main",
       "shortDescription": "webOS Homebrew installer",
+      "featured": true,
       "fullDescriptionUrl": "apps/org.webosbrew.hbchannel/full_description.html"
     },
     {
@@ -654,6 +655,7 @@
         ]
       },
       "shortDescription": "Award-winning free and open source home theater/media center software",
+      "featured": true,
       "fullDescriptionUrl": "apps/org.xbmc.kodi/full_description.html"
     },
     {
@@ -784,6 +786,7 @@
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/moonlight-tv/main/res/moonlight_320.png",
       "shortDescription": "Open Source NVIDIA GameStream Client",
+      "featured": true,
       "fullDescriptionUrl": "apps/com.limelight.webos/full_description.html"
     },
     {
