@@ -1,37 +1,13 @@
 {
   "paging": {
     "page": 1,
-    "count": 48,
+    "count": 20,
     "maxPage": 1,
-    "itemsTotal": 48,
+    "itemsTotal": 20,
     "prevUrl": null,
     "nextUrl": null
   },
   "packages": [
-    {
-      "id": "com.github.k4zmu2a.space-cadet-pinball",
-      "title": "3D Pinball \u2013 Space Cadet",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.k4zmu2a.space-cadet-pinball.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/SpaceCadetPinball/releases/download/v0.0.3/webosbrew.manifest.json",
-      "manifest": {
-        "id": "com.github.k4zmu2a.space-cadet-pinball",
-        "version": "0.0.3",
-        "type": "native",
-        "title": "Pinball",
-        "appDescription": "Technical Demo for SpaceCadetPinball",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.k4zmu2a.space-cadet-pinball.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/SpaceCadetPinball",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/SpaceCadetPinball/releases/download/v0.0.3/com.github.k4zmu2a.space-cadet-pinball_0.0.3_arm.ipk",
-        "ipkHash": {
-          "sha256": "00a35773e61d3eba3173fcf3fa2bc9804d2d24ff5c24fa488cc797afe6e16c05"
-        },
-        "ipkSize": 7465122
-      },
-      "pool": "main",
-      "shortDescription": "Technical Demo for SpaceCadetPinball",
-      "fullDescriptionUrl": "apps/com.github.k4zmu2a.space-cadet-pinball/full_description.html"
-    },
     {
       "id": "org.aabytt.webos.custom-screensaver-aerial",
       "title": "Aerial Screensaver",
@@ -81,84 +57,6 @@
       },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/org.rchalaaa.webos.custom-screensaver/full_description.html"
-    },
-    {
-      "id": "com.amazoff.patcher",
-      "title": "AmazOff Patcher",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.amazoff.patcher.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/azoffshowy/AmazOff/releases/download/v_0.2.3/org.webosbrew.manifest.json",
-      "manifest": {
-        "id": "com.amazoff.patcher",
-        "version": "0.2.3",
-        "type": "native",
-        "title": "AmazOff Patcher",
-        "appDescription": "Amazon Prime Video Patcher",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.amazoff.patcher.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/azoffshowy/AmazOff",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/azoffshowy/AmazOff/releases/download/v_0.2.3/com.amazoff.patcher_0.2.3_all.ipk",
-        "ipkHash": {
-          "sha256": "74350e221597b320d4c9b5604f91138962da2b8c23160ac11cd590ec3b096b60"
-        },
-        "ipkSize": 2934448
-      },
-      "pool": "main",
-      "shortDescription": "Amazon Prime Video Patcher",
-      "fullDescriptionUrl": "apps/com.amazoff.patcher/full_description.html"
-    },
-    {
-      "id": "com.pirate.refresh",
-      "title": "Auto Dev Token Refresh",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.pirate.refresh.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.3/manifest.json",
-      "manifest": {
-        "id": "com.pirate.refresh",
-        "version": "1.0.3",
-        "type": "web",
-        "title": "Auto Token Refresh",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.pirate.refresh.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.3/com.pirate.refresh_1.0.3_all.ipk",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.3/com.pirate.refresh_1.0.3_all.ipk",
-        "ipkHash": {
-          "sha256": "0d300bb89640be0d2444880b82871aacdc41d91042618e534aa3e5f4941fac8b"
-        },
-        "ipkSize": 108078,
-        "installedSize": 201013
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": null,
-      "fullDescriptionUrl": "apps/com.pirate.refresh/full_description.html"
-    },
-    {
-      "id": "com.biliwebos.app",
-      "title": "BiliTV",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.6.0/com.biliwebos.app.manifest.json",
-      "manifest": {
-        "id": "com.biliwebos.app",
-        "version": "1.6.0",
-        "type": "web",
-        "title": "BiliTV",
-        "appDescription": "Bilibili client for webOS TV",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.6.0/com.biliwebos.app_1.6.0_all.ipk",
-        "ipkHash": {
-          "sha256": "fdc5eefde0945f50d550a5dffcbaf925c34fc29455546d74f8cc2ca8474c8bc3"
-        },
-        "ipkSize": 458204
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": "Bilibili client for webOS TV",
-      "fullDescriptionUrl": "apps/com.biliwebos.app/full_description.html"
     },
     {
       "id": "pl.krzywro.webos-bluetooth-disabler",
@@ -262,34 +160,6 @@
       "fullDescriptionUrl": "apps/org.chocolate-doom.demo/full_description.html"
     },
     {
-      "id": "com.crunchyroll.webos",
-      "title": "Crunchyroll",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.crunchyroll.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/mateussouzaweb/crunchyroll-webos/releases/download/v1.10.2/webosbrew.manifest.json",
-      "manifest": {
-        "id": "com.crunchyroll.webos",
-        "version": "1.10.2",
-        "type": "web",
-        "title": "Crunchyroll",
-        "appDescription": "Unofficial Crunchyroll app for WebOS TV",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.crunchyroll.webos.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/mateussouzaweb/crunchyroll-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/mateussouzaweb/crunchyroll-webos/releases/download/v1.10.2/com.crunchyroll.webos_1.10.2_all.ipk",
-        "ipkHash": {
-          "sha256": "b0233bf0e17f30ea288d13df194628c00e5a376b281a066f37ce95538c648193"
-        },
-        "ipkSize": 1241292
-      },
-      "pool": "main",
-      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mateussouzaweb/crunchyroll-webos/v1.8.0/src/images/512px.png",
-      "requirements": {
-        "webosRelease": ">=4.0"
-      },
-      "shortDescription": "Unofficial Crunchyroll app for WebOS TV",
-      "fullDescriptionUrl": "apps/com.crunchyroll.webos/full_description.html"
-    },
-    {
       "id": "com.crunchyroll.stream.app",
       "title": "Crunchyroll Stream",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.crunchyroll.stream.app.png",
@@ -341,108 +211,6 @@
       "fullDescriptionUrl": "apps/org.webosbrew.custom-screensaver/full_description.html"
     },
     {
-      "id": "io.github.beatcracker.decoderbench",
-      "title": "Decoder bench",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.beatcracker.decoderbench.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench/releases/download/v1.0.0/io.github.beatcracker.decoderbench.manifest.json",
-      "manifest": {
-        "id": "io.github.beatcracker.decoderbench",
-        "version": "1.0.0",
-        "type": "native",
-        "title": "Decoder bench",
-        "appDescription": "Native decoder benchmark for rooted LG webOS TVs.",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.beatcracker.decoderbench.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench/releases/download/v1.0.0/io.github.beatcracker.decoderbench_1.0.0_arm.ipk",
-        "ipkHash": {
-          "sha256": "579a4f5642195c6844903d43007a18ac33d1951b9f0f8200f4eb34a129bd3a4f"
-        },
-        "ipkSize": 9061608
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": "Native decoder benchmark for rooted LG webOS TVs.",
-      "fullDescriptionUrl": "apps/io.github.beatcracker.decoderbench/full_description.html"
-    },
-    {
-      "id": "com.cheerchen.decotv",
-      "title": "DecoTV",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.2/com.cheerchen.decotv.manifest.json",
-      "manifest": {
-        "id": "com.cheerchen.decotv",
-        "version": "0.5.2",
-        "type": "web",
-        "title": "DecoTV",
-        "appDescription": "DecoTV client for webOS \u2014 self-hosted server required",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.2/com.cheerchen.decotv_0.5.2_all.ipk",
-        "ipkHash": {
-          "sha256": "108f6990adb992c41f2150cd7378222681cead97f78a8fd3601b0e4d71771bca"
-        },
-        "ipkSize": 226386
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=7.0"
-      },
-      "shortDescription": "DecoTV client for webOS \u2014 self-hosted server required",
-      "fullDescriptionUrl": "apps/com.cheerchen.decotv/full_description.html"
-    },
-    {
-      "id": "org.webosbrew.hbchannel",
-      "title": "Homebrew Channel",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hbchannel.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-homebrew-channel/releases/download/v0.7.3/org.webosbrew.hbchannel.manifest.json",
-      "manifest": {
-        "id": "org.webosbrew.hbchannel",
-        "version": "0.7.3",
-        "type": "web",
-        "title": "Homebrew Channel",
-        "appDescription": "webOS Homebrew installer",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hbchannel.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-homebrew-channel",
-        "rootRequired": false,
-        "ipkUrl": "https://repo.webosbrew.org/apps/org.webosbrew.hbchannel/releases/d10bf3c753551d7c72fb7a92b20fcd2317e502a220ac668ba8e76f6ea78b363c.ipk",
-        "ipkHash": {
-          "sha256": "d10bf3c753551d7c72fb7a92b20fcd2317e502a220ac668ba8e76f6ea78b363c"
-        },
-        "ipkSize": 1699858
-      },
-      "pool": "main",
-      "shortDescription": "webOS Homebrew installer",
-      "featured": true,
-      "fullDescriptionUrl": "apps/org.webosbrew.hbchannel/full_description.html"
-    },
-    {
-      "id": "org.webosbrew.safeupdate",
-      "title": "Homebrew Channel Updater",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.safeupdate.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/homebrew-channel-safe-updater/releases/download/v0.1.2/org.webosbrew.safeupdate.manifest.json",
-      "manifest": {
-        "id": "org.webosbrew.safeupdate",
-        "version": "0.1.2",
-        "type": "web",
-        "title": "Homebrew Channel Updater",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.safeupdate.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/homebrew-channel-safe-updater",
-        "rootRequired": true,
-        "ipkUrl": "https://repo.webosbrew.org/apps/org.webosbrew.safeupdate/releases/91e2e9324faa9fbe8f34d0e688effd95abb4337f125e11ac577283b164b0168b.ipk",
-        "ipkHash": {
-          "sha256": "91e2e9324faa9fbe8f34d0e688effd95abb4337f125e11ac577283b164b0168b"
-        },
-        "ipkSize": 209170
-      },
-      "pool": "main",
-      "shortDescription": null,
-      "fullDescriptionUrl": "apps/org.webosbrew.safeupdate/full_description.html"
-    },
-    {
       "id": "org.webosbrew.hyperhdr.loader",
       "title": "HyperHDR",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hyperhdr.loader.png",
@@ -470,57 +238,6 @@
       "fullDescriptionUrl": "apps/org.webosbrew.hyperhdr.loader/full_description.html"
     },
     {
-      "id": "org.webosbrew.hyperion.ng.loader",
-      "title": "Hyperion.NG",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hyperion.ng.loader.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperion.ng.loader.manifest.json",
-      "manifest": {
-        "id": "org.webosbrew.hyperion.ng.loader",
-        "version": "0.1.11",
-        "type": "web",
-        "title": "Hyperion.NG",
-        "appDescription": "Hyperion.NG for WebOS",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hyperion.ng.loader.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/hyperion.ng-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperion.ng.loader_0.1.11_all.ipk",
-        "ipkHash": {
-          "sha256": "6b1bac6c9a3ea6ce7e362bcef5e54656f0ff54a03eed0b25ba42e5f80c338f42"
-        },
-        "ipkSize": 27182462
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=4.0"
-      },
-      "shortDescription": "Hyperion.NG for WebOS",
-      "fullDescriptionUrl": "apps/org.webosbrew.hyperion.ng.loader/full_description.html"
-    },
-    {
-      "id": "org.oted.idlegif",
-      "title": "Idlegif",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.oted.idlegif.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Oted/idlegif/releases/download/v1.3.0/org.oted.idlegif.manifest.json",
-      "manifest": {
-        "id": "org.oted.idlegif",
-        "version": "1.3.0",
-        "type": "web",
-        "title": "Idlegif",
-        "appDescription": "GIF screensaver for rooted LG webOS TVs",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.oted.idlegif.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/Oted/idlegif",
-        "ipkUrl": "https://ghfast.top/https://github.com/Oted/idlegif/releases/download/v1.3.0/org.oted.idlegif_1.3.0_all.ipk",
-        "rootRequired": true,
-        "ipkHash": {
-          "sha256": "c5f94691f82606e3d8f2eaf154c27b7c993515acf1c6a34b83d42b02be987f84"
-        },
-        "ipkSize": 749548
-      },
-      "pool": "main",
-      "shortDescription": "GIF screensaver for rooted LG webOS TVs",
-      "fullDescriptionUrl": "apps/org.oted.idlegif/full_description.html"
-    },
-    {
       "id": "org.mariotaku.ihsplay",
       "title": "IHSplay",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.mariotaku.ihsplay.png",
@@ -543,61 +260,6 @@
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/ihsplay/master/deploy/webos/largeIcon.png",
       "shortDescription": "SDL2-based Steam Link client for webOS TV",
       "fullDescriptionUrl": "apps/org.mariotaku.ihsplay/full_description.html"
-    },
-    {
-      "id": "com.immich.webos",
-      "title": "Immich",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.immich.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.11.2/com.immich.webos.manifest.json",
-      "manifest": {
-        "id": "com.immich.webos",
-        "version": "0.11.2",
-        "type": "web",
-        "title": "Immich",
-        "appDescription": "Browse your self-hosted Immich photo and video library on webOS TV.",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.immich.webos.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.11.2/com.immich.webos.ipk",
-        "ipkHash": {
-          "sha256": "e5b95fc504740381b78ab37104a377372c592ad4333a0b27a8eb1442f3d8dc1c"
-        },
-        "ipkSize": 907072
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": "Browse your self-hosted Immich photo and video library on webOS TV.",
-      "fullDescriptionUrl": "apps/com.immich.webos/full_description.html"
-    },
-    {
-      "id": "com.seeky91.immichtv",
-      "title": "Immich TV",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.3/manifest.json",
-      "manifest": {
-        "id": "com.seeky91.immichtv",
-        "title": "Immich TV",
-        "version": "1.5.3",
-        "type": "web",
-        "appDescription": "Read-only Immich photo & video client for LG webOS TVs",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.seeky91.immichtv.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Seeky91/immich-tv-webos/releases/download/v1.5.3/com.seeky91.immichtv_1.5.3_all.ipk",
-        "ipkHash": {
-          "sha256": "9cb0099f8ac5ca982acecb302321af3a119e5d8e091a28538bd9ab985db314ad"
-        },
-        "ipkSize": 2435092
-      },
-      "pool": "main",
-      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/Seeky91/immich-tv-webos/main/assets/icon-source.png",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": "Read-only Immich photo & video client for LG webOS TVs",
-      "fullDescriptionUrl": "apps/com.seeky91.immichtv/full_description.html"
     },
     {
       "id": "org.jellyfin.webos",
@@ -713,7 +375,7 @@
       "id": "org.litefin.app",
       "title": "Litefin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.litefin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v1.5.1/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/latest/download/manifest.json",
       "manifest": {
         "id": "org.litefin.app",
         "version": "1.5.1",
@@ -762,133 +424,6 @@
       },
       "shortDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
       "fullDescriptionUrl": "apps/org.moonfin.webos/full_description.html"
-    },
-    {
-      "id": "com.limelight.webos",
-      "title": "Moonlight",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.limelight.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/moonlight-tv/releases/download/v1.6.36/com.limelight.webos.manifest.json",
-      "manifest": {
-        "id": "com.limelight.webos",
-        "version": "1.6.36",
-        "type": "native",
-        "title": "Moonlight",
-        "appDescription": "Open Source NVIDIA GameStream Client",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.limelight.webos.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/mariotaku/moonlight-tv",
-        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/moonlight-tv/releases/download/v1.6.36/com.limelight.webos_1.6.36_arm.ipk",
-        "ipkHash": {
-          "sha256": "74d9788be634b57fed0591e7e82c9e3d8856dc46d14d29998a481724299d8824"
-        },
-        "ipkSize": 1508072,
-        "installedSize": 4300994
-      },
-      "pool": "main",
-      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/moonlight-tv/main/res/moonlight_320.png",
-      "shortDescription": "Open Source NVIDIA GameStream Client",
-      "featured": true,
-      "fullDescriptionUrl": "apps/com.limelight.webos/full_description.html"
-    },
-    {
-      "id": "com.open.hidden.menu",
-      "title": "Open Service Menu",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.1.0/com.open.hidden.menu.manifest.json",
-      "manifest": {
-        "id": "com.open.hidden.menu",
-        "version": "1.1.0",
-        "type": "web",
-        "title": "Open Service Menu",
-        "appDescription": "An overlay app to quickly open webOS hidden service menus (inStart, ezAdjust, etc.) without interrupting the current app or HDMI input.\n\n//!// Do not change anything in the hidden menu unless you know what you are doing //!//\n\nApp made by Kzu.\nThanks!",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/nguy3nloan1986-dotcom/Open-Service-Menu",
-        "ipkUrl": "https://ghfast.top/https://github.com/nguy3nloan1986-dotcom/Open-Service-Menu/releases/download/1.1.0/com.open.hidden.menu_1.1.0_all.ipk",
-        "ipkHash": {
-          "sha256": "32d447883e1f9ff5557de9097940a31883d06b13ed4bc309eb7ac8a4afab16dd"
-        },
-        "ipkSize": 56436
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=4.0"
-      },
-      "shortDescription": "An overlay app to quickly open webOS hidden service menus (inStart, ezAdjust, etc.) without interrupting the current app or HDMI input.\n\n//!// Do not change anything in the hidden menu unless you know what you are doing //!//\n\nApp made by Kzu.\nThanks!",
-      "fullDescriptionUrl": "apps/com.open.hidden.menu/full_description.html"
-    },
-    {
-      "id": "com.leondrolio.x.openttd",
-      "title": "OpenTTD",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.leondrolio.x.openttd.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/7coil/webos-openttd/releases/download/webos-15.0.1/manifest.json",
-      "manifest": {
-        "id": "com.leondrolio.x.openttd",
-        "version": "15.0.1",
-        "type": "native",
-        "title": "OpenTTD 15.0-beta3",
-        "appDescription": "Technical Demo for OpenTTD",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.leondrolio.x.openttd.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/7coil/webos-openttd",
-        "ipkUrl": "https://ghfast.top/https://github.com/7coil/webos-openttd/releases/download/webos-15.0.1/com.leondrolio.x.openttd_15.0.1_arm.ipk",
-        "ipkHash": {
-          "sha256": "ce0f41fb07c8d28c55ed89ee086fe1cf2bd7a75c4c000ac05485de3d04c7359b"
-        },
-        "ipkSize": 173884886,
-        "installedSize": 409899008
-      },
-      "pool": "main",
-      "shortDescription": "Technical Demo for OpenTTD",
-      "fullDescriptionUrl": "apps/com.leondrolio.x.openttd/full_description.html"
-    },
-    {
-      "id": "org.webosbrew.piccap",
-      "title": "PicCap - Hyperion Sender App",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.piccap.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/TBSniller/piccap/releases/download/0.5.3/org.webosbrew.piccap.manifest.json",
-      "manifest": {
-        "id": "org.webosbrew.piccap",
-        "version": "0.5.3",
-        "type": "web",
-        "title": "PicCap",
-        "appDescription": "Hyperion Sender App - Ambilight for WebOS",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.piccap.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/TBSniller/piccap",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/TBSniller/piccap/releases/download/0.5.3/org.webosbrew.piccap_0.5.3_all.ipk",
-        "ipkHash": {
-          "sha256": "ad6b06766cea01dbe8ea0ac9dbbbd9c1a6c030e72df6cd96214199f50d38e486"
-        },
-        "ipkSize": 1015078
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=4.0"
-      },
-      "shortDescription": "Hyperion Sender App - Ambilight for WebOS",
-      "fullDescriptionUrl": "apps/org.webosbrew.piccap/full_description.html"
-    },
-    {
-      "id": "ui30",
-      "title": "Piccap On/Off Remote",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/ui30.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Bahoue/OnOff-Remote/releases/download/0.0.9/ui30.manifest.json",
-      "manifest": {
-        "id": "ui30",
-        "version": "0.0.9",
-        "type": "web",
-        "title": "PicCap OnOff",
-        "appDescription": "Movies - RakutenTV button",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/ui30.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/Bahoue/OnOff-Remote",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Bahoue/OnOff-Remote/releases/download/0.0.9/ui30_0.0.9_all.ipk",
-        "ipkHash": {
-          "sha256": "cbeea2a51f7b4e920965c2da51face838bec78415efed66aea4921e934286460"
-        },
-        "ipkSize": 22436
-      },
-      "pool": "main",
-      "shortDescription": "Movies - RakutenTV button",
-      "fullDescriptionUrl": "apps/ui30/full_description.html"
     },
     {
       "id": "io.dyptan.punktfunk.webos",
@@ -943,57 +478,6 @@
       "fullDescriptionUrl": "apps/com.retroarch.webos/full_description.html"
     },
     {
-      "id": "com.sendspin.cinema",
-      "title": "Sendspin Cinema",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.sendspin.cinema.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/zonya/sendspin-cinema-webos/releases/download/v1.0.1/com.sendspin.cinema.manifest.json",
-      "manifest": {
-        "appDescription": "Cinema-inspired Music Assistant player for LG webOS TVs. Features dynamic album art theming, smooth progress tracking, and remote-optimized controls.",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.sendspin.cinema.png",
-        "id": "com.sendspin.cinema",
-        "ipkHash": {
-          "sha256": "8e547bf23e86b340ce7c27d76c57bcf3cab1e54a080e7cd11a5321b75736d9a4"
-        },
-        "ipkUrl": "https://ghfast.top/https://github.com/zonya/sendspin-cinema-webos/releases/download/v1.0.1/com.sendspin.cinema_1.0.1_all.ipk",
-        "rootRequired": false,
-        "sourceUrl": "https://ghfast.top/https://github.com/zonya/sendspin-cinema-webos",
-        "title": "Sendspin Cinema",
-        "type": "web",
-        "version": "1.0.1",
-        "ipkSize": 2109888
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=7.0"
-      },
-      "shortDescription": "Cinema-inspired Music Assistant player for LG webOS TVs. Features dynamic album art theming, smooth progress tracking, and remote-optimized controls.",
-      "fullDescriptionUrl": "apps/com.sendspin.cinema/full_description.html"
-    },
-    {
-      "id": "com.tbsniller.smarttwitchwebostv",
-      "title": "SmartTwitchWebOSTV",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.tbsniller.smarttwitchwebostv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/TBSniller/SmartTwitchWebOSTV/releases/download/v1.1.0/com.tbsniller.smarttwitchwebostv.manifest.json",
-      "manifest": {
-        "id": "com.tbsniller.smarttwitchwebostv",
-        "version": "1.1.0",
-        "type": "web",
-        "title": "SmartTwitchTV",
-        "appDescription": "SmartTwitchTV wrapper app for webOS with hosted compatibility bridge",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.tbsniller.smarttwitchwebostv.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/TBSniller/SmartTwitchWebOSTV",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/TBSniller/SmartTwitchWebOSTV/releases/download/v1.1.0/com.tbsniller.smarttwitchwebostv_1.1.0_all.ipk",
-        "ipkHash": {
-          "sha256": "b9609fc22e2af899c865f9b05e29adae8a978b837f61a518364cf6f3ae16cb92"
-        },
-        "ipkSize": 186622
-      },
-      "pool": "main",
-      "shortDescription": "SmartTwitchTV wrapper app for webOS with hosted compatibility bridge",
-      "fullDescriptionUrl": "apps/com.tbsniller.smarttwitchwebostv/full_description.html"
-    },
-    {
       "id": "eu.depau.webos.soundmodefix",
       "title": "Sound Mode Fix",
       "iconUri": "https://repo.webosbrew.org/apps/icons/eu.depau.webos.soundmodefix.png",
@@ -1021,33 +505,6 @@
       "fullDescriptionUrl": "apps/eu.depau.webos.soundmodefix/full_description.html"
     },
     {
-      "id": "org.webosbrew.streamkatze",
-      "title": "streamkatze",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.streamkatze.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/informatic/streamkatze/releases/download/v0.1.1/org.webosbrew.streamkatze.manifest.json",
-      "manifest": {
-        "id": "org.webosbrew.streamkatze",
-        "version": "0.1.1",
-        "type": "web",
-        "title": "streamkatze",
-        "appDescription": "Minimal streaming.media.ccc.de player application (EXPERIMENTAL)",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.streamkatze.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/informatic/streamkatze",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/informatic/streamkatze/releases/download/v0.1.1/org.webosbrew.streamkatze_0.1.1_all.ipk",
-        "ipkHash": {
-          "sha256": "9803d953f48173fa378e29077bf1b2b416d377d194181f55c92d1af3e805e139"
-        },
-        "ipkSize": 300004
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=4.0"
-      },
-      "shortDescription": "Minimal streaming.media.ccc.de player application (EXPERIMENTAL)",
-      "fullDescriptionUrl": "apps/org.webosbrew.streamkatze/full_description.html"
-    },
-    {
       "id": "com.subsonic.player",
       "title": "Subsonic Player",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.subsonic.player.png",
@@ -1073,189 +530,6 @@
       },
       "shortDescription": "A web-based Subsonic music player.",
       "fullDescriptionUrl": "apps/com.subsonic.player/full_description.html"
-    },
-    {
-      "id": "twitch.adamffdev.v1",
-      "title": "Twitch AdFree",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.4/twitch.adamffdev.v1.manifest.json",
-      "manifest": {
-        "id": "twitch.adamffdev.v1",
-        "version": "1.6.4",
-        "type": "web",
-        "title": "Twitch AdFree",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.4/twitch.adamffdev.v1_1.6.4_all.ipk",
-        "ipkHash": {
-          "sha256": "894dbe56e186ebb0e4378d6cc923012b6edcf4149379f1a26e3bee85e27bfa46"
-        },
-        "ipkSize": 335812
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": null,
-      "fullDescriptionUrl": "apps/twitch.adamffdev.v1/full_description.html"
-    },
-    {
-      "id": "org.webosbrew.vncserver",
-      "title": "VNCServer",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.vncserver.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Informatic/webos-vncserver/releases/download/v1.0.3/org.webosbrew.vncserver.manifest.json",
-      "manifest": {
-        "id": "org.webosbrew.vncserver",
-        "version": "1.0.3",
-        "type": "web",
-        "title": "VNCServer",
-        "appDescription": "webOS VNC Server",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.vncserver.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/Informatic/webos-vncserver",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/Informatic/webos-vncserver/releases/download/v1.0.3/org.webosbrew.vncserver_1.0.3_all.ipk",
-        "ipkHash": {
-          "sha256": "47866a736f7aa5ff4e90909a4b12f13a62f9bdbf7cacc31b5bc66d72ed85baa8"
-        },
-        "ipkSize": 2162768
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=4.0"
-      },
-      "shortDescription": "webOS VNC Server",
-      "fullDescriptionUrl": "apps/org.webosbrew.vncserver/full_description.html"
-    },
-    {
-      "id": "com.sk.app.lgtv-vpn",
-      "title": "VPN Client",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.sk.app.lgtv-vpn.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/sekrell/lgtv-vpn/releases/download/v0.2/webosbrew.manifest.json",
-      "manifest": {
-        "id": "com.sk.app.lgtv-vpn",
-        "version": "0.0.2",
-        "type": "native",
-        "title": "VPN Client",
-        "appDescription": "OpenVPN Client with control UI.",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.sk.app.lgtv-vpn.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/sekrell/lgtv-vpn",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/sekrell/lgtv-vpn/releases/download/v0.2/com.sk.app.lgtv-vpn_0.0.2_all.ipk",
-        "ipkHash": {
-          "sha256": "76254dbeb7723541754ce34fabca7c34608a065dac56d72ed4909f642598d146"
-        },
-        "ipkSize": 1454286
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": "OpenVPN Client with control UI.",
-      "fullDescriptionUrl": "apps/com.sk.app.lgtv-vpn/full_description.html"
-    },
-    {
-      "id": "org.webosbrew.bridge-64to32",
-      "title": "webOS 64-bit bridge",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.3/org.webosbrew.bridge-64to32.manifest.json",
-      "manifest": {
-        "id": "org.webosbrew.bridge-64to32",
-        "version": "0.0.3",
-        "type": "native",
-        "title": "64 to 32-bit Bridge",
-        "appDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32",
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.3/org.webosbrew.bridge-64to32_aarch64_v0.0.3.ipk",
-        "ipkHash": {
-          "sha256": "c332e27a5ef92747f0388f4f9e604c8463fcb98708233cda09509da46587436a"
-        },
-        "ipkSize": 14836038,
-        "installedSize": 34402337
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=4.5"
-      },
-      "shortDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
-      "fullDescriptionUrl": "apps/org.webosbrew.bridge-64to32/full_description.html"
-    },
-    {
-      "id": "com.github.gprot42.webosterminal",
-      "title": "webOS Terminal",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.12/com.github.gprot42.webosterminal.manifest.json",
-      "manifest": {
-        "id": "com.github.gprot42.webosterminal",
-        "version": "0.0.12",
-        "type": "web",
-        "title": "webOS Terminal",
-        "appDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.12/com.github.gprot42.webosterminal_0.0.12_all.ipk",
-        "ipkHash": {
-          "sha256": "9467e614c1f506fb5562706d77a65d749a77ce87565922a7883661a9d8e0c4b3"
-        },
-        "ipkSize": 1739668
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=1.0"
-      },
-      "shortDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
-      "fullDescriptionUrl": "apps/com.github.gprot42.webosterminal/full_description.html"
-    },
-    {
-      "id": "com.willinux.tvh.app",
-      "title": "WebOS TVHeadend Client",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.willinux.tvh.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/willinuX-code/webos-tvheadend/releases/download/0.8.4/com.willinux.tvh.app.manifest.json",
-      "manifest": {
-        "id": "com.willinux.tvh.app",
-        "version": "0.8.4",
-        "type": "web",
-        "title": "TVheadend Client",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.willinux.tvh.app.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/willinuX-code/webos-tvheadend",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/willinuX-code/webos-tvheadend/releases/download/0.8.4/com.willinux.tvh.app_0.8.4_all.ipk",
-        "ipkHash": {
-          "sha256": "0f738475df2b78748ea4e7e52c0e046d51e380fba3fe66419346f34d5720f2f0"
-        },
-        "ipkSize": 1715254
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": null,
-      "fullDescriptionUrl": "apps/com.willinux.tvh.app/full_description.html"
-    },
-    {
-      "id": "youtube.leanback.v4",
-      "title": "YouTube AdFree",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/youtube.leanback.v4.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/youtube-webos/releases/download/v0.5.3/youtube.leanback.v4.manifest.json",
-      "manifest": {
-        "id": "youtube.leanback.v4",
-        "version": "0.5.3",
-        "type": "web",
-        "title": "YouTube AdFree",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/youtube.leanback.v4.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/youtube-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/youtube-webos/releases/download/v0.5.3/youtube.leanback.v4_0.5.3_all.ipk",
-        "ipkHash": {
-          "sha256": "9c4f1dd0b04fd712adb6a9a1c5838da49b1003cd96de8354c10467b52d73259d"
-        },
-        "ipkSize": 479722
-      },
-      "pool": "main",
-      "shortDescription": null,
-      "fullDescriptionUrl": "apps/youtube.leanback.v4/full_description.html"
     }
   ]
 }
