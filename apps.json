@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 48,
+    "count": 49,
     "maxPage": 1,
-    "itemsTotal": 48,
+    "itemsTotal": 49,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -393,6 +393,31 @@
       },
       "shortDescription": "DecoTV client for webOS \u2014 self-hosted server required",
       "fullDescriptionUrl": "apps/com.cheerchen.decotv/full_description.html"
+    },
+    {
+      "id": "com.halfbrick.fruitninja",
+      "title": "Fruit Ninja",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-3/com.halfbrick.fruitninja.manifest.json",
+      "manifest": {
+        "id": "com.halfbrick.fruitninja",
+        "version": "1.601.3",
+        "type": "native",
+        "title": "Fruit Ninja",
+        "appDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-3/com.halfbrick.fruitninja_1.601.3_arm.ipk",
+        "ipkHash": {
+          "sha256": "4f48f0f56076593e9efadccf5d0faac5100c5deda4192b54c3857ffb40bd1b21"
+        },
+        "ipkSize": 6480924,
+        "installedSize": 9965377
+      },
+      "pool": "main",
+      "shortDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
+      "fullDescriptionUrl": "apps/com.halfbrick.fruitninja/full_description.html"
     },
     {
       "id": "org.webosbrew.hbchannel",
