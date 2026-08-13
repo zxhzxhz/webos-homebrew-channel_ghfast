@@ -371,7 +371,7 @@
       "id": "com.cheerchen.decotv",
       "title": "DecoTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.2/com.cheerchen.decotv.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.3/com.cheerchen.decotv.manifest.json",
       "manifest": {
         "id": "com.cheerchen.decotv",
         "version": "0.5.2",
