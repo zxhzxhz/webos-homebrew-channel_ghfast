@@ -777,9 +777,9 @@
         "rootRequired": false,
         "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.8.0/Moonfin_webOS_2.8.0.ipk",
         "ipkHash": {
-          "sha256": "bb399b60f348c5b6e2556dfd0070e67b59f402478efded6dcc04aadcd18b6caf"
+          "sha256": "8370a74c55cb861a6278aa03984fe57315fa959b76320cb9eb74be4fdd3794b9"
         },
-        "ipkSize": 4398988
+        "ipkSize": 4397434
       },
       "pool": "main",
       "requirements": {
