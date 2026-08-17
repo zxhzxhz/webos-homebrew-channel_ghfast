@@ -371,21 +371,21 @@
       "id": "com.cheerchen.decotv",
       "title": "DecoTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.3/com.cheerchen.decotv.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.4/com.cheerchen.decotv.manifest.json",
       "manifest": {
         "id": "com.cheerchen.decotv",
-        "version": "0.5.3",
+        "version": "0.5.4",
         "type": "web",
         "title": "DecoTV",
         "appDescription": "DecoTV client for webOS \u2014 self-hosted server required",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.3/com.cheerchen.decotv_0.5.3_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.4/com.cheerchen.decotv_0.5.4_all.ipk",
         "ipkHash": {
-          "sha256": "f6466ba050a1d3b71a7bd179a86edf64b666c4d10c266b16be2649e17c81a49e"
+          "sha256": "fce6b0c71a0b19eb91db3237e6aa471af62f91e3ab53647b4157881ec8be19a6"
         },
-        "ipkSize": 231078
+        "ipkSize": 242040
       },
       "pool": "main",
       "requirements": {
@@ -919,22 +919,22 @@
       "id": "io.dyptan.punktfunk.webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.16.0/io.dyptan.punktfunk.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.16.2/io.dyptan.punktfunk.webos.manifest.json",
       "manifest": {
         "id": "io.dyptan.punktfunk.webos",
-        "version": "0.16.0",
+        "version": "0.16.2",
         "type": "native",
         "title": "Punktfunk",
         "appDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.16.0/io.dyptan.punktfunk.webos_0.16.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.16.2/io.dyptan.punktfunk.webos_0.16.2_arm.ipk",
         "ipkHash": {
-          "sha256": "cc95c87a5160572425ae9e6ee8cb8c13e05ddb868ababd76c84c4c1e0cb2c8d4"
+          "sha256": "0448aa8e65c8fdbee3a4237cd8997b8dfd5ce86030fc80506592bd6e23f4c202"
         },
-        "ipkSize": 4188730,
-        "installedSize": 9061575
+        "ipkSize": 4193768,
+        "installedSize": 9069843
       },
       "pool": "main",
       "requirements": {
