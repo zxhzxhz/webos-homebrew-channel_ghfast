@@ -398,22 +398,22 @@
       "id": "com.halfbrick.fruitninja",
       "title": "Fruit Ninja",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-3/com.halfbrick.fruitninja.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-4/com.halfbrick.fruitninja.manifest.json",
       "manifest": {
         "id": "com.halfbrick.fruitninja",
-        "version": "1.601.3",
+        "version": "1.601.4",
         "type": "native",
         "title": "Fruit Ninja",
         "appDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
         "sourceUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-3/com.halfbrick.fruitninja_1.601.3_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-4/com.halfbrick.fruitninja_1.601.4_arm.ipk",
         "ipkHash": {
-          "sha256": "4f48f0f56076593e9efadccf5d0faac5100c5deda4192b54c3857ffb40bd1b21"
+          "sha256": "d1c4a1c6cdc321a70c6b9daa2474ac36698bd22baddf4813cb7aa06c9e4b5cd6"
         },
-        "ipkSize": 6480924,
-        "installedSize": 9965377
+        "ipkSize": 6480806,
+        "installedSize": 9965417
       },
       "pool": "main",
       "shortDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
@@ -765,21 +765,21 @@
       "id": "org.moonfin.webos",
       "title": "Moonfin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.7.0/org.moonfin.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.8.0/org.moonfin.webos.manifest.json",
       "manifest": {
         "id": "org.moonfin.webos",
-        "version": "2.7.0",
+        "version": "2.8.0",
         "type": "web",
         "title": "Moonfin",
         "appDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.7.0/Moonfin_webOS_2.7.0.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.8.0/Moonfin_webOS_2.8.0.ipk",
         "ipkHash": {
-          "sha256": "c9202d3d83ea0f05f1e197986cac0194765186cd5ae922a3c8ba691e707b9af6"
+          "sha256": "bb399b60f348c5b6e2556dfd0070e67b59f402478efded6dcc04aadcd18b6caf"
         },
-        "ipkSize": 4251412
+        "ipkSize": 4398988
       },
       "pool": "main",
       "requirements": {
