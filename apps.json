@@ -818,20 +818,21 @@
       "id": "com.open.hidden.menu",
       "title": "Open Service Menu",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.1.0/com.open.hidden.menu.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.5.0/com.open.hidden.menu.manifest.json",
       "manifest": {
         "id": "com.open.hidden.menu",
-        "version": "1.1.0",
+        "version": "1.5.0",
         "type": "web",
         "title": "Open Service Menu",
         "appDescription": "An overlay app to quickly open webOS hidden service menus (inStart, ezAdjust, etc.) without interrupting the current app or HDMI input.\n\n//!// Do not change anything in the hidden menu unless you know what you are doing //!//\n\nApp made by Kzu.\nThanks!",
+        "rootRequired": false,
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
         "sourceUrl": "https://ghfast.top/https://github.com/nguy3nloan1986-dotcom/Open-Service-Menu",
-        "ipkUrl": "https://ghfast.top/https://github.com/nguy3nloan1986-dotcom/Open-Service-Menu/releases/download/1.1.0/com.open.hidden.menu_1.1.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.5.0/com.open.hidden.menu_1.5.0_all.ipk",
         "ipkHash": {
-          "sha256": "32d447883e1f9ff5557de9097940a31883d06b13ed4bc309eb7ac8a4afab16dd"
+          "sha256": "4422744038f0d0b0f9e7c00176e2baf55a5cf5224534bf421670c71ee99a271f"
         },
-        "ipkSize": 56436
+        "ipkSize": 58080
       },
       "pool": "main",
       "requirements": {
@@ -1183,21 +1184,21 @@
       "id": "org.webosbrew.bridge-64to32",
       "title": "webOS 64-bit bridge",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.3/org.webosbrew.bridge-64to32.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.4/org.webosbrew.bridge-64to32.manifest.json",
       "manifest": {
         "id": "org.webosbrew.bridge-64to32",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "type": "native",
         "title": "64 to 32-bit Bridge",
         "appDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32",
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.3/org.webosbrew.bridge-64to32_aarch64_v0.0.3.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.4/org.webosbrew.bridge-64to32_aarch64_v0.0.4.ipk",
         "ipkHash": {
-          "sha256": "c332e27a5ef92747f0388f4f9e604c8463fcb98708233cda09509da46587436a"
+          "sha256": "a5fc71ffe84962634a12fceb89b55a2b70afcbeeb15d5e326aecdc5f4d254f99"
         },
-        "ipkSize": 14836038,
-        "installedSize": 34402337
+        "ipkSize": 14839194,
+        "installedSize": 34415297
       },
       "pool": "main",
       "requirements": {
@@ -1210,21 +1211,21 @@
       "id": "com.github.gprot42.webosterminal",
       "title": "webOS Terminal",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.12/com.github.gprot42.webosterminal.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.13/com.github.gprot42.webosterminal.manifest.json",
       "manifest": {
         "id": "com.github.gprot42.webosterminal",
-        "version": "0.0.12",
+        "version": "0.0.13",
         "type": "web",
         "title": "webOS Terminal",
         "appDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.gprot42.webosterminal.png",
         "sourceUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.12/com.github.gprot42.webosterminal_0.0.12_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/gprot42/webos-terminal/releases/download/v0.0.13/com.github.gprot42.webosterminal_0.0.13_all.ipk",
         "ipkHash": {
-          "sha256": "9467e614c1f506fb5562706d77a65d749a77ce87565922a7883661a9d8e0c4b3"
+          "sha256": "ac83923d851a45e67646a170c21ca8ddeeaa7cba1011256c8c3733471fe7718c"
         },
-        "ipkSize": 1739668
+        "ipkSize": 1741212
       },
       "pool": "main",
       "requirements": {
