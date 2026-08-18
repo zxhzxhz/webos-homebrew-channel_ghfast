@@ -818,21 +818,21 @@
       "id": "com.open.hidden.menu",
       "title": "Open Service Menu",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.5.0/com.open.hidden.menu.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.5.1/com.open.hidden.menu.manifest.json",
       "manifest": {
         "id": "com.open.hidden.menu",
-        "version": "1.5.0",
+        "version": "1.5.1",
         "type": "web",
         "title": "Open Service Menu",
         "appDescription": "An overlay app to quickly open webOS hidden service menus (inStart, ezAdjust, etc.) without interrupting the current app or HDMI input.\n\n//!// Do not change anything in the hidden menu unless you know what you are doing //!//\n\nApp made by Kzu.\nThanks!",
         "rootRequired": false,
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.open.hidden.menu.png",
         "sourceUrl": "https://ghfast.top/https://github.com/nguy3nloan1986-dotcom/Open-Service-Menu",
-        "ipkUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.5.0/com.open.hidden.menu_1.5.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Kzuismee/Open-Service-Menu/releases/download/1.5.1/com.open.hidden.menu_1.5.1_all.ipk",
         "ipkHash": {
-          "sha256": "4422744038f0d0b0f9e7c00176e2baf55a5cf5224534bf421670c71ee99a271f"
+          "sha256": "369d26a1f20b72eecbd6cb27fea14a86eb70219ed353cca93505af1b33f955e2"
         },
-        "ipkSize": 58080
+        "ipkSize": 58442
       },
       "pool": "main",
       "requirements": {
