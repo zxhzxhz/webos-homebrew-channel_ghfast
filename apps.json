@@ -344,21 +344,21 @@
       "id": "io.github.beatcracker.decoderbench",
       "title": "Decoder bench",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.beatcracker.decoderbench.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench/releases/download/v1.0.0/io.github.beatcracker.decoderbench.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench/releases/download/v1.1.0/io.github.beatcracker.decoderbench.manifest.json",
       "manifest": {
         "id": "io.github.beatcracker.decoderbench",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "type": "native",
         "title": "Decoder bench",
         "appDescription": "Native decoder benchmark for rooted LG webOS TVs.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.beatcracker.decoderbench.png",
         "sourceUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench/releases/download/v1.0.0/io.github.beatcracker.decoderbench_1.0.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/beatcracker/decoder-bench/releases/download/v1.1.0/io.github.beatcracker.decoderbench_1.1.0_arm.ipk",
         "ipkHash": {
-          "sha256": "579a4f5642195c6844903d43007a18ac33d1951b9f0f8200f4eb34a129bd3a4f"
+          "sha256": "de0ca2a186a02b158c4a4d183768fc9f2c7a70b3222e6ac70fa1d36f5ea09a47"
         },
-        "ipkSize": 9061608
+        "ipkSize": 9074018
       },
       "pool": "main",
       "requirements": {
