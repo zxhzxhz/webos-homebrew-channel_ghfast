@@ -939,7 +939,7 @@
       },
       "pool": "main",
       "requirements": {
-        "webosRelease": ">=5"
+        "webosRelease": ">=4"
       },
       "shortDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
       "fullDescriptionUrl": "apps/io.dyptan.punktfunk.webos/full_description.html"
