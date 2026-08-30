@@ -777,7 +777,7 @@
         "rootRequired": false,
         "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.8.2/Moonfin_webOS_2.8.2.ipk",
         "ipkHash": {
-          "sha256": "93f7646c9c933b53e9803acde3ef8a0748b14886fba9ba6dddbb5925c3be274d"
+          "sha256": "09a85becc991be16d709dd867aff29b7d5171a37f7815be59fcb7cc2e73a3422"
         },
         "ipkSize": 5087248
       },
@@ -1264,17 +1264,17 @@
       "id": "com.github.cfernande1470.wireguard",
       "title": "WireGuard VPN",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.cfernande1470.wireguard.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard/releases/download/v1.0.2/com.github.cfernande1470.wireguard.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard/releases/download/v1.0.3/com.github.cfernande1470.wireguard.manifest.json",
       "manifest": {
         "id": "com.github.cfernande1470.wireguard",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "type": "web",
         "title": "WireGuard VPN",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.cfernande1470.wireguard.png",
         "sourceUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard/releases/download/v1.0.2/com.github.cfernande1470.wireguard_1.0.2_all.ipk",
-        "ipkSize": 3639974
+        "ipkUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard/releases/download/v1.0.3/com.github.cfernande1470.wireguard_1.0.3_all.ipk",
+        "ipkSize": 3641354
       },
       "pool": "main",
       "requirements": {
