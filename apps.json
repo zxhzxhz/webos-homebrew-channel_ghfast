@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 50,
+    "count": 49,
     "maxPage": 1,
-    "itemsTotal": 50,
+    "itemsTotal": 49,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -132,33 +132,6 @@
       },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/com.pirate.refresh/full_description.html"
-    },
-    {
-      "id": "com.biliwebos.app",
-      "title": "BiliTV",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.7.0/com.biliwebos.app.manifest.json",
-      "manifest": {
-        "id": "com.biliwebos.app",
-        "version": "1.6.3",
-        "type": "web",
-        "title": "BiliTV",
-        "appDescription": "Bilibili client for webOS TV",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.6.3/com.biliwebos.app_1.6.3_all.ipk",
-        "ipkHash": {
-          "sha256": "bea79a9da8fdef88f038d57bf091f1d5670ffbd2a7f1071babe22ecd1213629e"
-        },
-        "ipkSize": 460004
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=5.0"
-      },
-      "shortDescription": "Bilibili client for webOS TV",
-      "fullDescriptionUrl": "apps/com.biliwebos.app/full_description.html"
     },
     {
       "id": "pl.krzywro.webos-bluetooth-disabler",
@@ -362,7 +335,7 @@
       },
       "pool": "main",
       "requirements": {
-        "webosRelease": ">=5.0"
+        "webosRelease": ">=4.0"
       },
       "shortDescription": "Native decoder benchmark for rooted LG webOS TVs.",
       "fullDescriptionUrl": "apps/io.github.beatcracker.decoderbench/full_description.html"
