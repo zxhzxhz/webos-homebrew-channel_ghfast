@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 49,
+    "count": 50,
     "maxPage": 1,
-    "itemsTotal": 49,
+    "itemsTotal": 50,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -132,6 +132,33 @@
       },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/com.pirate.refresh/full_description.html"
+    },
+    {
+      "id": "com.biliwebos.app",
+      "title": "BiliTV",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.7.0/com.biliwebos.app.manifest.json",
+      "manifest": {
+        "id": "com.biliwebos.app",
+        "version": "1.7.0",
+        "type": "web",
+        "title": "BiliTV",
+        "appDescription": "Bilibili client for webOS TV",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.7.0/com.biliwebos.app_1.7.0_all.ipk",
+        "ipkHash": {
+          "sha256": "2b4e0b619a4513de27f0b66eff125653cca994d79875549f24f610b725f90ca5"
+        },
+        "ipkSize": 462764
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
+      "shortDescription": "Bilibili client for webOS TV",
+      "fullDescriptionUrl": "apps/com.biliwebos.app/full_description.html"
     },
     {
       "id": "pl.krzywro.webos-bluetooth-disabler",
