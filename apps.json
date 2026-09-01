@@ -765,7 +765,7 @@
       "id": "org.moonfin.webos",
       "title": "Moonfin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/latest/download/org.moonfin.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.8.2/org.moonfin.webos.manifest.json",
       "manifest": {
         "id": "org.moonfin.webos",
         "version": "2.8.2",
@@ -920,22 +920,22 @@
       "id": "io.dyptan.punktfunk.webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.19.0/io.dyptan.punktfunk.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/v0.20.1/io.dyptan.punktfunk.webos.manifest.json",
       "manifest": {
         "id": "io.dyptan.punktfunk.webos",
-        "version": "0.19.0",
+        "version": "0.20.1",
         "type": "native",
         "title": "Punktfunk",
         "appDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/0.19.0/io.dyptan.punktfunk.webos_0.19.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/v0.20.1/io.dyptan.punktfunk.webos_0.20.1_arm.ipk",
         "ipkHash": {
-          "sha256": "7f238ac32757a52e9c69a303397a5c1e281694f14919d5cc6702de2b9b8460bf"
+          "sha256": "3c1a533be02e05ecb3643a8d43bd146f99e8f116797abd88a480eaae82d2892e"
         },
-        "ipkSize": 4335506,
-        "installedSize": 9347199
+        "ipkSize": 4425438,
+        "installedSize": 9477415
       },
       "pool": "main",
       "requirements": {
