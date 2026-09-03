@@ -920,7 +920,7 @@
       "id": "io.dyptan.punktfunk.webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.dyptan.punktfunk.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/dyptan-io/punktfunk-webos/releases/download/v0.20.1/io.dyptan.punktfunk.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/latest/download/io.dyptan.punktfunk.webos.manifest.json",
       "manifest": {
         "id": "io.dyptan.punktfunk.webos",
         "version": "0.20.1",
