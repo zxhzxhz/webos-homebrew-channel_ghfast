@@ -471,21 +471,21 @@
       "id": "org.webosbrew.hyperhdr.loader",
       "title": "HyperHDR",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hyperhdr.loader.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/v0.1.12/org.webosbrew.hyperhdr.loader.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/v22.0.1/org.webosbrew.hyperhdr.loader.manifest.json",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.loader",
-        "version": "0.1.12",
+        "version": "22.0.1",
         "type": "web",
         "title": "HyperHDR",
         "appDescription": "HyperHDR for WebOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.hyperhdr.loader.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/v0.1.12/org.webosbrew.hyperhdr.loader_0.1.12_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/v22.0.1/org.webosbrew.hyperhdr.loader_22.0.1_all.ipk",
         "ipkHash": {
-          "sha256": "1d5f702a72d7d5188d83b2cb61205b5650981f393ba96cb525573c97c1df8076"
+          "sha256": "1341e25c1ebb6eeea172485dc885acb44c93d79bc5ac5ce698ed721664671f08"
         },
-        "ipkSize": 39717300
+        "ipkSize": 33555434
       },
       "pool": "main",
       "requirements": {
