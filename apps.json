@@ -137,21 +137,21 @@
       "id": "com.biliwebos.app",
       "title": "BiliTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.7.1/com.biliwebos.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v2.0.0/com.biliwebos.app.manifest.json",
       "manifest": {
         "id": "com.biliwebos.app",
-        "version": "1.7.1",
+        "version": "2.0.0",
         "type": "web",
         "title": "BiliTV",
         "appDescription": "Bilibili client for webOS TV",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v1.7.1/com.biliwebos.app_1.7.1_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v2.0.0/com.biliwebos.app_2.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "6600c467a4c7c39fb5e757d66b2e6693416ff181b5e9e249dd89eeb883d7a371"
+          "sha256": "2089f1dcc2f932153b6a292260b5aadcea0f8ca6d71b97a3174cd143ea86c050"
         },
-        "ipkSize": 463402
+        "ipkSize": 477012
       },
       "pool": "main",
       "requirements": {
