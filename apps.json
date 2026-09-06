@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 50,
+    "count": 51,
     "maxPage": 1,
-    "itemsTotal": 50,
+    "itemsTotal": 51,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -915,6 +915,35 @@
       "pool": "main",
       "shortDescription": "Movies - RakutenTV button",
       "fullDescriptionUrl": "apps/ui30/full_description.html"
+    },
+    {
+      "id": "com.beb.plxnative",
+      "title": "PlxNative",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.0/com.beb.plxnative.manifest.json",
+      "manifest": {
+        "id": "com.beb.plxnative",
+        "version": "0.6.0",
+        "type": "native",
+        "title": "PlxNative",
+        "appDescription": "Unofficial native Plex client - not affiliated with Plex",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.0/com.beb.plxnative_0.6.0_arm.ipk",
+        "ipkHash": {
+          "sha256": "2f81080b5f02e5ec6ec8b29cf6fa190065ab06258b2c908136d3daf64fc6e0e4"
+        },
+        "ipkSize": 16705512,
+        "installedSize": 31258
+      },
+      "pool": "main",
+      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/pkg/icon320.png",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "shortDescription": "Unofficial native Plex client - not affiliated with Plex",
+      "fullDescriptionUrl": "apps/com.beb.plxnative/full_description.html"
     },
     {
       "id": "io.dyptan.punktfunk.webos",
