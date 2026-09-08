@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 51,
+    "count": 52,
     "maxPage": 1,
-    "itemsTotal": 51,
+    "itemsTotal": 52,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -944,6 +944,34 @@
       },
       "shortDescription": "Unofficial native Plex client - not affiliated with Plex",
       "fullDescriptionUrl": "apps/com.beb.plxnative/full_description.html"
+    },
+    {
+      "id": "io.unom.punktfunk.client-webos",
+      "title": "Punktfunk",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.21.2/io.unom.punktfunk.client-webos.manifest.json",
+      "manifest": {
+        "id": "io.unom.punktfunk.client-webos",
+        "version": "0.21.2",
+        "type": "native",
+        "title": "Punktfunk",
+        "appDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.21.2/io.unom.punktfunk.client-webos_0.21.2_arm.ipk",
+        "ipkHash": {
+          "sha256": "10261060968e6a2e3c6205c2c4e3ac353c3129abec17bd957a834f1a11bf276f"
+        },
+        "ipkSize": 12300980,
+        "installedSize": 25931692
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4"
+      },
+      "shortDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
+      "fullDescriptionUrl": "apps/io.unom.punktfunk.client-webos/full_description.html"
     },
     {
       "id": "io.dyptan.punktfunk.webos",
