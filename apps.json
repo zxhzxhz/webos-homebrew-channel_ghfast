@@ -137,21 +137,21 @@
       "id": "com.biliwebos.app",
       "title": "BiliTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v2.0.0/com.biliwebos.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v2.1.0/com.biliwebos.app.manifest.json",
       "manifest": {
         "id": "com.biliwebos.app",
-        "version": "2.0.0",
+        "version": "2.1.0",
         "type": "web",
         "title": "BiliTV",
         "appDescription": "Bilibili client for webOS TV",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.biliwebos.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v2.0.0/com.biliwebos.app_2.0.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/asdf17128/bili-webos/releases/download/v2.1.0/com.biliwebos.app_2.1.0_all.ipk",
         "ipkHash": {
-          "sha256": "2089f1dcc2f932153b6a292260b5aadcea0f8ca6d71b97a3174cd143ea86c050"
+          "sha256": "c52f6833e8d4a313f9c66e4739521004908bee2ce90bcd81873e9ecdca53b4cd"
         },
-        "ipkSize": 477012
+        "ipkSize": 477188
       },
       "pool": "main",
       "requirements": {
@@ -920,22 +920,22 @@
       "id": "com.beb.plxnative",
       "title": "PlxNative",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.3/com.beb.plxnative.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.5/com.beb.plxnative.manifest.json",
       "manifest": {
         "id": "com.beb.plxnative",
-        "version": "0.6.3",
+        "version": "0.6.5",
         "type": "native",
         "title": "PlxNative",
         "appDescription": "Unofficial native Plex client - not affiliated with Plex",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
         "sourceUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.3/com.beb.plxnative_0.6.3_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.5/com.beb.plxnative_0.6.5_arm.ipk",
         "ipkHash": {
-          "sha256": "bdf6e2b7230b6a30110960ae7288ad56cef3afcb4408bd1705ad8322c1436ee5"
+          "sha256": "2c11a1e5cc38a2734b5e29779aae52612ddf3ae02555771a052a80469981e54f"
         },
-        "ipkSize": 16783450,
-        "installedSize": 31435
+        "ipkSize": 16827832,
+        "installedSize": 31512
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/pkg/icon320.png",
@@ -1241,21 +1241,21 @@
       "id": "org.webosbrew.bridge-64to32",
       "title": "webOS 64-bit bridge",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.4/org.webosbrew.bridge-64to32.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.5/org.webosbrew.bridge-64to32.manifest.json",
       "manifest": {
         "id": "org.webosbrew.bridge-64to32",
-        "version": "0.0.4",
+        "version": "0.0.5",
         "type": "native",
         "title": "64 to 32-bit Bridge",
         "appDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32",
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.4/org.webosbrew.bridge-64to32_aarch64_v0.0.4.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.5/org.webosbrew.bridge-64to32_aarch64_v0.0.5.ipk",
         "ipkHash": {
-          "sha256": "a5fc71ffe84962634a12fceb89b55a2b70afcbeeb15d5e326aecdc5f4d254f99"
+          "sha256": "37cb0e942aa08f784996c6c6b5044d5109e0c946496fdeec48fad29e2cce28a5"
         },
-        "ipkSize": 14839194,
-        "installedSize": 34415297
+        "ipkSize": 16211974,
+        "installedSize": 38077258
       },
       "pool": "main",
       "requirements": {
