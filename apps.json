@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 52,
+    "count": 53,
     "maxPage": 1,
-    "itemsTotal": 52,
+    "itemsTotal": 53,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -813,6 +813,34 @@
       "shortDescription": "Open Source NVIDIA GameStream Client",
       "featured": true,
       "fullDescriptionUrl": "apps/com.limelight.webos/full_description.html"
+    },
+    {
+      "id": "com.ocenfin.app",
+      "title": "OcenFin",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.08.31/com.ocenfin.app.manifest.json",
+      "manifest": {
+        "id": "com.ocenfin.app",
+        "version": "2026.8.31",
+        "type": "web",
+        "title": "OcenFin",
+        "appDescription": "Jellyfin client for webOS",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/seluce/OcenFin",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.08.31/com.ocenfin.app_2026.8.31_modern.ipk",
+        "ipkHash": {
+          "sha256": "c0ff43f8c814674f30940de0a6d8f63b60c05c2d7baef8290630543763390716"
+        },
+        "ipkSize": 1666556,
+        "installedSize": 2890594
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=10.0"
+      },
+      "shortDescription": "Jellyfin client for webOS",
+      "fullDescriptionUrl": "apps/com.ocenfin.app/full_description.html"
     },
     {
       "id": "com.open.hidden.menu",
