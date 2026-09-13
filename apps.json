@@ -1269,20 +1269,20 @@
       "id": "org.webosbrew.bridge-64to32",
       "title": "webOS 64-bit bridge",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.5/org.webosbrew.bridge-64to32.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.6/org.webosbrew.bridge-64to32.manifest.json",
       "manifest": {
         "id": "org.webosbrew.bridge-64to32",
-        "version": "0.0.5",
+        "version": "0.0.6",
         "type": "native",
         "title": "64 to 32-bit Bridge",
         "appDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32",
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.5/org.webosbrew.bridge-64to32_aarch64_v0.0.5.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.6/org.webosbrew.bridge-64to32_aarch64_v0.0.6.ipk",
         "ipkHash": {
-          "sha256": "37cb0e942aa08f784996c6c6b5044d5109e0c946496fdeec48fad29e2cce28a5"
+          "sha256": "8f876779736f0aca976779644b6f847b12a2f1079f9aafa1226b6bf4830cd25c"
         },
-        "ipkSize": 16211974,
+        "ipkSize": 16212032,
         "installedSize": 38077258
       },
       "pool": "main",
