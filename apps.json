@@ -371,21 +371,21 @@
       "id": "com.cheerchen.decotv",
       "title": "DecoTV",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.4/com.cheerchen.decotv.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.6.0/com.cheerchen.decotv.manifest.json",
       "manifest": {
         "id": "com.cheerchen.decotv",
-        "version": "0.5.4",
+        "version": "0.6.0",
         "type": "web",
         "title": "DecoTV",
         "appDescription": "DecoTV client for webOS \u2014 self-hosted server required",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.cheerchen.decotv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.5.4/com.cheerchen.decotv_0.5.4_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/CheerChen/decotv-webos/releases/download/v0.6.0/com.cheerchen.decotv_0.6.0_all.ipk",
         "ipkHash": {
-          "sha256": "fce6b0c71a0b19eb91db3237e6aa471af62f91e3ab53647b4157881ec8be19a6"
+          "sha256": "627b4eda32ab58aa7ff823114dcf4c301eefa2483265068b597a2d1c6e3fede3"
         },
-        "ipkSize": 242040
+        "ipkSize": 274250
       },
       "pool": "main",
       "requirements": {
