@@ -525,21 +525,21 @@
       "id": "org.oted.idlegif",
       "title": "Idlegif",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.oted.idlegif.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Oted/idlegif/releases/download/v1.3.0/org.oted.idlegif.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Oted/idlegif/releases/download/v2.0.0/org.oted.idlegif.manifest.json",
       "manifest": {
         "id": "org.oted.idlegif",
-        "version": "1.3.0",
+        "version": "2.0.0",
         "type": "web",
         "title": "Idlegif",
         "appDescription": "GIF screensaver for rooted LG webOS TVs",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.oted.idlegif.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Oted/idlegif",
-        "ipkUrl": "https://ghfast.top/https://github.com/Oted/idlegif/releases/download/v1.3.0/org.oted.idlegif_1.3.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Oted/idlegif/releases/download/v2.0.0/org.oted.idlegif_2.0.0_all.ipk",
         "rootRequired": true,
         "ipkHash": {
-          "sha256": "c5f94691f82606e3d8f2eaf154c27b7c993515acf1c6a34b83d42b02be987f84"
+          "sha256": "0e425b1b251e7519df40d5bfa262bb9768a2f5591d0035f751a068d765ce0832"
         },
-        "ipkSize": 749548
+        "ipkSize": 840252
       },
       "pool": "main",
       "shortDescription": "GIF screensaver for rooted LG webOS TVs",
@@ -573,21 +573,21 @@
       "id": "com.immich.webos",
       "title": "Immich",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.immich.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.13.0/com.immich.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.14.0/com.immich.webos.manifest.json",
       "manifest": {
         "id": "com.immich.webos",
-        "version": "0.13.0",
+        "version": "0.14.0",
         "type": "web",
         "title": "Immich",
         "appDescription": "Browse your self-hosted Immich photo and video library on webOS TV.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.immich.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.13.0/com.immich.webos.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/aneeshtigga/immich-webos/releases/download/v0.14.0/com.immich.webos.ipk",
         "ipkHash": {
-          "sha256": "8df7643afd0ee133d1048c12badf44c06ad92fa99998f110b0538dd97aa19d4a"
+          "sha256": "e606fcdedde28a7aaf963955b0b850580e4b27428a425765b637ce0635c0c5e5"
         },
-        "ipkSize": 908026
+        "ipkSize": 908092
       },
       "pool": "main",
       "requirements": {
@@ -977,22 +977,22 @@
       "id": "io.unom.punktfunk.client-webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.22.0/io.unom.punktfunk.client-webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.22.1/io.unom.punktfunk.client-webos.manifest.json",
       "manifest": {
         "id": "io.unom.punktfunk.client-webos",
-        "version": "0.22.0",
+        "version": "0.22.1",
         "type": "native",
         "title": "Punktfunk",
         "appDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.22.0/io.unom.punktfunk.client-webos_0.22.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.22.1/io.unom.punktfunk.client-webos_0.22.1_arm.ipk",
         "ipkHash": {
-          "sha256": "66926f84c4040a3acf0acf8b87f7c2e0e2cc3c23ef8b6311de0b57136d0475cc"
+          "sha256": "daf298beca08bbdccff417c5548ce066b5043038ff414b3291f0c88e32a30f1f"
         },
-        "ipkSize": 12514266,
-        "installedSize": 26370580
+        "ipkSize": 12543468,
+        "installedSize": 26415644
       },
       "pool": "main",
       "requirements": {
