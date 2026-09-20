@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 52,
+    "count": 49,
     "maxPage": 1,
-    "itemsTotal": 52,
+    "itemsTotal": 49,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -159,30 +159,6 @@
       },
       "shortDescription": "Bilibili client for webOS TV",
       "fullDescriptionUrl": "apps/com.biliwebos.app/full_description.html"
-    },
-    {
-      "id": "pl.krzywro.webos-bluetooth-disabler",
-      "title": "Bluetooth Disabler",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/pl.krzywro.webos-bluetooth-disabler.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/krzywro/webos-bluetooth-disabler/releases/download/v1.1.0/pl.krzywro.webos-bluetooth-disabler.manifest.json",
-      "manifest": {
-        "id": "pl.krzywro.webos-bluetooth-disabler",
-        "version": "1.1.0",
-        "type": "web",
-        "title": "webOS Bluetooth Disabler",
-        "appDescription": "Laugh in the face of the settings and disable Bluetooth anyway!",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/pl.krzywro.webos-bluetooth-disabler.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/krzywro/webos-bluetooth-disabler",
-        "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/krzywro/webos-bluetooth-disabler/releases/download/v1.1.0/pl.krzywro.webos-bluetooth-disabler_1.1.0_all.ipk",
-        "ipkHash": {
-          "sha256": "94721830a756e24c9d10791fe07ec7e86aed6ce345b6a0206a3fc76fe39bae57"
-        },
-        "ipkSize": 2934376
-      },
-      "pool": "main",
-      "shortDescription": "Laugh in the face of the settings and disable Bluetooth anyway!",
-      "fullDescriptionUrl": "apps/pl.krzywro.webos-bluetooth-disabler/full_description.html"
     },
     {
       "id": "com.breezyfin.app",
@@ -544,30 +520,6 @@
       "pool": "main",
       "shortDescription": "GIF screensaver for rooted LG webOS TVs",
       "fullDescriptionUrl": "apps/org.oted.idlegif/full_description.html"
-    },
-    {
-      "id": "org.mariotaku.ihsplay",
-      "title": "IHSplay",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.mariotaku.ihsplay.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/ihsplay/releases/download/v0.2.12/org.mariotaku.ihsplay.manifest.json",
-      "manifest": {
-        "id": "org.mariotaku.ihsplay",
-        "version": "0.2.12",
-        "type": "native",
-        "title": "IHSplay",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.mariotaku.ihsplay.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/mariotaku/ihsplay",
-        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/ihsplay/releases/download/v0.2.12/org.mariotaku.ihsplay_0.2.12_arm.ipk",
-        "ipkHash": {
-          "sha256": "833c0103a03cb20f14ad497e77cf31dbaf8469fe842e6a3b8a76626dda1cbd45"
-        },
-        "ipkSize": 5227188,
-        "installedSize": 14454101
-      },
-      "pool": "main",
-      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/ihsplay/master/deploy/webos/largeIcon.png",
-      "shortDescription": "SDL2-based Steam Link client for webOS TV",
-      "fullDescriptionUrl": "apps/org.mariotaku.ihsplay/full_description.html"
     },
     {
       "id": "com.immich.webos",
@@ -1024,33 +976,6 @@
       "pool": "main",
       "shortDescription": "Emulation frontend",
       "fullDescriptionUrl": "apps/com.retroarch.webos/full_description.html"
-    },
-    {
-      "id": "com.sendspin.cinema",
-      "title": "Sendspin Cinema",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/com.sendspin.cinema.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/zonya/sendspin-cinema-webos/releases/download/v1.0.1/com.sendspin.cinema.manifest.json",
-      "manifest": {
-        "appDescription": "Cinema-inspired Music Assistant player for LG webOS TVs. Features dynamic album art theming, smooth progress tracking, and remote-optimized controls.",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/com.sendspin.cinema.png",
-        "id": "com.sendspin.cinema",
-        "ipkHash": {
-          "sha256": "8e547bf23e86b340ce7c27d76c57bcf3cab1e54a080e7cd11a5321b75736d9a4"
-        },
-        "ipkUrl": "https://ghfast.top/https://github.com/zonya/sendspin-cinema-webos/releases/download/v1.0.1/com.sendspin.cinema_1.0.1_all.ipk",
-        "rootRequired": false,
-        "sourceUrl": "https://ghfast.top/https://github.com/zonya/sendspin-cinema-webos",
-        "title": "Sendspin Cinema",
-        "type": "web",
-        "version": "1.0.1",
-        "ipkSize": 2109888
-      },
-      "pool": "main",
-      "requirements": {
-        "webosRelease": ">=7.0"
-      },
-      "shortDescription": "Cinema-inspired Music Assistant player for LG webOS TVs. Features dynamic album art theming, smooth progress tracking, and remote-optimized controls.",
-      "fullDescriptionUrl": "apps/com.sendspin.cinema/full_description.html"
     },
     {
       "id": "com.tbsniller.smarttwitchwebostv",
