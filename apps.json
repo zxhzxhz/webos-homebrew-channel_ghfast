@@ -818,22 +818,22 @@
       "id": "com.ocenfin.app",
       "title": "OcenFin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.08.31/com.ocenfin.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.09.22/com.ocenfin.app.manifest.json",
       "manifest": {
         "id": "com.ocenfin.app",
-        "version": "2026.8.31",
+        "version": "2026.9.22",
         "type": "web",
         "title": "OcenFin",
         "appDescription": "Jellyfin client for webOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/seluce/OcenFin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.08.31/com.ocenfin.app_2026.8.31_modern.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.09.22/com.ocenfin.app_2026.9.22_modern.ipk",
         "ipkHash": {
-          "sha256": "c0ff43f8c814674f30940de0a6d8f63b60c05c2d7baef8290630543763390716"
+          "sha256": "eaf425a6313008598ff6b47f123156beff6d3eef27065be2196fb7ca06b87672"
         },
-        "ipkSize": 1666556,
-        "installedSize": 2890594
+        "ipkSize": 1667462,
+        "installedSize": 2892612
       },
       "pool": "main",
       "requirements": {
