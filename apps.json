@@ -1084,6 +1084,32 @@
       "requirements": {
         "webosRelease": ">=4"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/punktfunk/client-webos/main/assets/screenshots/controller-ui-game.jpg",
+          "caption": "Controller - Game",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/punktfunk/client-webos/main/assets/screenshots/controller-ui-home.jpg",
+          "caption": "Controller - Home",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/punktfunk/client-webos/main/assets/screenshots/console-kit-home.jpg",
+          "caption": "Console - Home",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/punktfunk/client-webos/main/assets/screenshots/console-kit-settings.jpg",
+          "caption": "Console - Settings",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
       "fullDescriptionUrl": "apps/io.unom.punktfunk.client-webos/full_description.html"
     },
