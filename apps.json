@@ -53,6 +53,26 @@
         "ipkSize": 1743884
       },
       "pool": "main",
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/assets/84480313/77daf2da-b528-41ba-8377-fff70e6e1fd3",
+          "caption": "Main",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/assets/84480313/166f43e7-a3cf-4035-975a-931f282f5655",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/assets/84480313/1b7f281b-efdc-4eed-b0f2-b06f4bd5929a",
+          "caption": "Settings",
+          "width": 1280,
+          "height": 720
+        }
+      ],
       "shortDescription": "Aerial custom webOS Screensaver",
       "fullDescriptionUrl": "apps/org.aabytt.webos.custom-screensaver-aerial/full_description.html"
     },
@@ -79,6 +99,26 @@
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/rchalaaa/custom-screensaver/3eb0f8399aa3ec4142bcc438f0b0be0cfe58c40d/screenshots/1.png",
+          "caption": "Main",
+          "width": 2284,
+          "height": 1263
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/rchalaaa/custom-screensaver/3eb0f8399aa3ec4142bcc438f0b0be0cfe58c40d/screenshots/2.png",
+          "caption": null,
+          "width": 2284,
+          "height": 1263
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/rchalaaa/custom-screensaver/3eb0f8399aa3ec4142bcc438f0b0be0cfe58c40d/screenshots/3.png",
+          "caption": "Settings",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": null,
       "fullDescriptionUrl": "apps/org.rchalaaa.webos.custom-screensaver/full_description.html"
     },
@@ -313,6 +353,38 @@
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/1_warning.jpg?raw=true",
+          "caption": "Warning Screen",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/2_login.jpg?raw=true",
+          "caption": "Login Screen",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/3_profile.jpg?raw=true",
+          "caption": "Profile Screen",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/4_feed.jpg?raw=true",
+          "caption": "Feed Screen",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/5_detail.jpg?raw=true",
+          "caption": "Details Screen",
+          "width": 1280,
+          "height": 720
+        }
+      ],
       "shortDescription": "Unofficial Crunchyroll app for LG Smart TVs.",
       "fullDescriptionUrl": "apps/com.crunchyroll.stream.app/full_description.html"
     },
@@ -566,6 +638,20 @@
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/ihsplay/master/deploy/webos/largeIcon.png",
+      "screenshots": [
+        {
+          "url": "https://user-images.githubusercontent.com/830358/207047084-8ab2ce4e-daca-4027-aeed-4fc1a441e75e.png",
+          "caption": "Home UI",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://user-images.githubusercontent.com/830358/207047480-8cc96496-4fab-4a0e-8d1a-896183c54a6e.png",
+          "caption": "Streaming Overlay",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "SDL2-based Steam Link client for webOS TV",
       "fullDescriptionUrl": "apps/org.mariotaku.ihsplay/full_description.html"
     },
@@ -1360,6 +1446,20 @@
         "ipkSize": 479722
       },
       "pool": "main",
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/webosbrew/youtube-webos/blob/main/screenshots/1_sm.jpg?raw=true",
+          "caption": "Configuration Screen",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/webosbrew/youtube-webos/blob/main/screenshots/2_sm.jpg?raw=true",
+          "caption": "Segment Skipped",
+          "width": 1280,
+          "height": 720
+        }
+      ],
       "shortDescription": null,
       "fullDescriptionUrl": "apps/youtube.leanback.v4/full_description.html"
     }
