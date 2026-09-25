@@ -1083,22 +1083,22 @@
       "id": "com.beb.plxnative",
       "title": "PlxNative",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.6/com.beb.plxnative.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.7.0/com.beb.plxnative.manifest.json",
       "manifest": {
         "id": "com.beb.plxnative",
-        "version": "0.6.6",
+        "version": "0.7.0",
         "type": "native",
         "title": "PlxNative",
         "appDescription": "Unofficial native Plex client - not affiliated with Plex",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
         "sourceUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.6.6/com.beb.plxnative_0.6.6_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.7.0/com.beb.plxnative_0.7.0_arm.ipk",
         "ipkHash": {
-          "sha256": "f1f9de646bb587f0779f1b8e58721fcaa34bb325002be27a735b3a2a9aae6858"
+          "sha256": "a1e95887466f71fd3ea4da023bf87e90e29a535fec4ee76271f1423fdc32cbed"
         },
-        "ipkSize": 17739322,
-        "installedSize": 33856
+        "ipkSize": 19133246,
+        "installedSize": 36917
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/pkg/icon320.png",
