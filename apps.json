@@ -1482,7 +1482,7 @@
       "id": "com.github.cfernande1470.wireguard",
       "title": "WireGuard VPN",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.cfernande1470.wireguard.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/cfernande1470/webos-wireguard/releases/download/v1.0.5/com.github.cfernande1470.wireguard.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/RodriguezCF/webos-wireguard/releases/latest/download/com.github.cfernande1470.wireguard.manifest.json",
       "manifest": {
         "id": "com.github.cfernande1470.wireguard",
         "version": "1.0.5",
