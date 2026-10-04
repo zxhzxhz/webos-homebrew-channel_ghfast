@@ -849,21 +849,21 @@
       "id": "org.webosbrew.inputhook",
       "title": "LG Input Hook",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.inputhook.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Simon34545/lginputhook/releases/download/v1.4.0/org.webosbrew.inputhook.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Simon34545/lginputhook/releases/download/v1.5.0/org.webosbrew.inputhook.manifest.json",
       "manifest": {
         "id": "org.webosbrew.inputhook",
-        "version": "1.4.0",
+        "version": "1.5.0",
         "type": "web",
         "title": "LG Input Hook",
         "appDescription": "LG Input Hook - Button remapper for TV remotes",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.inputhook.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Simon34545/lginputhook",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/Simon34545/lginputhook/releases/download/v1.4.0/org.webosbrew.inputhook_1.4.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Simon34545/lginputhook/releases/download/v1.5.0/org.webosbrew.inputhook_1.5.0_all.ipk",
         "ipkHash": {
-          "sha256": "5dc3dff1fadd5da30af6f60b237282564491e62d502f2beaeca32c9febf0ecfb"
+          "sha256": "92FD03F18941D5B5017C829F33ACAC3188355CE8459E1276F9DDF79167004B85"
         },
-        "ipkSize": 10967116
+        "ipkSize": 2870196
       },
       "pool": "main",
       "shortDescription": "LG Input Hook - Button remapper for TV remotes",
