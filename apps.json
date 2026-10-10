@@ -840,21 +840,21 @@
       "id": "org.xbmc.kodi",
       "title": "Kodi",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
-      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.90.802.json",
+      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.90.901.json",
       "manifest": {
         "id": "org.xbmc.kodi",
         "title": "Kodi",
-        "version": "21.90.802",
+        "version": "21.90.901",
         "type": "native",
         "appDescription": null,
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
         "sourceUrl": "https://ghfast.top/https://github.com/xbmc/xbmc",
-        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_22.0~b2.ipk",
+        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_22.0~rc1.ipk",
         "ipkHash": {
-          "sha256": "aaedafa44804945b8b334dbed29e62023a2e05d82ec2647dc7f63ba85b632742"
+          "sha256": "f99820218e52721f36f779b05ffe21272b243cf265288febc63874275f84d12e"
         },
-        "ipkSize": 96189268,
-        "installedSize": 246350656
+        "ipkSize": 98247076,
+        "installedSize": 248675455
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/xbmc/xbmc/master/media/icon256x256.png",
