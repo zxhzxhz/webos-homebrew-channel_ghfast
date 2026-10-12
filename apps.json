@@ -356,23 +356,33 @@
       "screenshots": [
         {
           "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/1_warning.jpg?raw=true",
-          "caption": "Warning Screen"
+          "caption": "Warning Screen",
+          "width": 1280,
+          "height": 720
         },
         {
           "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/2_login.jpg?raw=true",
-          "caption": "Login Screen"
+          "caption": "Login Screen",
+          "width": 1280,
+          "height": 720
         },
         {
           "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/3_profile.jpg?raw=true",
-          "caption": "Profile Screen"
+          "caption": "Profile Screen",
+          "width": 1280,
+          "height": 720
         },
         {
           "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/4_feed.jpg?raw=true",
-          "caption": "Feed Screen"
+          "caption": "Feed Screen",
+          "width": 1280,
+          "height": 720
         },
         {
           "url": "https://ghfast.top/https://github.com/ediaz23/crunchyroll-webos-stream/blob/1a6ba0ec544d1c349166e00f4c1309af9480af3e/screenshots/5_detail.jpg?raw=true",
-          "caption": "Details Screen"
+          "caption": "Details Screen",
+          "width": 1280,
+          "height": 720
         }
       ],
       "shortDescription": "Unofficial Crunchyroll app for LG Smart TVs.",
@@ -1567,11 +1577,15 @@
       "screenshots": [
         {
           "url": "https://ghfast.top/https://github.com/webosbrew/youtube-webos/blob/main/screenshots/1_sm.jpg?raw=true",
-          "caption": "Configuration Screen"
+          "caption": "Configuration Screen",
+          "width": 1280,
+          "height": 720
         },
         {
           "url": "https://ghfast.top/https://github.com/webosbrew/youtube-webos/blob/main/screenshots/2_sm.jpg?raw=true",
-          "caption": "Segment Skipped"
+          "caption": "Segment Skipped",
+          "width": 1280,
+          "height": 720
         }
       ],
       "shortDescription": null,
