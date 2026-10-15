@@ -150,21 +150,21 @@
       "id": "com.pirate.refresh",
       "title": "Auto Dev Token Refresh",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.pirate.refresh.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.3/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.4/manifest.json",
       "manifest": {
         "id": "com.pirate.refresh",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "type": "web",
         "title": "Auto Token Refresh",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.pirate.refresh.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.3/com.pirate.refresh_1.0.3_all.ipk",
+        "sourceUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.4/com.pirate.refresh_1.0.4_all.ipk",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.3/com.pirate.refresh_1.0.3_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/LucifersCircle/WebOS-Token-Refresh-App/releases/download/v1.0.4/com.pirate.refresh_1.0.4_all.ipk",
         "ipkHash": {
-          "sha256": "0d300bb89640be0d2444880b82871aacdc41d91042618e534aa3e5f4941fac8b"
+          "sha256": "534b133afe1b28f0fbec95595a60316bce0219c6c9af17093a700873886317d0"
         },
-        "ipkSize": 108078,
-        "installedSize": 201013
+        "ipkSize": 111764,
+        "installedSize": 206468
       },
       "pool": "main",
       "requirements": {
