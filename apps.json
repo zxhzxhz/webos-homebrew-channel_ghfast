@@ -1372,20 +1372,20 @@
       "id": "twitch.adamffdev.v1",
       "title": "Twitch AdFree",
       "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.4/twitch.adamffdev.v1.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.6/twitch.adamffdev.v1.manifest.json",
       "manifest": {
         "id": "twitch.adamffdev.v1",
-        "version": "1.6.4",
+        "version": "1.6.6",
         "type": "web",
         "title": "Twitch AdFree",
         "iconUri": "https://repo.webosbrew.org/apps/icons/twitch.adamffdev.v1.png",
         "sourceUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.4/twitch.adamffdev.v1_1.6.4_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/adamff-dev/twitch-adfree-webos/releases/download/1.6.6/twitch.adamffdev.v1_1.6.6_all.ipk",
         "ipkHash": {
-          "sha256": "894dbe56e186ebb0e4378d6cc923012b6edcf4149379f1a26e3bee85e27bfa46"
+          "sha256": "12033cbe503026a36d75112f97ed6bc816021eab38013e2a8c14d23d8d96ecc4"
         },
-        "ipkSize": 335812
+        "ipkSize": 354550
       },
       "pool": "main",
       "requirements": {
@@ -1452,21 +1452,21 @@
       "id": "org.webosbrew.bridge-64to32",
       "title": "webOS 64-bit bridge",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.7/org.webosbrew.bridge-64to32.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.8/org.webosbrew.bridge-64to32.manifest.json",
       "manifest": {
         "id": "org.webosbrew.bridge-64to32",
-        "version": "0.0.7",
+        "version": "0.0.8",
         "type": "native",
         "title": "64 to 32-bit Bridge",
         "appDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.bridge-64to32.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32",
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.7/org.webosbrew.bridge-64to32_aarch64_v0.0.7.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/webos-bridge-64to32/releases/download/v0.0.8/org.webosbrew.bridge-64to32_aarch64_v0.0.8.ipk",
         "ipkHash": {
-          "sha256": "f37e8a5e5ce0458b686f6fafe37d7cba2b20778266b4da6a7901f1e40ef97984"
+          "sha256": "01c9c94a85b434a3b21fee5ed1dbf79d448ed788c1ae019234f4eb16c141aaf7"
         },
-        "ipkSize": 16333532,
-        "installedSize": 38106842
+        "ipkSize": 16319040,
+        "installedSize": 38069881
       },
       "pool": "main",
       "requirements": {
