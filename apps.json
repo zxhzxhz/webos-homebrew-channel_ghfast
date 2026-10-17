@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 53,
+    "count": 54,
     "maxPage": 1,
-    "itemsTotal": 53,
+    "itemsTotal": 54,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -918,6 +918,33 @@
       "pool": "main",
       "shortDescription": "LG Input Hook - Button remapper for TV remotes",
       "fullDescriptionUrl": "apps/org.webosbrew.inputhook/full_description.html"
+    },
+    {
+      "id": "ooo.lew.lifesgoodwithoutspying",
+      "title": "Life's Good Without Spying",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.6.0/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifest": {
+        "id": "ooo.lew.lifesgoodwithoutspying",
+        "version": "0.6.0",
+        "type": "web",
+        "title": "Life's Good Without Spying",
+        "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying",
+        "rootRequired": true,
+        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/latest/download/ooo.lew.lifesgoodwithoutspying.ipk",
+        "ipkHash": {
+          "sha256": "e88208fb89624195dcf5f275dadc3fd88c0690f9495902de44fe62bd8953af8f"
+        },
+        "ipkSize": 113856
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
+      "shortDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
+      "fullDescriptionUrl": "apps/ooo.lew.lifesgoodwithoutspying/full_description.html"
     },
     {
       "id": "org.litefin.app",
