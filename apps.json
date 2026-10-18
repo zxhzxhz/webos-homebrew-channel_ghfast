@@ -1,13 +1,40 @@
 {
   "paging": {
     "page": 1,
-    "count": 54,
+    "count": 55,
     "maxPage": 1,
-    "itemsTotal": 54,
+    "itemsTotal": 55,
     "prevUrl": null,
     "nextUrl": null
   },
   "packages": [
+    {
+      "id": "com.gabrielecirulli.app2048.webos",
+      "title": "2048 Port for WebOS",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.gabrielecirulli.app2048.webos.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/Kzuismee/2048-Port-for-WebOS/releases/download/1.0.0/manifest.json",
+      "manifest": {
+        "id": "com.gabrielecirulli.app2048.webos",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "2048 Port for WebOS",
+        "appDescription": "Classic 2048 puzzle game ported for LG webOS TVs. Play directly on your TV using Magic Remote or D-Pad.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.gabrielecirulli.app2048.webos.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/Kzuismee/2048-Port-for-WebOS",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/Kzuismee/2048-Port-for-WebOS/releases/download/1.0.0/com.gabrielecirulli.app2048.webos_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "814f4e95dd9917e240637df7bf91396498e00d92f2fd1f7993a27c3e0e90db19"
+        },
+        "ipkSize": 930444
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "shortDescription": "Classic 2048 puzzle game ported for LG webOS TVs. Play directly on your TV using Magic Remote or D-Pad.",
+      "fullDescriptionUrl": "apps/com.gabrielecirulli.app2048.webos/full_description.html"
+    },
     {
       "id": "com.github.k4zmu2a.space-cadet-pinball",
       "title": "3D Pinball \u2013 Space Cadet",
@@ -962,9 +989,9 @@
         "rootRequired": false,
         "ipkUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v2.0.20/Litefin-2.0.20-webOS-Legacy.ipk",
         "ipkHash": {
-          "sha256": "62ab1f83d1c18b71476d5ab536b4674b996f4b0f2fef6df6094cac44bb329dc2"
+          "sha256": "da2b03ee7a2021fd633dbea70ae8dfcc09f7c793ff39dcd83dd2f19daa0b64a8"
         },
-        "ipkSize": 6353160
+        "ipkSize": 6353520
       },
       "pool": "main",
       "requirements": {
