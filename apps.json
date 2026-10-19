@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 55,
+    "count": 56,
     "maxPage": 1,
-    "itemsTotal": 55,
+    "itemsTotal": 56,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -1265,6 +1265,65 @@
       ],
       "shortDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
       "fullDescriptionUrl": "apps/io.unom.punktfunk.client-webos/full_description.html"
+    },
+    {
+      "id": "com.qoder.iptv",
+      "title": "Qoder IPTV Player",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.qoder.iptv.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.44/com.qoder.iptv.manifest.json",
+      "manifest": {
+        "id": "com.qoder.iptv",
+        "version": "1.1.44",
+        "type": "web",
+        "title": "IPTV \u76f4\u64ad",
+        "appDescription": "Open-source M3U media player (MIT). No channels, programmes, playlists or EPG data are included.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.qoder.iptv.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.44/com.qoder.iptv_1.1.44_all.ipk",
+        "ipkSize": 279400,
+        "ipkHash": {
+          "sha256": "0c0a895fa8240507374fe5b79a6b333af4727c4b18d307adb0e3c3309a85584f"
+        }
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.3"
+      },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/HCLGitHub/qoder-iptv/main/docs/screenshots/channels-epg.png",
+          "caption": "Channel menu with groups, channels, EPG dates and catch-up programmes",
+          "width": 1256,
+          "height": 701
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/HCLGitHub/qoder-iptv/main/docs/screenshots/playback-osd.png",
+          "caption": "Live playback with the channel info bar",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/HCLGitHub/qoder-iptv/main/docs/screenshots/settings.png",
+          "caption": "Settings panel",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/HCLGitHub/qoder-iptv/main/docs/screenshots/tv-home-1.jpg",
+          "caption": "App on the LG webOS home screen",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/HCLGitHub/qoder-iptv/main/docs/screenshots/tv-home-2.jpg",
+          "caption": "App icon on the home screen of another LG TV",
+          "width": 1920,
+          "height": 1440
+        }
+      ],
+      "shortDescription": "Open-source M3U media player (MIT). No channels, programmes, playlists or EPG data are included.",
+      "fullDescriptionUrl": "apps/com.qoder.iptv/full_description.html"
     },
     {
       "id": "com.retroarch.webos",
