@@ -63,21 +63,21 @@
       "id": "org.aabytt.webos.custom-screensaver-aerial",
       "title": "Aerial Screensaver",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v1.0.12/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.0/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
       "manifest": {
         "id": "org.aabytt.webos.custom-screensaver-aerial",
-        "version": "1.0.12",
+        "version": "3.0.0",
         "type": "web",
         "title": "WebOS Aerial Screensaver",
         "appDescription": "Aerial custom webOS Screensaver",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
         "sourceUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v1.0.12/org.aabytt.webos.custom-screensaver-aerial_1.0.12_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.0/org.aabytt.webos.custom-screensaver-aerial_3.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "ab8608eb73db064687ec5ed8eb4052b290a20c03ad677b60512d159139899637"
+          "sha256": "cfdd452d4678b71832f146fea16637a5c91f3326aba5155f0ae0c1ae2a9d74fb"
         },
-        "ipkSize": 1743884
+        "ipkSize": 2097652
       },
       "pool": "main",
       "screenshots": [
@@ -282,20 +282,20 @@
       "id": "org.webosbrew.cccbib",
       "title": "CCCBib",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.cccbib.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.0.2/org.webosbrew.cccbib.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.1.0/org.webosbrew.cccbib.manifest.json",
       "manifest": {
         "id": "org.webosbrew.cccbib",
-        "version": "1.0.2",
+        "version": "1.1.0",
         "type": "web",
         "title": "CCCBib",
         "appDescription": "media.ccc.de library application (EXPERIMENTAL)",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.cccbib.png",
         "sourceUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib",
-        "ipkUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.0.2/org.webosbrew.cccbib_1.0.2_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.1.0/org.webosbrew.cccbib_1.1.0_all.ipk",
         "ipkHash": {
-          "sha256": "6b5730efff7ecd82e5b7bbb8a2fabd5f68641387ebf5cd202e63cea106d2c059"
+          "sha256": "636a23bccbd431e0e0c72f8959a253567821edae87fb82b43833118b982196f1"
         },
-        "ipkSize": 512632
+        "ipkSize": 639920
       },
       "pool": "main",
       "requirements": {
