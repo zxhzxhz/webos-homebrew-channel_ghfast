@@ -1216,22 +1216,22 @@
       "id": "io.unom.punktfunk.client-webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.24.0/io.unom.punktfunk.client-webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.25.0/io.unom.punktfunk.client-webos.manifest.json",
       "manifest": {
         "id": "io.unom.punktfunk.client-webos",
-        "version": "0.24.0",
+        "version": "0.25.0",
         "type": "native",
         "title": "Punktfunk",
         "appDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.24.0/io.unom.punktfunk.client-webos_0.24.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.25.0/io.unom.punktfunk.client-webos_0.25.0_arm.ipk",
         "ipkHash": {
-          "sha256": "895a916b2cfd200b7eb577cdb1f149d8369683ef0006faab0e53c882dfffa620"
+          "sha256": "55335eca170eaf4d85a72574b880b48c5b04ac4c2506a504c1e3e75a00602cf3"
         },
-        "ipkSize": 13164184,
-        "installedSize": 27554804
+        "ipkSize": 13214362,
+        "installedSize": 27657420
       },
       "pool": "main",
       "requirements": {
