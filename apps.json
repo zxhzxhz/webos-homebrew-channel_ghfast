@@ -1270,20 +1270,20 @@
       "id": "com.qoder.iptv",
       "title": "Qoder IPTV Player",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.qoder.iptv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.44/com.qoder.iptv.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.48/com.qoder.iptv.manifest.json",
       "manifest": {
         "id": "com.qoder.iptv",
-        "version": "1.1.44",
+        "version": "1.1.48",
         "type": "web",
         "title": "IPTV \u76f4\u64ad",
         "appDescription": "Open-source M3U media player (MIT). No channels, programmes, playlists or EPG data are included.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.qoder.iptv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.44/com.qoder.iptv_1.1.44_all.ipk",
-        "ipkSize": 279400,
+        "ipkUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.48/com.qoder.iptv_1.1.48_all.ipk",
+        "ipkSize": 278324,
         "ipkHash": {
-          "sha256": "0c0a895fa8240507374fe5b79a6b333af4727c4b18d307adb0e3c3309a85584f"
+          "sha256": "ad70abaf87cb72e2adb3b0db1dc98fa1354c8bcce56018db8e40bee946e72f67"
         }
       },
       "pool": "main",
