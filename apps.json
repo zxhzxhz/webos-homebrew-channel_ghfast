@@ -63,23 +63,26 @@
       "id": "org.aabytt.webos.custom-screensaver-aerial",
       "title": "Aerial Screensaver",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.1/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.2/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
       "manifest": {
         "id": "org.aabytt.webos.custom-screensaver-aerial",
-        "version": "3.0.1",
+        "version": "3.0.2",
         "type": "web",
         "title": "WebOS Aerial Screensaver",
         "appDescription": "Aerial custom webOS Screensaver",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
         "sourceUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.1/org.aabytt.webos.custom-screensaver-aerial_3.0.1_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.2/org.aabytt.webos.custom-screensaver-aerial_3.0.2_all.ipk",
         "ipkHash": {
-          "sha256": "5a9ee39812536d5b2b32603bdda5c537873011a9dffb6efdedd0db00f9b9ce28"
+          "sha256": "b446c552aacb44ea2ab59e1aeb216ce69441edfd5ac069b5e11bcd074ef68c98"
         },
-        "ipkSize": 2166818
+        "ipkSize": 8139504
       },
       "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
       "screenshots": [
         {
           "url": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/assets/84480313/77daf2da-b528-41ba-8377-fff70e6e1fd3",
@@ -94,10 +97,16 @@
           "height": 720
         },
         {
-          "url": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/assets/84480313/1b7f281b-efdc-4eed-b0f2-b06f4bd5929a",
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/b530640c-56ef-42a5-98eb-f2f8f4dc11aa",
           "caption": "Settings",
-          "width": 1280,
-          "height": 720
+          "width": 1273,
+          "height": 710
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/e87586c6-4e00-47c6-8285-925c8e4fa646",
+          "caption": "Playlist editor",
+          "width": 1264,
+          "height": 705
         }
       ],
       "shortDescription": "Aerial custom webOS Screensaver",
