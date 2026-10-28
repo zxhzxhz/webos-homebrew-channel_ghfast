@@ -1654,20 +1654,20 @@
       "id": "com.github.cfernande1470.wireguard",
       "title": "WireGuard VPN",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.cfernande1470.wireguard.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/RodriguezCF/webos-wireguard/releases/download/v1.0.7/com.github.cfernande1470.wireguard.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/RodriguezCF/webos-wireguard/releases/download/v1.0.8/com.github.cfernande1470.wireguard.manifest.json",
       "manifest": {
         "id": "com.github.cfernande1470.wireguard",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "type": "web",
         "title": "WireGuard VPN",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.cfernande1470.wireguard.png",
         "sourceUrl": "https://ghfast.top/https://github.com/RodriguezCF/webos-wireguard",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/RodriguezCF/webos-wireguard/releases/download/v1.0.7/com.github.cfernande1470.wireguard_1.0.7_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/RodriguezCF/webos-wireguard/releases/download/v1.0.8/com.github.cfernande1470.wireguard_1.0.8_all.ipk",
         "ipkHash": {
-          "sha256": "970c53b0de345635f6e2b45c1615ca28ceebffce504800a0b1f5e97caff9b168"
+          "sha256": "8b800799358b5058bb6035891bc52d1e22e4a7ee8933d4f152c84042eb8fbf8c"
         },
-        "ipkSize": 3575096
+        "ipkSize": 3574970
       },
       "pool": "main",
       "requirements": {
