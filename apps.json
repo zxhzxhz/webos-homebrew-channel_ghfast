@@ -959,10 +959,10 @@
       "id": "ooo.lew.lifesgoodwithoutspying",
       "title": "Life's Good Without Spying",
       "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.8.0/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.9.0/ooo.lew.lifesgoodwithoutspying.manifest.json",
       "manifest": {
         "id": "ooo.lew.lifesgoodwithoutspying",
-        "version": "0.8.0",
+        "version": "0.9.0",
         "type": "web",
         "title": "Life's Good Without Spying",
         "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
@@ -971,9 +971,9 @@
         "rootRequired": true,
         "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/latest/download/ooo.lew.lifesgoodwithoutspying.ipk",
         "ipkHash": {
-          "sha256": "cc66dfbd169c726a4142d84d7d70590344d9abf126e1e50c834fbe34052e1875"
+          "sha256": "bf7472a7946fbb17cab5b2dbc754a6aeb6e7e9545b608d286c62c0ca181e5208"
         },
-        "ipkSize": 120612
+        "ipkSize": 125434
       },
       "pool": "main",
       "requirements": {
