@@ -63,21 +63,21 @@
       "id": "org.aabytt.webos.custom-screensaver-aerial",
       "title": "Aerial Screensaver",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.2/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.3/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
       "manifest": {
         "id": "org.aabytt.webos.custom-screensaver-aerial",
-        "version": "3.0.2",
+        "version": "3.0.3",
         "type": "web",
         "title": "WebOS Aerial Screensaver",
         "appDescription": "Aerial custom webOS Screensaver",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
         "sourceUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.2/org.aabytt.webos.custom-screensaver-aerial_3.0.2_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.3/org.aabytt.webos.custom-screensaver-aerial_3.0.3_all.ipk",
         "ipkHash": {
-          "sha256": "b446c552aacb44ea2ab59e1aeb216ce69441edfd5ac069b5e11bcd074ef68c98"
+          "sha256": "8803ce08e2dd0c02be21b93a696fa9d5df6161922f78ecfd34fe2d4c96b0c33f"
         },
-        "ipkSize": 8139504
+        "ipkSize": 8708510
       },
       "pool": "main",
       "requirements": {
@@ -959,10 +959,10 @@
       "id": "ooo.lew.lifesgoodwithoutspying",
       "title": "Life's Good Without Spying",
       "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.9.0/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.0/ooo.lew.lifesgoodwithoutspying.manifest.json",
       "manifest": {
         "id": "ooo.lew.lifesgoodwithoutspying",
-        "version": "0.9.0",
+        "version": "0.11.0",
         "type": "web",
         "title": "Life's Good Without Spying",
         "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
@@ -971,9 +971,9 @@
         "rootRequired": true,
         "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/latest/download/ooo.lew.lifesgoodwithoutspying.ipk",
         "ipkHash": {
-          "sha256": "bf7472a7946fbb17cab5b2dbc754a6aeb6e7e9545b608d286c62c0ca181e5208"
+          "sha256": "5feeac4a19a6db6e5247973d2dd202d5193f7fa636f8dc23dc89c9dd736515fe"
         },
-        "ipkSize": 125434
+        "ipkSize": 136182
       },
       "pool": "main",
       "requirements": {
@@ -1013,21 +1013,21 @@
       "id": "org.moonfin.webos",
       "title": "Moonfin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.11.0/org.moonfin.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.0.0/org.moonfin.webos.manifest.json",
       "manifest": {
         "id": "org.moonfin.webos",
-        "version": "2.11.0",
+        "version": "3.0.0",
         "type": "web",
         "title": "Moonfin",
         "appDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/2.11.0/Moonfin_webOS_v2.11.0.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.0.0/Moonfin_webOS_v3.0.0.ipk",
         "ipkHash": {
-          "sha256": "04bc0fd146c5b3ab0faf4ca59041990fbc599939c8b4b948fd94374d7b3ce3d8"
+          "sha256": "b2b53d62705639b4672eb62caacdf383d748baa34204f3ff5fd585b44b527a91"
         },
-        "ipkSize": 8169478
+        "ipkSize": 8169420
       },
       "pool": "main",
       "requirements": {
