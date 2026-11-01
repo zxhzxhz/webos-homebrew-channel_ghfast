@@ -959,10 +959,10 @@
       "id": "ooo.lew.lifesgoodwithoutspying",
       "title": "Life's Good Without Spying",
       "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.0/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.1/ooo.lew.lifesgoodwithoutspying.manifest.json",
       "manifest": {
         "id": "ooo.lew.lifesgoodwithoutspying",
-        "version": "0.11.0",
+        "version": "0.11.1",
         "type": "web",
         "title": "Life's Good Without Spying",
         "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
@@ -971,9 +971,9 @@
         "rootRequired": true,
         "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/latest/download/ooo.lew.lifesgoodwithoutspying.ipk",
         "ipkHash": {
-          "sha256": "5feeac4a19a6db6e5247973d2dd202d5193f7fa636f8dc23dc89c9dd736515fe"
+          "sha256": "5bb965d366bb45debae8b6b074e0fa5dbde2aac1244e2fbc41b7dfea0084505b"
         },
-        "ipkSize": 136182
+        "ipkSize": 136742
       },
       "pool": "main",
       "requirements": {
@@ -1066,22 +1066,22 @@
       "id": "com.ocenfin.app",
       "title": "OcenFin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.10.19/com.ocenfin.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.10.31/com.ocenfin.app.manifest.json",
       "manifest": {
         "id": "com.ocenfin.app",
-        "version": "2026.10.19",
+        "version": "2026.10.31",
         "type": "web",
         "title": "OcenFin",
         "appDescription": "Jellyfin client for webOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/seluce/OcenFin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.10.19/com.ocenfin.app_2026.10.19_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.10.31/com.ocenfin.app_2026.10.31_all.ipk",
         "ipkHash": {
-          "sha256": "30e77bb6a3df77841abff43ccc47252556f422d18d5397ac829892ae348084c7"
+          "sha256": "62756c02e185acfdf8fc9372d0b04d43dc45a974e8e972a1626840a9084020d1"
         },
-        "ipkSize": 2529536,
-        "installedSize": 5113786
+        "ipkSize": 2536024,
+        "installedSize": 5145837
       },
       "pool": "main",
       "requirements": {
@@ -1225,22 +1225,22 @@
       "id": "io.unom.punktfunk.client-webos",
       "title": "Punktfunk",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.27.0/io.unom.punktfunk.client-webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.27.1/io.unom.punktfunk.client-webos.manifest.json",
       "manifest": {
         "id": "io.unom.punktfunk.client-webos",
-        "version": "0.27.0",
+        "version": "0.27.1",
         "type": "native",
         "title": "Punktfunk",
         "appDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.unom.punktfunk.client-webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.27.0/io.unom.punktfunk.client-webos_0.27.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/punktfunk/client-webos/releases/download/0.27.1/io.unom.punktfunk.client-webos_0.27.1_arm.ipk",
         "ipkHash": {
-          "sha256": "19897de531dead51fbaa87c5f6708f7846e04383de62a222a0b5ce33dd9a1451"
+          "sha256": "9b9a9404a676bcd456fce520ebde20b8a0879c6a0d0f31ec1a2c2f29f8ca0179"
         },
-        "ipkSize": 13294424,
-        "installedSize": 27817316
+        "ipkSize": 13296094,
+        "installedSize": 27821412
       },
       "pool": "main",
       "requirements": {
