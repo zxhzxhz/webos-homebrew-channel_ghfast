@@ -63,21 +63,21 @@
       "id": "org.aabytt.webos.custom-screensaver-aerial",
       "title": "Aerial Screensaver",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.3/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.4/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
       "manifest": {
         "id": "org.aabytt.webos.custom-screensaver-aerial",
-        "version": "3.0.3",
+        "version": "3.0.4",
         "type": "web",
         "title": "WebOS Aerial Screensaver",
         "appDescription": "Aerial custom webOS Screensaver",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
         "sourceUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.3/org.aabytt.webos.custom-screensaver-aerial_3.0.3_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.4/org.aabytt.webos.custom-screensaver-aerial_3.0.4_all.ipk",
         "ipkHash": {
-          "sha256": "8803ce08e2dd0c02be21b93a696fa9d5df6161922f78ecfd34fe2d4c96b0c33f"
+          "sha256": "b8e7ff480a85462c28d9ed39eca797348b501493e621098b8ce70c21bd3c85a4"
         },
-        "ipkSize": 8708510
+        "ipkSize": 8731582
       },
       "pool": "main",
       "requirements": {
@@ -959,21 +959,21 @@
       "id": "ooo.lew.lifesgoodwithoutspying",
       "title": "Life's Good Without Spying",
       "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.2/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.3/ooo.lew.lifesgoodwithoutspying.manifest.json",
       "manifest": {
         "id": "ooo.lew.lifesgoodwithoutspying",
-        "version": "0.11.2",
+        "version": "0.11.3",
         "type": "web",
         "title": "Life's Good Without Spying",
         "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
         "sourceUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/latest/download/ooo.lew.lifesgoodwithoutspying.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.3/ooo.lew.lifesgoodwithoutspying.ipk",
         "ipkHash": {
-          "sha256": "69991fcdfc7855855aa1fcd0725958845df289761a47393536f6160f7ea90fdb"
+          "sha256": "5a29c851f6697c20eccd7fb2a6b7d2a9cebd8feb80b06dd5878f9ef7666cacc2"
         },
-        "ipkSize": 139024
+        "ipkSize": 139752
       },
       "pool": "main",
       "requirements": {
@@ -1066,22 +1066,22 @@
       "id": "com.ocenfin.app",
       "title": "OcenFin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.10.31/com.ocenfin.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.02/com.ocenfin.app.manifest.json",
       "manifest": {
         "id": "com.ocenfin.app",
-        "version": "2026.10.31",
+        "version": "2026.11.2",
         "type": "web",
         "title": "OcenFin",
         "appDescription": "Jellyfin client for webOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/seluce/OcenFin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.10.31/com.ocenfin.app_2026.10.31_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.02/com.ocenfin.app_2026.11.2_all.ipk",
         "ipkHash": {
-          "sha256": "62756c02e185acfdf8fc9372d0b04d43dc45a974e8e972a1626840a9084020d1"
+          "sha256": "ac7085c2c87fcf576ef9e9507a62f0c762ce4c8f0d1987e5a6e46b85dd016163"
         },
-        "ipkSize": 2536024,
-        "installedSize": 5145837
+        "ipkSize": 2533254,
+        "installedSize": 5128241
       },
       "pool": "main",
       "requirements": {
