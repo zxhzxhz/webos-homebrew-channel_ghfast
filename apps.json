@@ -506,22 +506,22 @@
       "id": "com.halfbrick.fruitninja",
       "title": "Fruit Ninja",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-4/com.halfbrick.fruitninja.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-5/com.halfbrick.fruitninja.manifest.json",
       "manifest": {
         "id": "com.halfbrick.fruitninja",
-        "version": "1.601.4",
+        "version": "1.601.5",
         "type": "native",
         "title": "Fruit Ninja",
         "appDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
         "sourceUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-4/com.halfbrick.fruitninja_1.601.4_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-5/com.halfbrick.fruitninja_1.601.5_arm.ipk",
         "ipkHash": {
-          "sha256": "d1c4a1c6cdc321a70c6b9daa2474ac36698bd22baddf4813cb7aa06c9e4b5cd6"
+          "sha256": "382a16d8eb93c3b13ae73a8a610f9540f8250383efe4095d57f6371d32b45a2c"
         },
-        "ipkSize": 6480806,
-        "installedSize": 9965417
+        "ipkSize": 6487244,
+        "installedSize": 9977741
       },
       "pool": "main",
       "shortDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
@@ -1279,20 +1279,20 @@
       "id": "com.qoder.iptv",
       "title": "Qoder IPTV Player",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.qoder.iptv.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.48/com.qoder.iptv.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.49/com.qoder.iptv.manifest.json",
       "manifest": {
         "id": "com.qoder.iptv",
-        "version": "1.1.48",
+        "version": "1.1.49",
         "type": "web",
         "title": "IPTV \u76f4\u64ad",
         "appDescription": "Open-source M3U media player (MIT). No channels, programmes, playlists or EPG data are included.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.qoder.iptv.png",
         "sourceUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.48/com.qoder.iptv_1.1.48_all.ipk",
-        "ipkSize": 278324,
+        "ipkUrl": "https://ghfast.top/https://github.com/HCLGitHub/qoder-iptv/releases/download/v1.1.49/com.qoder.iptv_1.1.49_all.ipk",
+        "ipkSize": 279348,
         "ipkHash": {
-          "sha256": "ad70abaf87cb72e2adb3b0db1dc98fa1354c8bcce56018db8e40bee946e72f67"
+          "sha256": "957a7b99e52acef76f04ff05f1c85ff36d8a7bb4c739945b72eb1969eb8df9db"
         }
       },
       "pool": "main",
