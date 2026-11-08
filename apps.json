@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 56,
+    "count": 58,
     "maxPage": 1,
-    "itemsTotal": 56,
+    "itemsTotal": 58,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -1359,6 +1359,55 @@
       "fullDescriptionUrl": "apps/com.retroarch.webos/full_description.html"
     },
     {
+      "id": "org.scummvm.scummvm",
+      "title": "ScummVM",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/org.scummvm.scummvm.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/RF1705/scummvm-webos/releases/download/scummvm_2026.3.0_webos_1.3.0/org.scummvm.scummvm.manifest.json",
+      "manifest": {
+        "id": "org.scummvm.scummvm",
+        "version": "1.3.0",
+        "type": "native",
+        "title": "ScummVM",
+        "appDescription": "Classic adventure game engine",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/org.scummvm.scummvm.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/RF1705/scummvm-webos",
+        "ipkUrl": "https://ghfast.top/https://github.com/RF1705/scummvm-webos/releases/download/scummvm_2026.3.0_webos_1.3.0/org.scummvm.scummvm_1.3.0_arm.ipk",
+        "ipkHash": {
+          "sha256": "7160edef1667a1f76fb0573cd7a44d714a423e9b3c8ef4d664822287a3601326"
+        },
+        "ipkSize": 24641862
+      },
+      "pool": "main",
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/RF1705/scummvm-webos/main/docs/screenshots/scummvm-main.png",
+          "caption": "ScummVM",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/RF1705/scummvm-webos/main/docs/screenshots/monkey-island.png",
+          "caption": "The Curse of Monkey Island",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/RF1705/scummvm-webos/main/docs/screenshots/thimbleweed-park.png",
+          "caption": "Thimbleweed Park",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/RF1705/scummvm-webos/main/docs/screenshots/scummvm-settings.png",
+          "caption": "Settings",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "shortDescription": "Classic adventure game engine",
+      "fullDescriptionUrl": "apps/org.scummvm.scummvm/full_description.html"
+    },
+    {
       "id": "com.sendspin.cinema",
       "title": "Sendspin Cinema",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.sendspin.cinema.png",
@@ -1462,6 +1511,33 @@
       },
       "shortDescription": "Minimal streaming.media.ccc.de player application (EXPERIMENTAL)",
       "fullDescriptionUrl": "apps/org.webosbrew.streamkatze/full_description.html"
+    },
+    {
+      "id": "tv.stremioorigin.app",
+      "title": "Stremio Origin",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/tv.stremioorigin.app.png",
+      "manifestUrl": "https://stremio-origin.github.io/webos/api/apps/tv.stremioorigin.app/manifest.json",
+      "manifest": {
+        "id": "tv.stremioorigin.app",
+        "version": "1.0.0",
+        "type": "native",
+        "title": "Stremio Origin",
+        "appDescription": "Your own Stremio account and addons on your LG TV: artwork, trailers, the best stream in one press, subtitles, torrents, 11 languages. Unofficial.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/tv.stremioorigin.app.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/stremio-origin/webos",
+        "rootRequired": false,
+        "ipkUrl": "https://stremio-origin.github.io/webos/tv.stremioorigin.app_1.0.0_arm.ipk",
+        "ipkHash": {
+          "sha256": "949d4eabafb7290258eae8ad9e405e7f8f31f4c030071039258f382ca7769a42"
+        },
+        "ipkSize": 5386368
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=3.0"
+      },
+      "shortDescription": "Your own Stremio account and addons on your LG TV: artwork, trailers, the best stream in one press, subtitles, torrents, 11 languages. Unofficial.",
+      "fullDescriptionUrl": "apps/tv.stremioorigin.app/full_description.html"
     },
     {
       "id": "com.subsonic.player",
