@@ -959,21 +959,21 @@
       "id": "ooo.lew.lifesgoodwithoutspying",
       "title": "Life's Good Without Spying",
       "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.3/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.0/ooo.lew.lifesgoodwithoutspying.manifest.json",
       "manifest": {
         "id": "ooo.lew.lifesgoodwithoutspying",
-        "version": "0.11.3",
+        "version": "0.12.0",
         "type": "web",
         "title": "Life's Good Without Spying",
         "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
         "sourceUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.11.3/ooo.lew.lifesgoodwithoutspying.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.0/ooo.lew.lifesgoodwithoutspying.ipk",
         "ipkHash": {
-          "sha256": "5a29c851f6697c20eccd7fb2a6b7d2a9cebd8feb80b06dd5878f9ef7666cacc2"
+          "sha256": "d90c45d2a3a37a82da1be7b681a9b63e1330af5f78e3f140e7f055e10614db59"
         },
-        "ipkSize": 139752
+        "ipkSize": 147528
       },
       "pool": "main",
       "requirements": {
@@ -1013,21 +1013,21 @@
       "id": "org.moonfin.webos",
       "title": "Moonfin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.0.0/org.moonfin.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.1.0/org.moonfin.webos.manifest.json",
       "manifest": {
         "id": "org.moonfin.webos",
-        "version": "3.0.0",
+        "version": "3.1.0",
         "type": "web",
         "title": "Moonfin",
         "appDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.0.0/Moonfin_webOS_v3.0.0.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.1.0/Moonfin_webOS_v3.1.0.ipk",
         "ipkHash": {
-          "sha256": "b2b53d62705639b4672eb62caacdf383d748baa34204f3ff5fd585b44b527a91"
+          "sha256": "338a3e406fbe59aa640f9d7477029c1a6367f028a1a1db5ae381a697ba01af90"
         },
-        "ipkSize": 8169420
+        "ipkSize": 8730132
       },
       "pool": "main",
       "requirements": {
@@ -1196,22 +1196,22 @@
       "id": "com.beb.plxnative",
       "title": "PlxNative",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.9.0/com.beb.plxnative.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.10.0/com.beb.plxnative.manifest.json",
       "manifest": {
         "id": "com.beb.plxnative",
-        "version": "0.9.0",
+        "version": "0.10.0",
         "type": "native",
         "title": "PlxNative",
         "appDescription": "Unofficial native Plex client - not affiliated with Plex",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
         "sourceUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.9.0/com.beb.plxnative_0.9.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.10.0/com.beb.plxnative_0.10.0_arm.ipk",
         "ipkHash": {
-          "sha256": "d6bc601667a25d0c7dbb13ea95efb0f065f481ab46f9391960687220c7557c30"
+          "sha256": "992c94fa3dde03de4f6b1f1f268900518ecd8c7e73a95f12c74ca449b25cfdc9"
         },
-        "ipkSize": 18815450,
-        "installedSize": 35818
+        "ipkSize": 21070396,
+        "installedSize": 40093
       },
       "pool": "main",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/pkg/icon320.png",
