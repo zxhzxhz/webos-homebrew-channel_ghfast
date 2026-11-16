@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 58,
+    "count": 59,
     "maxPage": 1,
-    "itemsTotal": 58,
+    "itemsTotal": 59,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -506,22 +506,22 @@
       "id": "com.halfbrick.fruitninja",
       "title": "Fruit Ninja",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-5/com.halfbrick.fruitninja.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-6/com.halfbrick.fruitninja.manifest.json",
       "manifest": {
         "id": "com.halfbrick.fruitninja",
-        "version": "1.601.5",
+        "version": "1.601.6",
         "type": "native",
         "title": "Fruit Ninja",
         "appDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.halfbrick.fruitninja.png",
         "sourceUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-5/com.halfbrick.fruitninja_1.601.5_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/mariotaku/FruitNinja/releases/download/v1.6.1-6/com.halfbrick.fruitninja_1.601.6_arm.ipk",
         "ipkHash": {
-          "sha256": "382a16d8eb93c3b13ae73a8a610f9540f8250383efe4095d57f6371d32b45a2c"
+          "sha256": "d2c0fe8a30a2debcc7ed4caa9335914fa15242c5119c6f2ac76a2ff657d17183"
         },
-        "ipkSize": 6487244,
-        "installedSize": 9977741
+        "ipkSize": 6487150,
+        "installedSize": 9977697
       },
       "pool": "main",
       "shortDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
@@ -575,6 +575,53 @@
       ],
       "shortDescription": null,
       "fullDescriptionUrl": "apps/me.mariotaku.gallery3d/full_description.html"
+    },
+    {
+      "id": "org.webosbrew.homechooser",
+      "title": "Home Chooser",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.homechooser.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.1.2/org.webosbrew.homechooser.manifest.json",
+      "manifest": {
+        "id": "org.webosbrew.homechooser",
+        "version": "0.1.2",
+        "type": "web",
+        "title": "Home Chooser",
+        "appDescription": "Choose which app opens when you press Home",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.homechooser.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser",
+        "rootRequired": true,
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.1.2/org.webosbrew.homechooser_0.1.2_arm.ipk",
+        "ipkHash": {
+          "sha256": "4329d1a266fb815534ba7569479e645400f29385c8fdf87b986236b5091a0a44"
+        },
+        "ipkSize": 503574
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=5.0"
+      },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/webosbrew/home-chooser/main/docs/images/panel.webp",
+          "caption": "Choosing a Home app",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/webosbrew/home-chooser/main/docs/images/confirm.webp",
+          "caption": "Confirming the choice",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/webosbrew/home-chooser/main/docs/images/done.webp",
+          "caption": "Done",
+          "width": 960,
+          "height": 540
+        }
+      ],
+      "shortDescription": "Choose which app opens when you press Home",
+      "fullDescriptionUrl": "apps/org.webosbrew.homechooser/full_description.html"
     },
     {
       "id": "org.webosbrew.hbchannel",
