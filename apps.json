@@ -1196,7 +1196,7 @@
       "id": "com.beb.plxnative",
       "title": "PlxNative",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.10.0/com.beb.plxnative.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/plxnative/plx-native/releases/latest/download/com.beb.plxnative.manifest.json",
       "manifest": {
         "id": "com.beb.plxnative",
         "version": "0.10.0",
@@ -1206,7 +1206,7 @@
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.beb.plxnative.png",
         "sourceUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/GLinnik21/plx-native/releases/download/v0.10.0/com.beb.plxnative_0.10.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/plxnative/plx-native/releases/download/v0.10.0/com.beb.plxnative_0.10.0_arm.ipk",
         "ipkHash": {
           "sha256": "992c94fa3dde03de4f6b1f1f268900518ecd8c7e73a95f12c74ca449b25cfdc9"
         },
