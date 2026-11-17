@@ -580,25 +580,25 @@
       "id": "org.webosbrew.homechooser",
       "title": "Home Chooser",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.homechooser.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.1.2/org.webosbrew.homechooser.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.2.0/org.webosbrew.homechooser.manifest.json",
       "manifest": {
         "id": "org.webosbrew.homechooser",
-        "version": "0.1.2",
+        "version": "0.2.0",
         "type": "web",
         "title": "Home Chooser",
         "appDescription": "Choose which app opens when you press Home",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.homechooser.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.1.2/org.webosbrew.homechooser_0.1.2_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.2.0/org.webosbrew.homechooser_0.2.0_arm.ipk",
         "ipkHash": {
-          "sha256": "4329d1a266fb815534ba7569479e645400f29385c8fdf87b986236b5091a0a44"
+          "sha256": "8b0fdbc7732f4f68013c18c0024d88165c640550f3f5bef0514a72b7e8945c45"
         },
-        "ipkSize": 503574
+        "ipkSize": 522310
       },
       "pool": "main",
       "requirements": {
-        "webosRelease": ">=5.0"
+        "webosRelease": ">=4.0"
       },
       "screenshots": [
         {
@@ -1006,21 +1006,21 @@
       "id": "ooo.lew.lifesgoodwithoutspying",
       "title": "Life's Good Without Spying",
       "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.1/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.2/ooo.lew.lifesgoodwithoutspying.manifest.json",
       "manifest": {
         "id": "ooo.lew.lifesgoodwithoutspying",
-        "version": "0.12.1",
+        "version": "0.12.2",
         "type": "web",
         "title": "Life's Good Without Spying",
         "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
         "sourceUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.1/ooo.lew.lifesgoodwithoutspying.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.2/ooo.lew.lifesgoodwithoutspying.ipk",
         "ipkHash": {
-          "sha256": "2b2eedddd4574ed47c08c96b6f1d84a7e2e17c2684107961d8a9ce7430f9b168"
+          "sha256": "29678b28fe75b8e22a7eb3490ae9b9c37f71234cfe9a3b253d7fb5e5728cffe1"
         },
-        "ipkSize": 149056
+        "ipkSize": 150318
       },
       "pool": "main",
       "requirements": {
@@ -1566,24 +1566,24 @@
       "manifestUrl": "https://stremio-origin.github.io/webos/api/apps/tv.stremioorigin.app/manifest.json",
       "manifest": {
         "id": "tv.stremioorigin.app",
-        "version": "1.0.0",
+        "version": "1.1.1",
         "type": "native",
         "title": "Stremio Origin",
-        "appDescription": "Your own Stremio account and addons on your LG TV: artwork, trailers, the best stream in one press, subtitles, torrents, 11 languages. Unofficial.",
+        "appDescription": "A native app for Stremio addons, written in C. You bring the account and addons; it ships empty. 28 languages. Unofficial.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/tv.stremioorigin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/stremio-origin/webos",
         "rootRequired": false,
-        "ipkUrl": "https://stremio-origin.github.io/webos/tv.stremioorigin.app_1.0.0_arm.ipk",
+        "ipkUrl": "https://stremio-origin.github.io/webos/tv.stremioorigin.app_1.1.1_arm.ipk",
         "ipkHash": {
-          "sha256": "949d4eabafb7290258eae8ad9e405e7f8f31f4c030071039258f382ca7769a42"
+          "sha256": "9b5a0b165861af4572fc143f90c21881abb0bdd8385d5ee458f89f784fddb688"
         },
-        "ipkSize": 5386368
+        "ipkSize": 8757054
       },
       "pool": "main",
       "requirements": {
         "webosRelease": ">=3.0"
       },
-      "shortDescription": "Your own Stremio account and addons on your LG TV: artwork, trailers, the best stream in one press, subtitles, torrents, 11 languages. Unofficial.",
+      "shortDescription": "A native app for Stremio addons, written in C. You bring the account and addons; it ships empty. 28 languages. Unofficial.",
       "fullDescriptionUrl": "apps/tv.stremioorigin.app/full_description.html"
     },
     {
