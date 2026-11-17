@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 59,
+    "count": 61,
     "maxPage": 1,
-    "itemsTotal": 59,
+    "itemsTotal": 61,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -920,6 +920,59 @@
       "fullDescriptionUrl": "apps/org.jellyfin.webos/full_description.html"
     },
     {
+      "id": "com.barisahmet.kicktv",
+      "title": "Kick TV",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.barisahmet.kicktv.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/barisahmet/kick-tv-webos/releases/download/v1.6.2/org.webosbrew.manifest.json",
+      "manifest": {
+        "id": "com.barisahmet.kicktv",
+        "version": "1.6.2",
+        "type": "web",
+        "title": "Kick TV",
+        "appDescription": "Watch Kick livestreams on your LG webOS TV. Unofficial.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.barisahmet.kicktv.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/barisahmet/kick-tv-webos",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/barisahmet/kick-tv-webos/releases/download/v1.6.2/com.barisahmet.kicktv_1.6.2_all.ipk",
+        "ipkHash": {
+          "sha256": "30563c9582f3cec3d9e24946b9cbb2894dc0bdda73ffd24f547acadb191a2a4e"
+        },
+        "ipkSize": 324010
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=10.0"
+      },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/barisahmet/kick-tv-webos/main/screenshots/player-chat.png",
+          "caption": "Player with the read-only live chat overlay",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/barisahmet/kick-tv-webos/main/screenshots/browse.png",
+          "caption": "Browse everything live, by language or category",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/barisahmet/kick-tv-webos/main/screenshots/sidebar.png",
+          "caption": "Your channels, live ones first, with pins",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/barisahmet/kick-tv-webos/main/screenshots/settings.png",
+          "caption": "Settings",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "shortDescription": "Watch Kick livestreams on your LG webOS TV. Unofficial.",
+      "fullDescriptionUrl": "apps/com.barisahmet.kicktv/full_description.html"
+    },
+    {
       "id": "org.xbmc.kodi",
       "title": "Kodi",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
@@ -1006,21 +1059,21 @@
       "id": "ooo.lew.lifesgoodwithoutspying",
       "title": "Life's Good Without Spying",
       "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.2/ooo.lew.lifesgoodwithoutspying.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.3/ooo.lew.lifesgoodwithoutspying.manifest.json",
       "manifest": {
         "id": "ooo.lew.lifesgoodwithoutspying",
-        "version": "0.12.2",
+        "version": "0.12.3",
         "type": "web",
         "title": "Life's Good Without Spying",
         "appDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/ooo.lew.lifesgoodwithoutspying.png",
         "sourceUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.2/ooo.lew.lifesgoodwithoutspying.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/lewisdoesstuff/lifesgoodwithoutspying/releases/download/v0.12.3/ooo.lew.lifesgoodwithoutspying.ipk",
         "ipkHash": {
-          "sha256": "29678b28fe75b8e22a7eb3490ae9b9c37f71234cfe9a3b253d7fb5e5728cffe1"
+          "sha256": "6bdb042b15cc1185ef84343fd7839d9ae1a7ba995d22b6706a4403a9077ee725"
         },
-        "ipkSize": 150318
+        "ipkSize": 151710
       },
       "pool": "main",
       "requirements": {
@@ -1719,6 +1772,83 @@
       },
       "shortDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
       "fullDescriptionUrl": "apps/org.webosbrew.bridge-64to32/full_description.html"
+    },
+    {
+      "id": "com.lennylxx.iptv",
+      "title": "webOS IPTV Player",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.lennylxx.iptv.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/lennylxx/webos-iptv-player/releases/download/v1.18.0/com.lennylxx.iptv.manifest.json",
+      "manifest": {
+        "id": "com.lennylxx.iptv",
+        "version": "1.18.0",
+        "type": "web",
+        "title": "webOS IPTV Player",
+        "appDescription": "IPTV player with M3U, Xtream, XMLTV, and catch-up.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.lennylxx.iptv.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/lennylxx/webos-iptv-player",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/lennylxx/webos-iptv-player/releases/download/v1.18.0/com.lennylxx.iptv_1.18.0_all.ipk",
+        "ipkHash": {
+          "sha256": "d8e54e89cc93df6d82f7dbcb4f10b901d3b9143a1f14b5970ceb34753729532b"
+        },
+        "ipkSize": 827838
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "screenshots": [
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/channel-list.png",
+          "caption": "Channel list with groups and current programs",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/live-preview.png",
+          "caption": "Live preview beside the channel list",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/program-guide.png",
+          "caption": "Three-pane program guide with catch-up",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/playback-overlays.png",
+          "caption": "Playback overlays with stream info",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/movies.png",
+          "caption": "Movies catalog from an Xtream account",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/parental-controls.png",
+          "caption": "Parental controls, lock groups or single channels with adult groups suggested",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/search.png",
+          "caption": "Search across channels, programs, movies and series",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://lennylxx.github.io/webos-iptv-player/screenshots/settings.png",
+          "caption": "Settings",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "shortDescription": "IPTV player with M3U, Xtream, XMLTV, and catch-up.",
+      "fullDescriptionUrl": "apps/com.lennylxx.iptv/full_description.html"
     },
     {
       "id": "com.github.gprot42.webosterminal",
