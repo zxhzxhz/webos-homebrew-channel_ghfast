@@ -63,21 +63,21 @@
       "id": "org.aabytt.webos.custom-screensaver-aerial",
       "title": "Aerial Screensaver",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.1.0/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.1.1/org.aabytt.webos.custom-screensaver-aerial.manifest.json",
       "manifest": {
         "id": "org.aabytt.webos.custom-screensaver-aerial",
-        "version": "3.1.0",
+        "version": "3.1.1",
         "type": "web",
         "title": "WebOS Aerial Screensaver",
         "appDescription": "Aerial custom webOS Screensaver",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.aabytt.webos.custom-screensaver-aerial.png",
         "sourceUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.1.0/org.aabytt.webos.custom-screensaver-aerial_3.1.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.1.1/org.aabytt.webos.custom-screensaver-aerial_3.1.1_all.ipk",
         "ipkHash": {
-          "sha256": "e42ad8b86b8fda671ad5b56e7a113ced42d7e7ce24e6351d1747dd9e344c3773"
+          "sha256": "4c9c0ae4ed5ca90867cf495de991e420c3aaf054e424d63e41fcf3bf96c7d393"
         },
-        "ipkSize": 9663096
+        "ipkSize": 9663098
       },
       "pool": "main",
       "requirements": {
@@ -1166,22 +1166,22 @@
       "id": "com.ocenfin.app",
       "title": "OcenFin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.17/com.ocenfin.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.19/com.ocenfin.app.manifest.json",
       "manifest": {
         "id": "com.ocenfin.app",
-        "version": "2026.11.17",
+        "version": "2026.11.19",
         "type": "web",
         "title": "OcenFin",
         "appDescription": "Jellyfin client for webOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/seluce/OcenFin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.17/com.ocenfin.app_2026.11.17_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.19/com.ocenfin.app_2026.11.19_all.ipk",
         "ipkHash": {
-          "sha256": "27c300911920e30d6e5d7a4f77ea02a34950cba7b9485683d0c71a50a7b3c48c"
+          "sha256": "b2244c6a44e03551c50bac66c3fd6dea9780c168aa47a12cdcfb135346357af1"
         },
-        "ipkSize": 2752222,
-        "installedSize": 5579240
+        "ipkSize": 2761270,
+        "installedSize": 5597952
       },
       "pool": "main",
       "requirements": {
