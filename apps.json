@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 61,
+    "count": 62,
     "maxPage": 1,
-    "itemsTotal": 61,
+    "itemsTotal": 62,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -336,6 +336,65 @@
       "pool": "main",
       "shortDescription": "Technical Demo for Chocolate Doom",
       "fullDescriptionUrl": "apps/org.chocolate-doom.demo/full_description.html"
+    },
+    {
+      "id": "io.github.sarahahzub.chromium",
+      "title": "Chromium Browser",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.sarahahzub.chromium.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.0.0/io.github.sarahahzub.chromium.manifest.json",
+      "manifest": {
+        "id": "io.github.sarahahzub.chromium",
+        "version": "1.0.0",
+        "type": "native",
+        "title": "Chromium Browser",
+        "appDescription": "Native Chromium with the full Chrome UI, GPU rendering and hardware video decoding",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.sarahahzub.chromium.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium",
+        "rootRequired": false,
+        "ipkUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.0.0/io.github.sarahahzub.chromium_1.0.0_arm.ipk",
+        "ipkHash": {
+          "sha256": "f1824b8296f6ca1dbaea082965c4ee86a0abf9e328a5961bbfac879b465b0a2a"
+        },
+        "ipkSize": 110433398
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.4"
+      },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/sarahahzub/WebOS-Chromium/e772202038c5ba5fa3c7423d787d9a56210e6d23/assets/screenshots/new-tab.png",
+          "caption": "New Tab page",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/sarahahzub/WebOS-Chromium/e772202038c5ba5fa3c7423d787d9a56210e6d23/assets/screenshots/google.png",
+          "caption": "Google search",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/sarahahzub/WebOS-Chromium/e772202038c5ba5fa3c7423d787d9a56210e6d23/assets/screenshots/github.png",
+          "caption": "A GitHub page",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/sarahahzub/WebOS-Chromium/e772202038c5ba5fa3c7423d787d9a56210e6d23/assets/screenshots/about.png",
+          "caption": "About Chromium",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/sarahahzub/WebOS-Chromium/e772202038c5ba5fa3c7423d787d9a56210e6d23/assets/screenshots/extensions.png",
+          "caption": "Extensions, with TV Tools built in",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "shortDescription": "Native Chromium with the full Chrome UI, GPU rendering and hardware video decoding",
+      "fullDescriptionUrl": "apps/io.github.sarahahzub.chromium/full_description.html"
     },
     {
       "id": "com.crunchyroll.webos",
