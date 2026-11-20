@@ -1113,21 +1113,21 @@
       "id": "org.moonfin.webos",
       "title": "Moonfin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.1.0/org.moonfin.webos.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.1.1/org.moonfin.webos.manifest.json",
       "manifest": {
         "id": "org.moonfin.webos",
-        "version": "3.1.0",
+        "version": "3.1.1",
         "type": "web",
         "title": "Moonfin",
         "appDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.moonfin.webos.png",
         "sourceUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.1.0/Moonfin_webOS_v3.1.0.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/Moonfin-Client/Smart-TV/releases/download/3.1.1/Moonfin_webOS_v3.1.1.ipk",
         "ipkHash": {
-          "sha256": "338a3e406fbe59aa640f9d7477029c1a6367f028a1a1db5ae381a697ba01af90"
+          "sha256": "4e59e023ed307e39686264088688a7395d7c9ed5a16b535b937ce7f1501c63a8"
         },
-        "ipkSize": 8730132
+        "ipkSize": 11397046
       },
       "pool": "main",
       "requirements": {
