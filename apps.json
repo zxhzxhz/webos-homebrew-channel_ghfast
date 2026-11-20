@@ -1145,21 +1145,21 @@
       "id": "org.litefin.app",
       "title": "Litefin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.litefin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v2.0.20/manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v2.10.0/manifest.json",
       "manifest": {
         "id": "org.litefin.app",
-        "version": "2.0.20",
+        "version": "2.10.0",
         "type": "web",
         "title": "Litefin",
         "appDescription": "Native Jellyfin client for WebOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.litefin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v2.0.20/Litefin-2.0.20-webOS-Legacy.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/MoazSalem/litefin/releases/download/v2.10.0/Litefin-2.10.0-webOS-Legacy.ipk",
         "ipkHash": {
-          "sha256": "da2b03ee7a2021fd633dbea70ae8dfcc09f7c793ff39dcd83dd2f19daa0b64a8"
+          "sha256": "01f7ae7d9b9bd409c2f94b16096455d6d2933f512d16ada8e6b584b1313d7a2a"
         },
-        "ipkSize": 6353520
+        "ipkSize": 4032518
       },
       "pool": "main",
       "requirements": {
