@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 62,
+    "count": 63,
     "maxPage": 1,
-    "itemsTotal": 62,
+    "itemsTotal": 63,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -1032,38 +1032,6 @@
       "fullDescriptionUrl": "apps/com.barisahmet.kicktv/full_description.html"
     },
     {
-      "id": "org.xbmc.kodi",
-      "title": "Kodi",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
-      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.90.902.json",
-      "manifest": {
-        "id": "org.xbmc.kodi",
-        "title": "Kodi",
-        "version": "21.90.902",
-        "type": "native",
-        "appDescription": null,
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
-        "sourceUrl": "https://ghfast.top/https://github.com/xbmc/xbmc",
-        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_22.0~rc2.ipk",
-        "ipkHash": {
-          "sha256": "37ba63827be9ec0fda1ca2bd436d5276c40afb87c84b15f239245c0d7faed469"
-        },
-        "ipkSize": 104256680,
-        "installedSize": 242878722
-      },
-      "pool": "main",
-      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/xbmc/xbmc/master/media/icon256x256.png",
-      "requirements": {
-        "webosRelease": ">=4.0",
-        "deviceSoC": [
-          "!k5lp"
-        ]
-      },
-      "shortDescription": "Award-winning free and open source home theater/media center software",
-      "featured": true,
-      "fullDescriptionUrl": "apps/org.xbmc.kodi/full_description.html"
-    },
-    {
       "id": "org.webosbrew.appupdateblocker",
       "title": "LG App Update Blocker",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.appupdateblocker.png",
@@ -1167,6 +1135,59 @@
       },
       "shortDescription": "Native Jellyfin client for WebOS",
       "fullDescriptionUrl": "apps/org.litefin.app/full_description.html"
+    },
+    {
+      "id": "com.ecklf.luma",
+      "title": "Luma",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
+      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.0/com.ecklf.luma.manifest.json",
+      "manifest": {
+        "id": "com.ecklf.luma",
+        "version": "3.13.0",
+        "type": "native",
+        "title": "Luma",
+        "appDescription": "A remote-first native webOS launcher.",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
+        "sourceUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma",
+        "rootRequired": true,
+        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.0/com.ecklf.luma_3.13.0_arm.ipk",
+        "ipkHash": {
+          "sha256": "c2efc5b418286b299877eb2c72033f2185cd56174725598fd0f6b50d9cd3b7f7"
+        },
+        "ipkSize": 25252090
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ecklf/lg-luma/main/docs/home.png",
+          "caption": "Home screen (desktop preview)",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ecklf/lg-luma/main/docs/apps.png",
+          "caption": "App library (desktop preview)",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ecklf/lg-luma/main/docs/settings.png",
+          "caption": "General settings (desktop preview)",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ecklf/lg-luma/main/docs/inputs.png",
+          "caption": "Input settings (desktop preview)",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "shortDescription": "A remote-first native webOS launcher.",
+      "fullDescriptionUrl": "apps/com.ecklf.luma/full_description.html"
     },
     {
       "id": "org.moonfin.webos",
@@ -1987,6 +2008,33 @@
       },
       "shortDescription": null,
       "fullDescriptionUrl": "apps/com.github.cfernande1470.wireguard/full_description.html"
+    },
+    {
+      "id": "com.github.dangerouslaser.wolkeeper",
+      "title": "WoL Keeper",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.dangerouslaser.wolkeeper.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/dangerouslaser/wolkeeper/releases/download/v0.2.1/com.github.dangerouslaser.wolkeeper.manifest.json",
+      "manifest": {
+        "id": "com.github.dangerouslaser.wolkeeper",
+        "version": "0.2.1",
+        "type": "web",
+        "title": "WoL Keeper",
+        "appDescription": "Keep ethernet Wake-on-LAN working forever in standby (rooted TV with Homebrew Channel, webOS 22 or newer)",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.dangerouslaser.wolkeeper.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/dangerouslaser/wolkeeper",
+        "rootRequired": true,
+        "ipkUrl": "https://ghfast.top/https://github.com/dangerouslaser/wolkeeper/releases/download/v0.2.1/com.github.dangerouslaser.wolkeeper_0.2.1_all.ipk",
+        "ipkSize": 10758,
+        "ipkHash": {
+          "sha256": "aa1972d17e86f4f8800b76a462d623527c0603a4498e03366475f705f4437691"
+        }
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=7.0"
+      },
+      "shortDescription": "Keep ethernet Wake-on-LAN working forever in standby (rooted TV with Homebrew Channel, webOS 22 or newer)",
+      "fullDescriptionUrl": "apps/com.github.dangerouslaser.wolkeeper/full_description.html"
     },
     {
       "id": "youtube.leanback.v4",
