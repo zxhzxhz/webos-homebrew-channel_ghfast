@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 63,
+    "count": 64,
     "maxPage": 1,
-    "itemsTotal": 63,
+    "itemsTotal": 64,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -1030,6 +1030,38 @@
       ],
       "shortDescription": "Watch Kick livestreams on your LG webOS TV. Unofficial.",
       "fullDescriptionUrl": "apps/com.barisahmet.kicktv/full_description.html"
+    },
+    {
+      "id": "org.xbmc.kodi",
+      "title": "Kodi",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
+      "manifestUrl": "/api/apps/org.xbmc.kodi/manifests/21.90.902.json",
+      "manifest": {
+        "id": "org.xbmc.kodi",
+        "title": "Kodi",
+        "version": "21.90.902",
+        "type": "native",
+        "appDescription": null,
+        "iconUri": "https://repo.webosbrew.org/apps/icons/org.xbmc.kodi.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/xbmc/xbmc",
+        "ipkUrl": "https://mirrors.kodi.tv/releases/webos/org.xbmc.kodi-webos_22.0~rc2.ipk",
+        "ipkHash": {
+          "sha256": "37ba63827be9ec0fda1ca2bd436d5276c40afb87c84b15f239245c0d7faed469"
+        },
+        "ipkSize": 104256680,
+        "installedSize": 242878722
+      },
+      "pool": "main",
+      "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/xbmc/xbmc/master/media/icon256x256.png",
+      "requirements": {
+        "webosRelease": ">=4.0",
+        "deviceSoC": [
+          "!k5lp"
+        ]
+      },
+      "shortDescription": "Award-winning free and open source home theater/media center software",
+      "featured": true,
+      "fullDescriptionUrl": "apps/org.xbmc.kodi/full_description.html"
     },
     {
       "id": "org.webosbrew.appupdateblocker",
