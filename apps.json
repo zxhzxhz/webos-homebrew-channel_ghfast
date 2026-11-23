@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 64,
+    "count": 65,
     "maxPage": 1,
-    "itemsTotal": 64,
+    "itemsTotal": 65,
     "prevUrl": null,
     "nextUrl": null
   },
@@ -1278,22 +1278,22 @@
       "id": "com.ocenfin.app",
       "title": "OcenFin",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.19/com.ocenfin.app.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.22/com.ocenfin.app.manifest.json",
       "manifest": {
         "id": "com.ocenfin.app",
-        "version": "2026.11.19",
+        "version": "2026.11.22",
         "type": "web",
         "title": "OcenFin",
         "appDescription": "Jellyfin client for webOS",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ocenfin.app.png",
         "sourceUrl": "https://ghfast.top/https://github.com/seluce/OcenFin",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.19/com.ocenfin.app_2026.11.19_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/seluce/OcenFin/releases/download/2026.11.22/com.ocenfin.app_2026.11.22_all.ipk",
         "ipkHash": {
-          "sha256": "b2244c6a44e03551c50bac66c3fd6dea9780c168aa47a12cdcfb135346357af1"
+          "sha256": "c3571517da7b660796adb5f737a97756d4b56ae207ff16a3c757ce5000cfe1a0"
         },
-        "ipkSize": 2761270,
-        "installedSize": 5597952
+        "ipkSize": 2775382,
+        "installedSize": 5626404
       },
       "pool": "main",
       "requirements": {
@@ -1777,6 +1777,54 @@
       },
       "shortDescription": "A web-based Subsonic music player.",
       "fullDescriptionUrl": "apps/com.subsonic.player/full_description.html"
+    },
+    {
+      "id": "com.github.prijkes.tveroff",
+      "title": "TVerOff",
+      "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.prijkes.tveroff.png",
+      "manifestUrl": "https://ghfast.top/https://github.com/prijkes/TVerOff/releases/download/v0.1.2/com.github.prijkes.tveroff.manifest.json",
+      "manifest": {
+        "id": "com.github.prijkes.tveroff",
+        "version": "0.1.2",
+        "type": "web",
+        "title": "TVerOff",
+        "appDescription": "Ad-free playback patcher for the stock TVer app",
+        "iconUri": "https://repo.webosbrew.org/apps/icons/com.github.prijkes.tveroff.png",
+        "sourceUrl": "https://ghfast.top/https://github.com/prijkes/TVerOff",
+        "rootRequired": true,
+        "ipkUrl": "https://ghfast.top/https://github.com/prijkes/TVerOff/releases/download/v0.1.2/com.github.prijkes.tveroff_0.1.2_all.ipk",
+        "ipkHash": {
+          "sha256": "70d8edab5ee1695b8c8837973a408139d80a44b62c755c259495aeca9819a81a"
+        },
+        "ipkSize": 28688,
+        "installedSize": 101705
+      },
+      "pool": "main",
+      "requirements": {
+        "webosRelease": ">=11"
+      },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/prijkes/TVerOff/main/docs/ui.jpg",
+          "caption": "The TVerOff app",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/prijkes/TVerOff/main/docs/badge.jpg",
+          "caption": "Green badge while TVer starts playback, ad-free",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/prijkes/TVerOff/main/docs/toast.jpg",
+          "caption": "Confirmation toast when TVer opens with the patch active",
+          "width": 960,
+          "height": 540
+        }
+      ],
+      "shortDescription": "Ad-free playback patcher for the stock TVer app",
+      "fullDescriptionUrl": "apps/com.github.prijkes.tveroff/full_description.html"
     },
     {
       "id": "twitch.adamffdev.v1",
