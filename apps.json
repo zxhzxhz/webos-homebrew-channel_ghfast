@@ -291,20 +291,20 @@
       "id": "org.webosbrew.cccbib",
       "title": "CCCBib",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.cccbib.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.1.0/org.webosbrew.cccbib.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.2.0/org.webosbrew.cccbib.manifest.json",
       "manifest": {
         "id": "org.webosbrew.cccbib",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "type": "web",
         "title": "CCCBib",
         "appDescription": "media.ccc.de library application (EXPERIMENTAL)",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.cccbib.png",
         "sourceUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib",
-        "ipkUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.1.0/org.webosbrew.cccbib_1.1.0_all.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/volkovmqx/cccbib/releases/download/v1.2.0/org.webosbrew.cccbib_1.2.0_all.ipk",
         "ipkHash": {
-          "sha256": "636a23bccbd431e0e0c72f8959a253567821edae87fb82b43833118b982196f1"
+          "sha256": "f08f3a218e26bd91805790017e31b15ec8163b3045ce538afeb90c9d24b52fa7"
         },
-        "ipkSize": 639920
+        "ipkSize": 961242
       },
       "pool": "main",
       "requirements": {
@@ -1172,21 +1172,21 @@
       "id": "com.ecklf.luma",
       "title": "Luma",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
-      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.0/com.ecklf.luma.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.1/com.ecklf.luma.manifest.json",
       "manifest": {
         "id": "com.ecklf.luma",
-        "version": "3.13.0",
+        "version": "3.13.1",
         "type": "native",
         "title": "Luma",
         "appDescription": "A remote-first native webOS launcher.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
         "sourceUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.0/com.ecklf.luma_3.13.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.1/com.ecklf.luma_3.13.1_arm.ipk",
         "ipkHash": {
-          "sha256": "c2efc5b418286b299877eb2c72033f2185cd56174725598fd0f6b50d9cd3b7f7"
+          "sha256": "b7302f360aff892ed31b5c5d5b3b3b926d59783c8f730134ce6ec7849f756076"
         },
-        "ipkSize": 25252090
+        "ipkSize": 25258826
       },
       "pool": "main",
       "requirements": {
