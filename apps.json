@@ -639,21 +639,21 @@
       "id": "org.webosbrew.homechooser",
       "title": "Home Chooser",
       "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.homechooser.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.2.0/org.webosbrew.homechooser.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.3.0/org.webosbrew.homechooser.manifest.json",
       "manifest": {
         "id": "org.webosbrew.homechooser",
-        "version": "0.2.0",
+        "version": "0.3.0",
         "type": "web",
         "title": "Home Chooser",
         "appDescription": "Choose which app opens when you press Home",
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.homechooser.png",
         "sourceUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.2.0/org.webosbrew.homechooser_0.2.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/webosbrew/home-chooser/releases/download/v0.3.0/org.webosbrew.homechooser_0.3.0_arm.ipk",
         "ipkHash": {
-          "sha256": "8b0fdbc7732f4f68013c18c0024d88165c640550f3f5bef0514a72b7e8945c45"
+          "sha256": "638a5cb2b72e7c148c87928e56696f13d86f81156fdb54dd846edfd0acb02a58"
         },
-        "ipkSize": 522310
+        "ipkSize": 532284
       },
       "pool": "main",
       "requirements": {
@@ -1172,21 +1172,21 @@
       "id": "com.ecklf.luma",
       "title": "Luma",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
-      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.1/com.ecklf.luma.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.2/com.ecklf.luma.manifest.json",
       "manifest": {
         "id": "com.ecklf.luma",
-        "version": "3.13.1",
+        "version": "3.13.2",
         "type": "native",
         "title": "Luma",
         "appDescription": "A remote-first native webOS launcher.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
         "sourceUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.1/com.ecklf.luma_3.13.1_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.2/com.ecklf.luma_3.13.2_arm.ipk",
         "ipkHash": {
-          "sha256": "b7302f360aff892ed31b5c5d5b3b3b926d59783c8f730134ce6ec7849f756076"
+          "sha256": "d4d86db5ad32f6d507052f375a2163677af2a34f1ad11883ad77c6a7fbe7995b"
         },
-        "ipkSize": 25258826
+        "ipkSize": 25259936
       },
       "pool": "main",
       "requirements": {
