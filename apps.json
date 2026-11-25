@@ -1172,21 +1172,21 @@
       "id": "com.ecklf.luma",
       "title": "Luma",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
-      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.4/com.ecklf.luma.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.5/com.ecklf.luma.manifest.json",
       "manifest": {
         "id": "com.ecklf.luma",
-        "version": "3.13.4",
+        "version": "3.13.5",
         "type": "native",
         "title": "Luma",
         "appDescription": "A remote-first native webOS launcher.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
         "sourceUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.4/com.ecklf.luma_3.13.4_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.5/com.ecklf.luma_3.13.5_arm.ipk",
         "ipkHash": {
-          "sha256": "6f6896ded20318ae46873aa446028112c658a525f542459db3696efde85cedb8"
+          "sha256": "9f4ab5d07fafe5eaf67f19ca3c8848142b1e9373028d16ec41deb1694a7c48d6"
         },
-        "ipkSize": 25285152
+        "ipkSize": 25108242
       },
       "pool": "main",
       "requirements": {
