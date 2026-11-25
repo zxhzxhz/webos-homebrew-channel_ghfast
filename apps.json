@@ -341,21 +341,21 @@
       "id": "io.github.sarahahzub.chromium",
       "title": "Chromium Browser",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.sarahahzub.chromium.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.0/io.github.sarahahzub.chromium.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.1/io.github.sarahahzub.chromium.manifest.json",
       "manifest": {
         "id": "io.github.sarahahzub.chromium",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "type": "native",
         "title": "Chromium Browser",
         "appDescription": "Native Chromium with the full Chrome UI, GPU rendering and hardware video decoding",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.sarahahzub.chromium.png",
         "sourceUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.0/io.github.sarahahzub.chromium_1.1.0_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.1/io.github.sarahahzub.chromium_1.1.1_arm.ipk",
         "ipkHash": {
-          "sha256": "3b4c1fa1709271e3f92fcdd0c5cafd2257994285e617cbc6026259a978aaa294"
+          "sha256": "b8f3b38bc459be1939e10f75608cb847afb00d9624c36c6d2e47e05849a93463"
         },
-        "ipkSize": 110444476
+        "ipkSize": 110447448
       },
       "pool": "main",
       "requirements": {
@@ -1172,21 +1172,21 @@
       "id": "com.ecklf.luma",
       "title": "Luma",
       "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
-      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.3/com.ecklf.luma.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.4/com.ecklf.luma.manifest.json",
       "manifest": {
         "id": "com.ecklf.luma",
-        "version": "3.13.3",
+        "version": "3.13.4",
         "type": "native",
         "title": "Luma",
         "appDescription": "A remote-first native webOS launcher.",
         "iconUri": "https://repo.webosbrew.org/apps/icons/com.ecklf.luma.svg",
         "sourceUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma",
         "rootRequired": true,
-        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.3/com.ecklf.luma_3.13.3_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/ecklf/lg-luma/releases/download/v3.13.4/com.ecklf.luma_3.13.4_arm.ipk",
         "ipkHash": {
-          "sha256": "3f7343aed289b9dd1edbe7b6aa9dd6c55b218d322c9d41e2aa01d89d3a8b831c"
+          "sha256": "6f6896ded20318ae46873aa446028112c658a525f542459db3696efde85cedb8"
         },
-        "ipkSize": 25284468
+        "ipkSize": 25285152
       },
       "pool": "main",
       "requirements": {
