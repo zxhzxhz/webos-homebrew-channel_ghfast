@@ -341,21 +341,21 @@
       "id": "io.github.sarahahzub.chromium",
       "title": "Chromium Browser",
       "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.sarahahzub.chromium.png",
-      "manifestUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.1/io.github.sarahahzub.chromium.manifest.json",
+      "manifestUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.5/io.github.sarahahzub.chromium.manifest.json",
       "manifest": {
         "id": "io.github.sarahahzub.chromium",
-        "version": "1.1.1",
+        "version": "1.1.5",
         "type": "native",
         "title": "Chromium Browser",
         "appDescription": "Native Chromium with the full Chrome UI, GPU rendering and hardware video decoding",
         "iconUri": "https://repo.webosbrew.org/apps/icons/io.github.sarahahzub.chromium.png",
         "sourceUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium",
         "rootRequired": false,
-        "ipkUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.1/io.github.sarahahzub.chromium_1.1.1_arm.ipk",
+        "ipkUrl": "https://ghfast.top/https://github.com/sarahahzub/WebOS-Chromium/releases/download/v1.1.5/io.github.sarahahzub.chromium_1.1.5_arm.ipk",
         "ipkHash": {
-          "sha256": "b8f3b38bc459be1939e10f75608cb847afb00d9624c36c6d2e47e05849a93463"
+          "sha256": "c0fa15e8068d0367bd86c69999e71605e105689d555cb422138c60d4d83fd2c5"
         },
-        "ipkSize": 110447448
+        "ipkSize": 110448972
       },
       "pool": "main",
       "requirements": {
