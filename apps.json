@@ -1430,6 +1430,32 @@
       "requirements": {
         "webosRelease": ">=4.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/docs/screenshots/home.jpg",
+          "caption": "Home",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/docs/screenshots/library.jpg",
+          "caption": "Library",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/docs/screenshots/search.jpg",
+          "caption": "Search",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/docs/screenshots/player.jpg",
+          "caption": "Player",
+          "width": 1600,
+          "height": 900
+        }
+      ],
       "shortDescription": "Unofficial native Plex client - not affiliated with Plex",
       "fullDescriptionUrl": "apps/com.beb.plxnative/full_description.html"
     },
