@@ -29,10 +29,11 @@
         "ipkSize": 930444
       },
       "pool": "main",
+      "category": "game",
       "requirements": {
         "webosRelease": ">=4.0"
       },
-      "shortDescription": "Classic 2048 puzzle game ported for LG webOS TVs. Play directly on your TV using Magic Remote or D-Pad.",
+      "shortDescription": "The classic 2048 puzzle game, played with the remote",
       "fullDescriptionUrl": "apps/com.gabrielecirulli.app2048.webos/full_description.html"
     },
     {
@@ -56,6 +57,21 @@
         "ipkSize": 7465122
       },
       "pool": "main",
+      "category": "game",
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/b64c979f-7850-49e2-be21-c54bdbe8addc",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/21e05993-494e-41d8-9447-d4c3c5fff63d",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        }
+      ],
       "shortDescription": "Technical Demo for SpaceCadetPinball",
       "fullDescriptionUrl": "apps/com.github.k4zmu2a.space-cadet-pinball/full_description.html"
     },
@@ -80,6 +96,7 @@
         "ipkSize": 9663098
       },
       "pool": "main",
+      "category": "screensaver",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -132,6 +149,7 @@
         "ipkSize": 1292354
       },
       "pool": "main",
+      "category": "screensaver",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -155,7 +173,7 @@
           "height": 1080
         }
       ],
-      "shortDescription": null,
+      "shortDescription": "Screensaver with 190+ aerial videos, adjustable texts and custom fonts",
       "fullDescriptionUrl": "apps/org.rchalaaa.webos.custom-screensaver/full_description.html"
     },
     {
@@ -179,6 +197,7 @@
         "ipkSize": 2934448
       },
       "pool": "main",
+      "category": "multimedia",
       "shortDescription": "Amazon Prime Video Patcher",
       "fullDescriptionUrl": "apps/com.amazoff.patcher/full_description.html"
     },
@@ -203,10 +222,11 @@
         "installedSize": 206468
       },
       "pool": "main",
+      "category": "system",
       "requirements": {
         "webosRelease": ">=5.0"
       },
-      "shortDescription": null,
+      "shortDescription": "Keeps your Developer Mode session token refreshed automatically",
       "fullDescriptionUrl": "apps/com.pirate.refresh/full_description.html"
     },
     {
@@ -230,9 +250,36 @@
         "ipkSize": 749874
       },
       "pool": "main",
+      "category": "streaming",
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/asdf17128/bili-webos/ff4264586ac816a6d1d2bb44da84861a42988f86/docs/screenshots/v2/home.jpg",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/asdf17128/bili-webos/ff4264586ac816a6d1d2bb44da84861a42988f86/docs/screenshots/v2/navigation.jpg",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/asdf17128/bili-webos/ff4264586ac816a6d1d2bb44da84861a42988f86/docs/screenshots/v2/search.png",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/asdf17128/bili-webos/ff4264586ac816a6d1d2bb44da84861a42988f86/docs/screenshots/v2/settings.png",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "Bilibili client for webOS TV",
       "fullDescriptionUrl": "apps/com.biliwebos.app/full_description.html"
     },
@@ -257,6 +304,7 @@
         "ipkSize": 2934376
       },
       "pool": "main",
+      "category": "utility",
       "shortDescription": "Laugh in the face of the settings and disable Bluetooth anyway!",
       "fullDescriptionUrl": "apps/pl.krzywro.webos-bluetooth-disabler/full_description.html"
     },
@@ -281,6 +329,7 @@
         "ipkSize": 19700258
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=7.0"
       },
@@ -307,9 +356,24 @@
         "ipkSize": 961242
       },
       "pool": "main",
+      "category": "streaming",
       "requirements": {
         "webosRelease": ">=4.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/volkovmqx/cccbib/blob/main/.github/screenshots/screenshot1.png?raw=true",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/volkovmqx/cccbib/blob/main/.github/screenshots/screenshot2.png?raw=true",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "media.ccc.de library application (EXPERIMENTAL)",
       "fullDescriptionUrl": "apps/org.webosbrew.cccbib/full_description.html"
     },
@@ -334,6 +398,27 @@
         "ipkSize": 3215992
       },
       "pool": "main",
+      "category": "game",
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/afcccb0d-9c5c-4d74-8d29-6933e6493431",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/68a78619-e343-4b4f-9796-25af3ba45f0d",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/ea26b2b3-3c7e-4e10-9d7a-d34d45c3bc66",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        }
+      ],
       "shortDescription": "Technical Demo for Chocolate Doom",
       "fullDescriptionUrl": "apps/org.chocolate-doom.demo/full_description.html"
     },
@@ -358,6 +443,7 @@
         "ipkSize": 110448972
       },
       "pool": "main",
+      "category": "internet",
       "requirements": {
         "webosRelease": ">=4.4"
       },
@@ -393,7 +479,7 @@
           "height": 1080
         }
       ],
-      "shortDescription": "Native Chromium with the full Chrome UI, GPU rendering and hardware video decoding",
+      "shortDescription": "Chromium 151 with the full Chrome interface, made for the TV",
       "fullDescriptionUrl": "apps/io.github.sarahahzub.chromium/full_description.html"
     },
     {
@@ -417,6 +503,7 @@
         "ipkSize": 1241292
       },
       "pool": "main",
+      "category": "streaming",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mateussouzaweb/crunchyroll-webos/v1.8.0/src/images/512px.png",
       "requirements": {
         "webosRelease": ">=4.0"
@@ -445,6 +532,7 @@
         "ipkSize": 3028472
       },
       "pool": "main",
+      "category": "streaming",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -504,6 +592,21 @@
         "ipkSize": 780292
       },
       "pool": "main",
+      "category": "screensaver",
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/cbea1891-dd62-4bd9-9b0a-18d7022ba70f",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/57e9d952-b1fd-4459-9b79-5bf3fa0526fd",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        }
+      ],
       "shortDescription": "The last custom webOS Screensaver you will ever need",
       "fullDescriptionUrl": "apps/org.webosbrew.custom-screensaver/full_description.html"
     },
@@ -528,6 +631,7 @@
         "ipkSize": 9074018
       },
       "pool": "main",
+      "category": "multimedia",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -555,9 +659,48 @@
         "ipkSize": 303688
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=7.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/CheerChen/decotv-webos/03dba9765fa1e3c3a4bf9c3f9c3a6ceb2f479afb/assets/screenshots/home.en.webp",
+          "caption": "Home",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/CheerChen/decotv-webos/03dba9765fa1e3c3a4bf9c3f9c3a6ceb2f479afb/assets/screenshots/search.en.webp",
+          "caption": "Search",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/CheerChen/decotv-webos/03dba9765fa1e3c3a4bf9c3f9c3a6ceb2f479afb/assets/screenshots/library.en.webp",
+          "caption": "Library",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/CheerChen/decotv-webos/03dba9765fa1e3c3a4bf9c3f9c3a6ceb2f479afb/assets/screenshots/detail.en.webp",
+          "caption": "Details",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/CheerChen/decotv-webos/03dba9765fa1e3c3a4bf9c3f9c3a6ceb2f479afb/assets/screenshots/player.webp",
+          "caption": "Player",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/CheerChen/decotv-webos/03dba9765fa1e3c3a4bf9c3f9c3a6ceb2f479afb/assets/screenshots/settings.en.webp",
+          "caption": "Settings",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "DecoTV client for webOS \u2014 self-hosted server required",
       "fullDescriptionUrl": "apps/com.cheerchen.decotv/full_description.html"
     },
@@ -583,6 +726,7 @@
         "installedSize": 9977697
       },
       "pool": "main",
+      "category": "game",
       "shortDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
       "fullDescriptionUrl": "apps/com.halfbrick.fruitninja/full_description.html"
     },
@@ -606,6 +750,7 @@
         "installedSize": 5388612
       },
       "pool": "main",
+      "category": "multimedia",
       "screenshots": [
         {
           "url": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/Gallery3D/main/docs/webos/albums.webp",
@@ -632,7 +777,7 @@
           "height": 540
         }
       ],
-      "shortDescription": null,
+      "shortDescription": "The classic Android Froyo 3D photo gallery, for photos on a USB drive",
       "fullDescriptionUrl": "apps/me.mariotaku.gallery3d/full_description.html"
     },
     {
@@ -656,6 +801,7 @@
         "ipkSize": 532284
       },
       "pool": "main",
+      "category": "launcher",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -703,6 +849,15 @@
         "ipkSize": 1700280
       },
       "pool": "main",
+      "category": "system",
+      "screenshots": [
+        {
+          "url": "https://user-images.githubusercontent.com/13520633/149569503-c9e13f40-ec44-43f0-b330-94a8a26081e5.png",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "webOS Homebrew installer",
       "featured": true,
       "fullDescriptionUrl": "apps/org.webosbrew.hbchannel/full_description.html"
@@ -727,7 +882,16 @@
         "ipkSize": 209170
       },
       "pool": "main",
-      "shortDescription": null,
+      "category": "system",
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/e5b906ba-59a7-45af-aabb-c8afefec8d3a",
+          "caption": null,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "shortDescription": "Repairs and updates a broken Homebrew Channel installation",
       "fullDescriptionUrl": "apps/org.webosbrew.safeupdate/full_description.html"
     },
     {
@@ -751,6 +915,7 @@
         "ipkSize": 33555434
       },
       "pool": "main",
+      "category": "amblight",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -778,6 +943,7 @@
         "ipkSize": 27182462
       },
       "pool": "main",
+      "category": "amblight",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -805,6 +971,7 @@
         "ipkSize": 840266
       },
       "pool": "main",
+      "category": "screensaver",
       "shortDescription": "GIF screensaver for rooted LG webOS TVs",
       "fullDescriptionUrl": "apps/org.oted.idlegif/full_description.html"
     },
@@ -828,6 +995,7 @@
         "installedSize": 14454101
       },
       "pool": "main",
+      "category": "game",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/ihsplay/master/deploy/webos/largeIcon.png",
       "screenshots": [
         {
@@ -867,6 +1035,7 @@
         "ipkSize": 912494
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -894,6 +1063,7 @@
         "ipkSize": 1283358
       },
       "pool": "main",
+      "category": "homemedia",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/Seeky91/immich-tv-webos/main/assets/icon-source.png",
       "requirements": {
         "webosRelease": ">=5.0"
@@ -972,6 +1142,7 @@
         "ipkSize": 161556
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -999,6 +1170,7 @@
         "ipkSize": 324010
       },
       "pool": "main",
+      "category": "streaming",
       "requirements": {
         "webosRelease": ">=10.0"
       },
@@ -1052,6 +1224,7 @@
         "installedSize": 242878722
       },
       "pool": "main",
+      "category": "multimedia",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/xbmc/xbmc/master/media/icon256x256.png",
       "requirements": {
         "webosRelease": ">=4.0",
@@ -1084,6 +1257,7 @@
         "ipkSize": 75638
       },
       "pool": "main",
+      "category": "utility",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -1111,6 +1285,7 @@
         "ipkSize": 2872470
       },
       "pool": "main",
+      "category": "utility",
       "shortDescription": "LG Input Hook - Button remapper for TV remotes",
       "fullDescriptionUrl": "apps/org.webosbrew.inputhook/full_description.html"
     },
@@ -1135,9 +1310,18 @@
         "ipkSize": 151710
       },
       "pool": "main",
+      "category": "system",
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/lewisdoesstuff/lifesgoodwithoutspying/1aba228beaafc820c06271e8479aae51578dfe8c/assets/screenshot.png",
+          "caption": "The app's main screen on an LG G4 running webOS 9",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
       "fullDescriptionUrl": "apps/ooo.lew.lifesgoodwithoutspying/full_description.html"
     },
@@ -1162,9 +1346,18 @@
         "ipkSize": 4032518
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://github.com/user-attachments/assets/6ef405e1-e530-4b1e-a747-2a681576e827",
+          "caption": null,
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "Native Jellyfin client for WebOS",
       "fullDescriptionUrl": "apps/org.litefin.app/full_description.html"
     },
@@ -1189,6 +1382,7 @@
         "ipkSize": 25108242
       },
       "pool": "main",
+      "category": "launcher",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -1218,7 +1412,7 @@
           "height": 1080
         }
       ],
-      "shortDescription": "A remote-first native webOS launcher.",
+      "shortDescription": "A remote-first native launcher for rooted LG webOS TVs.",
       "fullDescriptionUrl": "apps/com.ecklf.luma/full_description.html"
     },
     {
@@ -1242,9 +1436,66 @@
         "ipkSize": 11397046
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/1-home.webp",
+          "caption": "Home screen with the featured media bar",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/2-playback.webp",
+          "caption": "Player with trickplay thumbnails and the subtitle menu",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/3-details.webp",
+          "caption": "The five detail screen styles",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/4-mediabars.webp",
+          "caption": "The six media bar styles",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/5-livetv.webp",
+          "caption": "Live TV guide, channel changer and player",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/6-navigation.webp",
+          "caption": "Top and Sidebar navigation",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/7-books-games.webp",
+          "caption": "Books library and retro game library",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/8-home-rows.webp",
+          "caption": "Modern and Classic home rows",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/Moonfin-Client/Smart-TV/062177c187b20c72fbd954cbf525e2ea51c045b6/images/9-music.webp",
+          "caption": "Music player with synced lyrics",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
       "shortDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
       "fullDescriptionUrl": "apps/org.moonfin.webos/full_description.html"
     },
@@ -1269,6 +1520,7 @@
         "installedSize": 4300994
       },
       "pool": "main",
+      "category": "game",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/moonlight-tv/main/res/moonlight_320.png",
       "shortDescription": "Open Source NVIDIA GameStream Client",
       "featured": true,
@@ -1296,9 +1548,66 @@
         "installedSize": 5626404
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=10.0"
       },
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/home.webp",
+          "caption": "OcenFin home screen",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/rows.webp",
+          "caption": "Home screen rows",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/library.webp",
+          "caption": "Library",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/details.webp",
+          "caption": "Title page",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/series.webp",
+          "caption": "Season page",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/player.webp",
+          "caption": "Player",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/screensaver.webp",
+          "caption": "Screensaver",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/profiles.webp",
+          "caption": "Profile selection",
+          "width": 1600,
+          "height": 900
+        },
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/seluce/OcenFin/bd287bc3d111ca8b7ff220d1ed1d86a4c632430d/docs/screenshots/settings.webp",
+          "caption": "Settings",
+          "width": 1600,
+          "height": 900
+        }
+      ],
       "shortDescription": "Jellyfin client for webOS",
       "fullDescriptionUrl": "apps/com.ocenfin.app/full_description.html"
     },
@@ -1323,10 +1632,11 @@
         "ipkSize": 58442
       },
       "pool": "main",
+      "category": "utility",
       "requirements": {
         "webosRelease": ">=4.0"
       },
-      "shortDescription": "An overlay app to quickly open webOS hidden service menus (inStart, ezAdjust, etc.) without interrupting the current app or HDMI input.\n\n//!// Do not change anything in the hidden menu unless you know what you are doing //!//\n\nApp made by Kzu.\nThanks!",
+      "shortDescription": "Opens webOS hidden service menus (inStart, ezAdjust) over the current app",
       "fullDescriptionUrl": "apps/com.open.hidden.menu/full_description.html"
     },
     {
@@ -1350,6 +1660,7 @@
         "installedSize": 409899008
       },
       "pool": "main",
+      "category": "game",
       "shortDescription": "Technical Demo for OpenTTD",
       "fullDescriptionUrl": "apps/com.leondrolio.x.openttd/full_description.html"
     },
@@ -1374,6 +1685,7 @@
         "ipkSize": 1015078
       },
       "pool": "main",
+      "category": "amblight",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -1401,6 +1713,7 @@
         "ipkSize": 22436
       },
       "pool": "main",
+      "category": "amblight",
       "shortDescription": "Movies - RakutenTV button",
       "fullDescriptionUrl": "apps/ui30/full_description.html"
     },
@@ -1426,6 +1739,7 @@
         "installedSize": 40097
       },
       "pool": "main",
+      "category": "homemedia",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/GLinnik21/plx-native/main/pkg/icon320.png",
       "requirements": {
         "webosRelease": ">=4.0"
@@ -1456,7 +1770,7 @@
           "height": 900
         }
       ],
-      "shortDescription": "Unofficial native Plex client - not affiliated with Plex",
+      "shortDescription": "A fast, native Plex client for LG webOS TVs \u2014 no browser",
       "fullDescriptionUrl": "apps/com.beb.plxnative/full_description.html"
     },
     {
@@ -1481,6 +1795,7 @@
         "installedSize": 27821412
       },
       "pool": "main",
+      "category": "game",
       "requirements": {
         "webosRelease": ">=4"
       },
@@ -1534,6 +1849,7 @@
         }
       },
       "pool": "main",
+      "category": "multimedia",
       "requirements": {
         "webosRelease": ">=5.3"
       },
@@ -1569,7 +1885,7 @@
           "height": 1440
         }
       ],
-      "shortDescription": "Open-source M3U media player (MIT). No channels, programmes, playlists or EPG data are included.",
+      "shortDescription": "Open-source M3U player with EPG, catch-up playback and remote-friendly controls.",
       "fullDescriptionUrl": "apps/com.qoder.iptv/full_description.html"
     },
     {
@@ -1593,6 +1909,7 @@
         "installedSize": 13379941
       },
       "pool": "main",
+      "category": "game",
       "shortDescription": "Emulation frontend",
       "fullDescriptionUrl": "apps/com.retroarch.webos/full_description.html"
     },
@@ -1616,6 +1933,7 @@
         "ipkSize": 24641862
       },
       "pool": "main",
+      "category": "game",
       "screenshots": [
         {
           "url": "https://ghfast.top/https://raw.githubusercontent.com/RF1705/scummvm-webos/main/docs/screenshots/scummvm-main.png",
@@ -1666,10 +1984,11 @@
         "ipkSize": 2109888
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=7.0"
       },
-      "shortDescription": "Cinema-inspired Music Assistant player for LG webOS TVs. Features dynamic album art theming, smooth progress tracking, and remote-optimized controls.",
+      "shortDescription": "Cinema-style Music Assistant player with album-art theming",
       "fullDescriptionUrl": "apps/com.sendspin.cinema/full_description.html"
     },
     {
@@ -1693,6 +2012,7 @@
         "ipkSize": 186622
       },
       "pool": "main",
+      "category": "streaming",
       "shortDescription": "SmartTwitchTV wrapper app for webOS with hosted compatibility bridge",
       "fullDescriptionUrl": "apps/com.tbsniller.smarttwitchwebostv/full_description.html"
     },
@@ -1717,6 +2037,7 @@
         "ipkSize": 14923906
       },
       "pool": "main",
+      "category": "system",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -1744,6 +2065,7 @@
         "ipkSize": 300004
       },
       "pool": "main",
+      "category": "streaming",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -1771,10 +2093,11 @@
         "ipkSize": 8757054
       },
       "pool": "main",
+      "category": "streaming",
       "requirements": {
         "webosRelease": ">=3.0"
       },
-      "shortDescription": "A native app for Stremio addons, written in C. You bring the account and addons; it ships empty. 28 languages. Unofficial.",
+      "shortDescription": "Native player for Stremio addons; bring your own account and addons",
       "fullDescriptionUrl": "apps/tv.stremioorigin.app/full_description.html"
     },
     {
@@ -1798,6 +2121,7 @@
         "ipkSize": 643392
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=7.0"
       },
@@ -1826,6 +2150,7 @@
         "installedSize": 101705
       },
       "pool": "main",
+      "category": "multimedia",
       "requirements": {
         "webosRelease": ">=11"
       },
@@ -1849,7 +2174,7 @@
           "height": 540
         }
       ],
-      "shortDescription": "Ad-free playback patcher for the stock TVer app",
+      "shortDescription": "Ad-free playback for the stock TVer app. One small file, no proxy, reversible.",
       "fullDescriptionUrl": "apps/com.github.prijkes.tveroff/full_description.html"
     },
     {
@@ -1872,10 +2197,19 @@
         "ipkSize": 354550
       },
       "pool": "main",
+      "category": "streaming",
       "requirements": {
         "webosRelease": ">=5.0"
       },
-      "shortDescription": null,
+      "screenshots": [
+        {
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/adamff-dev/twitch-adfree-webos/66efe6b89e7d21c67336443935e851182bd6eae6/screenshots/settings.png",
+          "caption": "Settings",
+          "width": 1601,
+          "height": 900
+        }
+      ],
+      "shortDescription": "Modded Twitch app that hides ads and claims channel points",
       "fullDescriptionUrl": "apps/twitch.adamffdev.v1/full_description.html"
     },
     {
@@ -1899,6 +2233,7 @@
         "ipkSize": 2162768
       },
       "pool": "main",
+      "category": "utility",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -1926,6 +2261,7 @@
         "ipkSize": 1454286
       },
       "pool": "main",
+      "category": "system",
       "requirements": {
         "webosRelease": ">=5.0"
       },
@@ -1953,6 +2289,7 @@
         "installedSize": 38069881
       },
       "pool": "main",
+      "category": "system",
       "requirements": {
         "webosRelease": ">=4.5"
       },
@@ -1980,6 +2317,7 @@
         "ipkSize": 827838
       },
       "pool": "main",
+      "category": "multimedia",
       "requirements": {
         "webosRelease": ">=4.0"
       },
@@ -2033,7 +2371,7 @@
           "height": 1080
         }
       ],
-      "shortDescription": "IPTV player with M3U, Xtream, XMLTV, and catch-up.",
+      "shortDescription": "IPTV player with M3U, Xtream, XMLTV EPG and catch-up.",
       "fullDescriptionUrl": "apps/com.lennylxx.iptv/full_description.html"
     },
     {
@@ -2057,10 +2395,11 @@
         "ipkSize": 1741212
       },
       "pool": "main",
+      "category": "utility",
       "requirements": {
         "webosRelease": ">=1.0"
       },
-      "shortDescription": "Native terminal emulator for rooted LG webOS TVs \u2014 run shell commands on your TV without a laptop.",
+      "shortDescription": "Native terminal for rooted TVs: run shell commands without a laptop",
       "fullDescriptionUrl": "apps/com.github.gprot42.webosterminal/full_description.html"
     },
     {
@@ -2083,10 +2422,11 @@
         "ipkSize": 1715254
       },
       "pool": "main",
+      "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
       },
-      "shortDescription": null,
+      "shortDescription": "Watch and record live TV from a TVHeadend server",
       "fullDescriptionUrl": "apps/com.willinux.tvh.app/full_description.html"
     },
     {
@@ -2109,10 +2449,11 @@
         "ipkSize": 3574970
       },
       "pool": "main",
+      "category": "utility",
       "requirements": {
         "webosRelease": ">=5.0"
       },
-      "shortDescription": null,
+      "shortDescription": "WireGuard VPN client for rooted TVs",
       "fullDescriptionUrl": "apps/com.github.cfernande1470.wireguard/full_description.html"
     },
     {
@@ -2136,10 +2477,11 @@
         }
       },
       "pool": "main",
+      "category": "utility",
       "requirements": {
         "webosRelease": ">=7.0"
       },
-      "shortDescription": "Keep ethernet Wake-on-LAN working forever in standby (rooted TV with Homebrew Channel, webOS 22 or newer)",
+      "shortDescription": "Keeps ethernet Wake-on-LAN working in standby indefinitely",
       "fullDescriptionUrl": "apps/com.github.dangerouslaser.wolkeeper/full_description.html"
     },
     {
@@ -2162,6 +2504,7 @@
         "ipkSize": 479722
       },
       "pool": "main",
+      "category": "streaming",
       "screenshots": [
         {
           "url": "https://ghfast.top/https://github.com/webosbrew/youtube-webos/blob/main/screenshots/1_sm.jpg?raw=true",
@@ -2176,7 +2519,7 @@
           "height": 720
         }
       ],
-      "shortDescription": null,
+      "shortDescription": "YouTube TV app with ad blocking and SponsorBlock",
       "fullDescriptionUrl": "apps/youtube.leanback.v4/full_description.html"
     }
   ]
