@@ -33,6 +33,10 @@
       "requirements": {
         "webosRelease": ">=4.0"
       },
+      "stats": {
+        "downloads": 3624,
+        "stars": 0
+      },
       "shortDescription": "The classic 2048 puzzle game, played with the remote",
       "fullDescriptionUrl": "apps/com.gabrielecirulli.app2048.webos/full_description.html"
     },
@@ -72,6 +76,10 @@
           "height": 720
         }
       ],
+      "stats": {
+        "downloads": 85521,
+        "stars": 35
+      },
       "shortDescription": "Technical Demo for SpaceCadetPinball",
       "fullDescriptionUrl": "apps/com.github.k4zmu2a.space-cadet-pinball/full_description.html"
     },
@@ -126,6 +134,10 @@
           "height": 705
         }
       ],
+      "stats": {
+        "downloads": 43118,
+        "stars": 31
+      },
       "shortDescription": "Aerial custom webOS Screensaver",
       "fullDescriptionUrl": "apps/org.aabytt.webos.custom-screensaver-aerial/full_description.html"
     },
@@ -173,6 +185,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 9890,
+        "stars": 1
+      },
       "shortDescription": "Screensaver with 190+ aerial videos, adjustable texts and custom fonts",
       "fullDescriptionUrl": "apps/org.rchalaaa.webos.custom-screensaver/full_description.html"
     },
@@ -198,6 +214,10 @@
       },
       "pool": "main",
       "category": "multimedia",
+      "stats": {
+        "downloads": 18466,
+        "stars": 46
+      },
       "shortDescription": "Amazon Prime Video Patcher",
       "fullDescriptionUrl": "apps/com.amazoff.patcher/full_description.html"
     },
@@ -225,6 +245,10 @@
       "category": "system",
       "requirements": {
         "webosRelease": ">=5.0"
+      },
+      "stats": {
+        "downloads": 92587,
+        "stars": 40
       },
       "shortDescription": "Keeps your Developer Mode session token refreshed automatically",
       "fullDescriptionUrl": "apps/com.pirate.refresh/full_description.html"
@@ -280,6 +304,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 16207,
+        "stars": 172
+      },
       "shortDescription": "Bilibili client for webOS TV",
       "fullDescriptionUrl": "apps/com.biliwebos.app/full_description.html"
     },
@@ -305,6 +333,10 @@
       },
       "pool": "main",
       "category": "utility",
+      "stats": {
+        "downloads": 14438,
+        "stars": 6
+      },
       "shortDescription": "Laugh in the face of the settings and disable Bluetooth anyway!",
       "fullDescriptionUrl": "apps/pl.krzywro.webos-bluetooth-disabler/full_description.html"
     },
@@ -332,6 +364,10 @@
       "category": "homemedia",
       "requirements": {
         "webosRelease": ">=7.0"
+      },
+      "stats": {
+        "downloads": 15882,
+        "stars": 72
       },
       "shortDescription": "Jellyfin client for LG webOS TVs, built with Enact Sandstone.",
       "fullDescriptionUrl": "apps/com.breezyfin.app/full_description.html"
@@ -374,6 +410,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 22613,
+        "stars": 19
+      },
       "shortDescription": "media.ccc.de library application (EXPERIMENTAL)",
       "fullDescriptionUrl": "apps/org.webosbrew.cccbib/full_description.html"
     },
@@ -419,6 +459,10 @@
           "height": 720
         }
       ],
+      "stats": {
+        "downloads": 50443,
+        "stars": 15
+      },
       "shortDescription": "Technical Demo for Chocolate Doom",
       "fullDescriptionUrl": "apps/org.chocolate-doom.demo/full_description.html"
     },
@@ -479,6 +523,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 7170,
+        "stars": 45
+      },
       "shortDescription": "Chromium 151 with the full Chrome interface, made for the TV",
       "fullDescriptionUrl": "apps/io.github.sarahahzub.chromium/full_description.html"
     },
@@ -507,6 +555,10 @@
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mateussouzaweb/crunchyroll-webos/v1.8.0/src/images/512px.png",
       "requirements": {
         "webosRelease": ">=4.0"
+      },
+      "stats": {
+        "downloads": 125212,
+        "stars": 99
       },
       "shortDescription": "Unofficial Crunchyroll app for WebOS TV",
       "fullDescriptionUrl": "apps/com.crunchyroll.webos/full_description.html"
@@ -568,6 +620,10 @@
           "height": 720
         }
       ],
+      "stats": {
+        "downloads": 38152,
+        "stars": 22
+      },
       "shortDescription": "Unofficial Crunchyroll app for LG Smart TVs.",
       "fullDescriptionUrl": "apps/com.crunchyroll.stream.app/full_description.html"
     },
@@ -607,6 +663,10 @@
           "height": 720
         }
       ],
+      "stats": {
+        "downloads": 58905,
+        "stars": 23
+      },
       "shortDescription": "The last custom webOS Screensaver you will ever need",
       "fullDescriptionUrl": "apps/org.webosbrew.custom-screensaver/full_description.html"
     },
@@ -634,6 +694,10 @@
       "category": "multimedia",
       "requirements": {
         "webosRelease": ">=4.0"
+      },
+      "stats": {
+        "downloads": 3386,
+        "stars": 6
       },
       "shortDescription": "Native decoder benchmark for rooted LG webOS TVs.",
       "fullDescriptionUrl": "apps/io.github.beatcracker.decoderbench/full_description.html"
@@ -701,6 +765,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 3175,
+        "stars": 1
+      },
       "shortDescription": "DecoTV client for webOS \u2014 self-hosted server required",
       "fullDescriptionUrl": "apps/com.cheerchen.decotv/full_description.html"
     },
@@ -727,6 +795,10 @@
       },
       "pool": "main",
       "category": "game",
+      "stats": {
+        "downloads": 12217,
+        "stars": 18
+      },
       "shortDescription": "The worldwide smash hit game Fruit Ninja is now available on webOS (unofficial)!",
       "fullDescriptionUrl": "apps/com.halfbrick.fruitninja/full_description.html"
     },
@@ -777,6 +849,10 @@
           "height": 540
         }
       ],
+      "stats": {
+        "downloads": 1915,
+        "stars": 0
+      },
       "shortDescription": "The classic Android Froyo 3D photo gallery, for photos on a USB drive",
       "fullDescriptionUrl": "apps/me.mariotaku.gallery3d/full_description.html"
     },
@@ -825,6 +901,10 @@
           "height": 540
         }
       ],
+      "stats": {
+        "downloads": 2648,
+        "stars": 8
+      },
       "shortDescription": "Choose which app opens when you press Home",
       "fullDescriptionUrl": "apps/org.webosbrew.homechooser/full_description.html"
     },
@@ -858,6 +938,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 743042,
+        "stars": 1825
+      },
       "shortDescription": "webOS Homebrew installer",
       "featured": true,
       "fullDescriptionUrl": "apps/org.webosbrew.hbchannel/full_description.html"
@@ -891,6 +975,10 @@
           "height": 720
         }
       ],
+      "stats": {
+        "downloads": 61598,
+        "stars": 9
+      },
       "shortDescription": "Repairs and updates a broken Homebrew Channel installation",
       "fullDescriptionUrl": "apps/org.webosbrew.safeupdate/full_description.html"
     },
@@ -918,6 +1006,10 @@
       "category": "amblight",
       "requirements": {
         "webosRelease": ">=4.0"
+      },
+      "stats": {
+        "downloads": 56260,
+        "stars": 63
       },
       "shortDescription": "HyperHDR for WebOS",
       "fullDescriptionUrl": "apps/org.webosbrew.hyperhdr.loader/full_description.html"
@@ -947,6 +1039,10 @@
       "requirements": {
         "webosRelease": ">=4.0"
       },
+      "stats": {
+        "downloads": 43159,
+        "stars": 15
+      },
       "shortDescription": "Hyperion.NG for WebOS",
       "fullDescriptionUrl": "apps/org.webosbrew.hyperion.ng.loader/full_description.html"
     },
@@ -972,6 +1068,10 @@
       },
       "pool": "main",
       "category": "screensaver",
+      "stats": {
+        "downloads": 4492,
+        "stars": 3
+      },
       "shortDescription": "GIF screensaver for rooted LG webOS TVs",
       "fullDescriptionUrl": "apps/org.oted.idlegif/full_description.html"
     },
@@ -1011,6 +1111,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 77852,
+        "stars": 383
+      },
       "shortDescription": "SDL2-based Steam Link client for webOS TV",
       "fullDescriptionUrl": "apps/org.mariotaku.ihsplay/full_description.html"
     },
@@ -1038,6 +1142,10 @@
       "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
+      },
+      "stats": {
+        "downloads": 7730,
+        "stars": 67
       },
       "shortDescription": "Browse your self-hosted Immich photo and video library on webOS TV.",
       "fullDescriptionUrl": "apps/com.immich.webos/full_description.html"
@@ -1118,6 +1226,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 8154,
+        "stars": 44
+      },
       "shortDescription": "Read-only Immich photo & video client for LG webOS TVs",
       "fullDescriptionUrl": "apps/com.seeky91.immichtv/full_description.html"
     },
@@ -1145,6 +1257,10 @@
       "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
+      },
+      "stats": {
+        "downloads": 110644,
+        "stars": 891
       },
       "shortDescription": "A webOS client to connect to a Jellyfin Server instance and stream media.",
       "fullDescriptionUrl": "apps/org.jellyfin.webos/full_description.html"
@@ -1200,6 +1316,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 1302,
+        "stars": 6
+      },
       "shortDescription": "Watch Kick livestreams on your LG webOS TV. Unofficial.",
       "fullDescriptionUrl": "apps/com.barisahmet.kicktv/full_description.html"
     },
@@ -1261,6 +1381,10 @@
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "stats": {
+        "downloads": 23070,
+        "stars": 12
+      },
       "shortDescription": "LG App Update Blocker - Let you run apps without being forced to update",
       "fullDescriptionUrl": "apps/org.webosbrew.appupdateblocker/full_description.html"
     },
@@ -1286,6 +1410,10 @@
       },
       "pool": "main",
       "category": "utility",
+      "stats": {
+        "downloads": 72435,
+        "stars": 111
+      },
       "shortDescription": "LG Input Hook - Button remapper for TV remotes",
       "fullDescriptionUrl": "apps/org.webosbrew.inputhook/full_description.html"
     },
@@ -1322,6 +1450,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 18998,
+        "stars": 84
+      },
       "shortDescription": "Switches off LG TV surveillance: ad delivery, ACR and always-on voice capture.",
       "fullDescriptionUrl": "apps/ooo.lew.lifesgoodwithoutspying/full_description.html"
     },
@@ -1358,6 +1490,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 29504,
+        "stars": 507
+      },
       "shortDescription": "Native Jellyfin client for WebOS",
       "fullDescriptionUrl": "apps/org.litefin.app/full_description.html"
     },
@@ -1412,6 +1548,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 10720,
+        "stars": 445
+      },
       "shortDescription": "A remote-first native launcher for rooted LG webOS TVs.",
       "fullDescriptionUrl": "apps/com.ecklf.luma/full_description.html"
     },
@@ -1496,6 +1636,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 33779,
+        "stars": 503
+      },
       "shortDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
       "fullDescriptionUrl": "apps/org.moonfin.webos/full_description.html"
     },
@@ -1522,6 +1666,10 @@
       "pool": "main",
       "category": "game",
       "detailIconUri": "https://ghfast.top/https://raw.githubusercontent.com/mariotaku/moonlight-tv/main/res/moonlight_320.png",
+      "stats": {
+        "downloads": 317712,
+        "stars": 1550
+      },
       "shortDescription": "Open Source NVIDIA GameStream Client",
       "featured": true,
       "fullDescriptionUrl": "apps/com.limelight.webos/full_description.html"
@@ -1608,6 +1756,10 @@
           "height": 900
         }
       ],
+      "stats": {
+        "downloads": 3192,
+        "stars": 29
+      },
       "shortDescription": "Jellyfin client for webOS",
       "fullDescriptionUrl": "apps/com.ocenfin.app/full_description.html"
     },
@@ -1636,6 +1788,10 @@
       "requirements": {
         "webosRelease": ">=4.0"
       },
+      "stats": {
+        "downloads": 8928,
+        "stars": 8
+      },
       "shortDescription": "Opens webOS hidden service menus (inStart, ezAdjust) over the current app",
       "fullDescriptionUrl": "apps/com.open.hidden.menu/full_description.html"
     },
@@ -1661,6 +1817,10 @@
       },
       "pool": "main",
       "category": "game",
+      "stats": {
+        "downloads": 12126,
+        "stars": 4
+      },
       "shortDescription": "Technical Demo for OpenTTD",
       "fullDescriptionUrl": "apps/com.leondrolio.x.openttd/full_description.html"
     },
@@ -1689,6 +1849,10 @@
       "requirements": {
         "webosRelease": ">=4.0"
       },
+      "stats": {
+        "downloads": 63577,
+        "stars": 429
+      },
       "shortDescription": "Hyperion Sender App - Ambilight for WebOS",
       "fullDescriptionUrl": "apps/org.webosbrew.piccap/full_description.html"
     },
@@ -1714,6 +1878,10 @@
       },
       "pool": "main",
       "category": "amblight",
+      "stats": {
+        "downloads": 22331,
+        "stars": 1
+      },
       "shortDescription": "Movies - RakutenTV button",
       "fullDescriptionUrl": "apps/ui30/full_description.html"
     },
@@ -1770,6 +1938,10 @@
           "height": 900
         }
       ],
+      "stats": {
+        "downloads": 14826,
+        "stars": 1305
+      },
       "shortDescription": "A fast, native Plex client for LG webOS TVs \u2014 no browser",
       "fullDescriptionUrl": "apps/com.beb.plxnative/full_description.html"
     },
@@ -1825,6 +1997,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 5465,
+        "stars": 41
+      },
       "shortDescription": "Punktfunk \u2014 low-latency desktop/game streaming client",
       "fullDescriptionUrl": "apps/io.unom.punktfunk.client-webos/full_description.html"
     },
@@ -1885,6 +2061,10 @@
           "height": 1440
         }
       ],
+      "stats": {
+        "downloads": 5792,
+        "stars": 7
+      },
       "shortDescription": "Open-source M3U player with EPG, catch-up playback and remote-friendly controls.",
       "fullDescriptionUrl": "apps/com.qoder.iptv/full_description.html"
     },
@@ -1910,6 +2090,10 @@
       },
       "pool": "main",
       "category": "game",
+      "stats": {
+        "downloads": 119145,
+        "stars": 48
+      },
       "shortDescription": "Emulation frontend",
       "fullDescriptionUrl": "apps/com.retroarch.webos/full_description.html"
     },
@@ -1960,6 +2144,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 690,
+        "stars": 6
+      },
       "shortDescription": "Classic adventure game engine",
       "fullDescriptionUrl": "apps/org.scummvm.scummvm/full_description.html"
     },
@@ -1988,6 +2176,10 @@
       "requirements": {
         "webosRelease": ">=7.0"
       },
+      "stats": {
+        "downloads": 5487,
+        "stars": 18
+      },
       "shortDescription": "Cinema-style Music Assistant player with album-art theming",
       "fullDescriptionUrl": "apps/com.sendspin.cinema/full_description.html"
     },
@@ -2013,6 +2205,10 @@
       },
       "pool": "main",
       "category": "streaming",
+      "stats": {
+        "downloads": 8761,
+        "stars": 5
+      },
       "shortDescription": "SmartTwitchTV wrapper app for webOS with hosted compatibility bridge",
       "fullDescriptionUrl": "apps/com.tbsniller.smarttwitchwebostv/full_description.html"
     },
@@ -2041,6 +2237,10 @@
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "stats": {
+        "downloads": 18375,
+        "stars": 11
+      },
       "shortDescription": "Force the TV sound mode to stay on the one you want",
       "fullDescriptionUrl": "apps/eu.depau.webos.soundmodefix/full_description.html"
     },
@@ -2068,6 +2268,10 @@
       "category": "streaming",
       "requirements": {
         "webosRelease": ">=4.0"
+      },
+      "stats": {
+        "downloads": 40981,
+        "stars": 5
       },
       "shortDescription": "Minimal streaming.media.ccc.de player application (EXPERIMENTAL)",
       "fullDescriptionUrl": "apps/org.webosbrew.streamkatze/full_description.html"
@@ -2125,6 +2329,10 @@
       "requirements": {
         "webosRelease": ">=7.0"
       },
+      "stats": {
+        "downloads": 10796,
+        "stars": 7
+      },
       "shortDescription": "A web-based Subsonic music player.",
       "fullDescriptionUrl": "apps/com.subsonic.player/full_description.html"
     },
@@ -2174,6 +2382,10 @@
           "height": 540
         }
       ],
+      "stats": {
+        "downloads": 191,
+        "stars": 0
+      },
       "shortDescription": "Ad-free playback for the stock TVer app. One small file, no proxy, reversible.",
       "fullDescriptionUrl": "apps/com.github.prijkes.tveroff/full_description.html"
     },
@@ -2209,6 +2421,10 @@
           "height": 900
         }
       ],
+      "stats": {
+        "downloads": 56147,
+        "stars": 79
+      },
       "shortDescription": "Modded Twitch app that hides ads and claims channel points",
       "fullDescriptionUrl": "apps/twitch.adamffdev.v1/full_description.html"
     },
@@ -2236,6 +2452,10 @@
       "category": "utility",
       "requirements": {
         "webosRelease": ">=4.0"
+      },
+      "stats": {
+        "downloads": 35035,
+        "stars": 31
       },
       "shortDescription": "webOS VNC Server",
       "fullDescriptionUrl": "apps/org.webosbrew.vncserver/full_description.html"
@@ -2265,6 +2485,10 @@
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "stats": {
+        "downloads": 23753,
+        "stars": 17
+      },
       "shortDescription": "OpenVPN Client with control UI.",
       "fullDescriptionUrl": "apps/com.sk.app.lgtv-vpn/full_description.html"
     },
@@ -2292,6 +2516,10 @@
       "category": "system",
       "requirements": {
         "webosRelease": ">=4.5"
+      },
+      "stats": {
+        "downloads": 5555,
+        "stars": 10
       },
       "shortDescription": "EGL/GLES/Wayland 64-bit bridge and userspace for webOS.",
       "fullDescriptionUrl": "apps/org.webosbrew.bridge-64to32/full_description.html"
@@ -2371,6 +2599,10 @@
           "height": 1080
         }
       ],
+      "stats": {
+        "downloads": 9366,
+        "stars": 173
+      },
       "shortDescription": "IPTV player with M3U, Xtream, XMLTV EPG and catch-up.",
       "fullDescriptionUrl": "apps/com.lennylxx.iptv/full_description.html"
     },
@@ -2399,6 +2631,10 @@
       "requirements": {
         "webosRelease": ">=1.0"
       },
+      "stats": {
+        "downloads": 8157,
+        "stars": 7
+      },
       "shortDescription": "Native terminal for rooted TVs: run shell commands without a laptop",
       "fullDescriptionUrl": "apps/com.github.gprot42.webosterminal/full_description.html"
     },
@@ -2425,6 +2661,10 @@
       "category": "homemedia",
       "requirements": {
         "webosRelease": ">=5.0"
+      },
+      "stats": {
+        "downloads": 86271,
+        "stars": 44
       },
       "shortDescription": "Watch and record live TV from a TVHeadend server",
       "fullDescriptionUrl": "apps/com.willinux.tvh.app/full_description.html"
@@ -2453,6 +2693,10 @@
       "requirements": {
         "webosRelease": ">=5.0"
       },
+      "stats": {
+        "downloads": 6076,
+        "stars": 9
+      },
       "shortDescription": "WireGuard VPN client for rooted TVs",
       "fullDescriptionUrl": "apps/com.github.cfernande1470.wireguard/full_description.html"
     },
@@ -2480,6 +2724,10 @@
       "category": "utility",
       "requirements": {
         "webosRelease": ">=7.0"
+      },
+      "stats": {
+        "downloads": 215,
+        "stars": 2
       },
       "shortDescription": "Keeps ethernet Wake-on-LAN working in standby indefinitely",
       "fullDescriptionUrl": "apps/com.github.dangerouslaser.wolkeeper/full_description.html"
@@ -2519,6 +2767,10 @@
           "height": 720
         }
       ],
+      "stats": {
+        "downloads": 1046977,
+        "stars": 1614
+      },
       "shortDescription": "YouTube TV app with ad blocking and SponsorBlock",
       "fullDescriptionUrl": "apps/youtube.leanback.v4/full_description.html"
     }
